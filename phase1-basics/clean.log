@@ -1,0 +1,12 @@
+{"event": "summary", "ts": "2026-06-08T11:40:45", "raw": 9, "valid": 9, "invalid": 0, "unique": 8, "dropped_dup": 1, "corrections": 1, "forget_or_privacy": 0, "tool_anomalies": 1}
+{"event": "dedup_dropped", "ts": "2026-06-08T11:40:45", "id": "U001", "source": "user_behavior", "text": "帮我把 文档 导出成 PDF"}
+{"event": "user_correction", "ts": "2026-06-08T11:40:45", "uid": "U001", "from": "  嗯嗯…那个…帮我把　文档　导出成 PDF 吧！！  ", "to": "啊不是 word 是 wps 啦 @@@", "from_ts": "2026-06-02T09:15:00", "to_ts": "2026-06-02T09:16:00", "negated": "word", "chosen": "wps"}
+{"event": "tool_anomaly", "ts": "2026-06-08T11:40:45", "trace_id": "T-1002", "kind": "file_export", "text": "ERROR: path not found: /tmp/?.docx 呃", "flags": ["tool_failed", "unknown_path", "casual_text_in_error"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "T-1001", "source": "tool_result", "actor": "tool", "text": "OK: exported to /home/user/报告_final.pdf", "actions": ["strip_html×1", "normalize_ws×4"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "T-1002", "source": "tool_result", "actor": "tool", "text": "ERROR: path not found: /tmp/?.docx 呃", "actions": ["normalize_ws×5", "collapse_punct×1", "collapse_word:呃×1"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "T-1003", "source": "tool_result", "actor": "tool", "text": "麒麟 驱动安装：1) 打开设置中心 2) 嗯…点更新 3) reboot", "actions": ["strip_markdown×1", "normalize_ws×6", "collapse_punct×1", "fix_typo:设制→设置"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "U001", "source": "user_behavior", "actor": "user", "text": "帮我把 文档 导出成 PDF", "actions": ["normalize_ws×6", "collapse_punct×1", "collapse_word:嗯×1", "strip_leading_filler×2", "strip_trailing_mood×1"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "U001", "source": "user_behavior", "actor": "user", "text": "不是 word 是 wps", "actions": ["normalize_ws×5", "strip_leading_filler×1", "strip_trailing_mood×1"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "U002", "source": "user_behavior", "actor": "user", "text": "设置->隐私->清除缓存", "actions": ["strip_markdown×1"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "U003", "source": "user_behavior", "actor": "user", "text": "能不能别每次弹窗啊", "actions": ["strip_leading_filler×2", "strip_emoji×1"]}
+{"event": "record", "ts": "2026-06-08T11:40:45", "id": "U004", "source": "user_behavior", "actor": "user", "text": "然后帮我查一下那个麒麟系统怎么装驱动", "actions": ["collapse_word:然后×1"]}

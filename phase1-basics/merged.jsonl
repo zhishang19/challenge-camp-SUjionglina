@@ -1,0 +1,8 @@
+{"source": "tool_result", "id": "T-1001", "ts": "", "actor": "tool", "kind": "file_export", "status": "success", "text": "OK: exported to /home/user/报告_final.pdf", "latency_ms": 312}
+{"source": "tool_result", "id": "T-1002", "ts": "", "actor": "tool", "kind": "file_export", "status": "fail", "text": "ERROR: path not found: /tmp/?.docx 呃", "latency_ms": 890}
+{"source": "tool_result", "id": "T-1003", "ts": "", "actor": "tool", "kind": "web_search", "status": "success", "text": "麒麟 驱动安装：1) 打开设置中心 2) 嗯…点更新 3) reboot", "latency_ms": 1200}
+{"source": "user_behavior", "id": "U001", "ts": "2026-06-02T09:15:00", "actor": "user", "kind": "chat", "status": null, "text": "帮我把 文档 导出成 PDF", "latency_ms": null}
+{"source": "user_behavior", "id": "U001", "ts": "2026-06-02T09:16:00", "actor": "user", "kind": "chat", "status": null, "text": "不是 word 是 wps", "latency_ms": null}
+{"source": "user_behavior", "id": "U002", "ts": "2026-06-02T10:00:00", "actor": "user", "kind": "click", "status": null, "text": "设置->隐私->清除缓存", "latency_ms": null}
+{"source": "user_behavior", "id": "U003", "ts": "", "actor": "user", "kind": "chat", "status": null, "text": "能不能别每次弹窗啊", "latency_ms": null}
+{"source": "user_behavior", "id": "U004", "ts": "2026-06-02T14:30:00", "actor": "user", "kind": "voice", "status": null, "text": "然后帮我查一下那个麒麟系统怎么装驱动", "latency_ms": null}
