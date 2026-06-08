@@ -1,0 +1,92 @@
+[
+  {
+    "id": "T-501",
+    "tool": "file_export",
+    "status": "ok",
+    "output": "exported: /home/u001/月报_简洁版.pdf",
+    "exec_ms": 420,
+    "actions": [
+      "strip_html×1",
+      "normalize_ws×2"
+    ],
+    "needs_review": []
+  },
+  {
+    "id": "T-502",
+    "tool": "file_export",
+    "status": "ok",
+    "output": "exported: /home/u001/月报_详细版.pdf 嗯嗯完成啦",
+    "exec_ms": 510,
+    "actions": [
+      "normalize_ws×2",
+      "collapse_punct×1"
+    ],
+    "needs_review": [
+      "flags=casual_in_output"
+    ]
+  },
+  {
+    "id": "T-503",
+    "tool": "web_search",
+    "status": "error",
+    "output": "timeout after 3000ms … 网络那个不稳定",
+    "exec_ms": 3001,
+    "actions": [
+      "normalize_ws×4",
+      "collapse_punct×1"
+    ],
+    "needs_review": [
+      "flags=tool_failed,uncertain_path_or_text,casual_in_output"
+    ]
+  },
+  {
+    "id": "T-504",
+    "tool": "shell_exec",
+    "status": "ok",
+    "output": "kylin-driver-check: version 2.1.0 stdout: OK",
+    "exec_ms": 88,
+    "actions": [
+      "normalize_ws×4"
+    ],
+    "needs_review": []
+  },
+  {
+    "id": "T-505",
+    "tool": "calendar_write",
+    "status": "ok",
+    "output": "created event: 项目复盘 2026-06-05 15:00; attendee=[REDACTED:email]",
+    "exec_ms": 640,
+    "actions": [
+      "strip_html×1",
+      "normalize_ws×6",
+      "redact:email×1"
+    ],
+    "needs_review": []
+  },
+  {
+    "id": "T-506",
+    "tool": "file_export",
+    "status": "fail",
+    "output": "ERROR permission denied: /root/report.docx 嗯. retry? retry",
+    "exec_ms": 920,
+    "actions": [
+      "normalize_ws×6",
+      "collapse_punct×1"
+    ],
+    "needs_review": [
+      "flags=tool_failed,casual_in_output"
+    ]
+  },
+  {
+    "id": "T-507",
+    "tool": "memory_delete",
+    "status": "ok",
+    "output": "deleted candidate memory: email=[REDACTED:email] reason=forget_command",
+    "exec_ms": 77,
+    "actions": [
+      "normalize_ws×4",
+      "redact:email×1"
+    ],
+    "needs_review": []
+  }
+]

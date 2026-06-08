@@ -1,0 +1,15 @@
+{"event": "pipeline_start", "ts": "2026-06-08T12:51:15", "raw_dir": "D:\\\u65b0\u5efa\u6587\u4ef6\u5939 (13)\\raw\\d4"}
+{"event": "config_loaded", "keys": ["agent", "preferences_defaults", "security"]}
+{"event": "sensitive_patterns", "patterns": ["phone", "email"]}
+{"event": "forget_words", "words": ["\u522b\u8bb0\u4e0b\u6765", "\u4e0d\u8981\u4fdd\u5b58", "\u5fd8\u8bb0\u8fd9\u4e2a", "\u4e0d\u8981\u8bb0", "\u522b\u4fdd\u5b58"]}
+{"event": "chat_dedup_dropped", "id": "S100#u001#user#2026-06-04T09:00:00#9"}
+{"event": "user_correction", "negated": "\u7b80\u6d01", "chosen": "\u8be6\u7ec6\u7248", "uid": "u001"}
+{"event": "chat_summary", "rows": 15, "invalid": 0, "dup_dropped": 1, "corrections": 1}
+{"event": "pref_validation_failed", "row": 7, "missing": ["uid"]}
+{"event": "pref_summary", "raw": 12, "merged": 8, "invalid": 1, "conflicts": 3}
+{"event": "knowledge_noise", "snippet": "=== \u5783\u573e\u884c ==="}
+{"event": "knowledge_empty_or_garbage", "title": "(\u65e0\u6807\u9898)"}
+{"event": "knowledge_summary", "parsed": 5, "invalid": 1}
+{"event": "tool_dedup_dropped", "id": "T-506"}
+{"event": "tool_summary", "rows": 7, "invalid": 0, "anomaly": 2}
+{"event": "pipeline_end", "ts": "2026-06-08T12:51:15", "outputs": {"chats": "chats.json", "preferences": "preferences.json", "knowledge": "knowledge.json", "tool_results": "tool_results.json", "config_snapshot": "config_snapshot.json", "report": "report.md"}}

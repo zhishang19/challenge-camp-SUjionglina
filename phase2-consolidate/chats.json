@@ -1,0 +1,193 @@
+[
+  {
+    "id": "S100#u001#user#2026-06-04T09:00:00#1",
+    "session": "S100",
+    "uid": "u001",
+    "role": "user",
+    "text": "帮我把月报导出成PDF，要【简洁版】",
+    "ts": "2026-06-04T09:00:00",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×2",
+      "strip_lead_filler:嗯",
+      "strip_lead_filler:那个"
+    ]
+  },
+  {
+    "id": "S100#u001#assistant#2026-06-04T09:00:01#2",
+    "session": "S100",
+    "uid": "u001",
+    "role": "assistant",
+    "text": "好的，正在调用 file_export 工具",
+    "ts": "2026-06-04T09:00:01",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×2"
+    ]
+  },
+  {
+    "id": "S100#u001#tool#2026-06-04T09:00:03#3",
+    "session": "S100",
+    "uid": "u001",
+    "role": "tool",
+    "text": "SUCCESS path=/home/u001/月报_简洁版.pdf latency=420ms",
+    "ts": "2026-06-04T09:00:03",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×2"
+    ]
+  },
+  {
+    "id": "S100#u001#user#2026-06-04T09:01:00#4",
+    "session": "S100",
+    "uid": "u001",
+    "role": "user",
+    "text": "不对不对！要详细版 @@@ 不要简洁",
+    "ts": "2026-06-04T09:01:00",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×2",
+      "collapse_punct×1"
+    ]
+  },
+  {
+    "id": "S101#U002#user#2026-06-04T10:15:00#5",
+    "session": "S101",
+    "uid": "U002",
+    "role": "user",
+    "text": "以后回复能不能别用 emoji 啊",
+    "ts": "2026-06-04T10:15:00",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×3",
+      "strip_lead_filler:呃",
+      "strip_lead_filler:就是",
+      "strip_emoji×1"
+    ]
+  },
+  {
+    "id": "S101#U002#assistant#2026-06-04T10:15:30#6",
+    "session": "S101",
+    "uid": "U002",
+    "role": "assistant",
+    "text": "收到！我会尽量使用纯文本～",
+    "ts": "2026-06-04T10:15:30",
+    "needs_review": [],
+    "actions": []
+  },
+  {
+    "id": "S102#u003#user#2026-06-04T14:00:00#7",
+    "session": "S102",
+    "uid": "u003",
+    "role": "user",
+    "text": "帮我查：麒麟 系统 怎么 更新 驱动",
+    "ts": "2026-06-04T14:00:00",
+    "needs_review": [],
+    "actions": [
+      "normalize_ws×4",
+      "collapse_punct×1",
+      "fix_typo:奇麟→麒麟",
+      "collapse_word:然后×1",
+      "strip_mid_filler:然后"
+    ]
+  },
+  {
+    "id": "S102#u003#assistant#2026-06-04T14:00:05#8",
+    "session": "S102",
+    "uid": "u003",
+    "role": "assistant",
+    "text": "驱动更新步骤：打开设置→系统更新→检查更新",
+    "ts": "2026-06-04T14:00:05",
+    "needs_review": [],
+    "actions": [
+      "strip_markdown×1"
+    ]
+  },
+  {
+    "id": "S103#u004#user#2026-06-04T16:00:00#10",
+    "session": "S103",
+    "uid": "u004",
+    "role": "user",
+    "text": "我的邮箱是 [REDACTED:email] 别记下来啊",
+    "ts": "2026-06-04T16:00:00",
+    "needs_review": [
+      "forget_intent:别记下来"
+    ],
+    "actions": [
+      "normalize_ws×2",
+      "forget_intent:别记下来",
+      "redact:email×1"
+    ]
+  },
+  {
+    "id": "S104#U005#user#2026-06-04T17:20:00#11",
+    "session": "S104",
+    "uid": "U005",
+    "role": "user",
+    "text": "请把以后所有会议纪要都写成三段式：背景、决定、待办。这个可以记住",
+    "ts": "2026-06-04T17:20:00",
+    "needs_review": [],
+    "actions": []
+  },
+  {
+    "id": "S104#U005#assistant#2026-06-04T17:20:03#12",
+    "session": "S104",
+    "uid": "U005",
+    "role": "assistant",
+    "text": "已记录你的会议纪要格式偏好",
+    "ts": "2026-06-04T17:20:03",
+    "needs_review": [],
+    "actions": []
+  },
+  {
+    "id": "S104#U005#user#2026-06-04T17:22:00#13",
+    "session": "S104",
+    "uid": "U005",
+    "role": "user",
+    "text": "今天这次例外，给我 bullet 列表，不代表以后都这样",
+    "ts": "2026-06-04T17:22:00",
+    "needs_review": [
+      "temporary:这次例外"
+    ],
+    "actions": [
+      "normalize_ws×2",
+      "temporary:这次例外"
+    ]
+  },
+  {
+    "id": "S105#u006#user#2026-06-04 18:10#14",
+    "session": "S105",
+    "uid": "u006",
+    "role": "user",
+    "text": "密码重置流程：先在控制中心找账户，再点忘记密码。电话 [REDACTED:phone] 是我测试号，别保存",
+    "ts": "2026-06-04 18:10",
+    "needs_review": [
+      "forget_intent:别保存"
+    ],
+    "actions": [
+      "normalize_ws×4",
+      "forget_intent:别保存",
+      "redact:phone×1"
+    ]
+  },
+  {
+    "id": "S105#u006#assistant#2026-06-04T18:10:05#15",
+    "session": "S105",
+    "uid": "u006",
+    "role": "assistant",
+    "text": "收到，我只保留流程信息，不保存测试手机号",
+    "ts": "2026-06-04T18:10:05",
+    "needs_review": [],
+    "actions": []
+  },
+  {
+    "id": "S106#u003#user#2026-06-04T18:30:00#16",
+    "session": "S106",
+    "uid": "u003",
+    "role": "user",
+    "text": "刚才说错了，不是系统更新，是驱动管理器里检查更新。请用这个覆盖旧答案",
+    "ts": "2026-06-04T18:30:00",
+    "needs_review": [],
+    "actions": []
+  }
+]

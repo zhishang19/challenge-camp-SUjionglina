@@ -1,0 +1,62 @@
+# ---------- 凭据与敏感文件 ----------
+.env
+.env.*
+*.pem
+*.key
+*.pfx
+secrets/
+config/local.*
+credentials.json
+*.token
+api_keys.txt
+id_rsa
+id_rsa.pub
+known_hosts
+
+# ---------- Python 缓存与虚拟环境 ----------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+.venv/
+venv/
+env/
+ENV/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.tox/
+*.egg-info/
+build/
+dist/
+
+# ---------- 临时文件 / 编辑器 ----------
+*.swp
+*.swo
+*~
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+*.iml
+
+# ---------- 日志与中间产物（按需保留） ----------
+# 任务脚本每次运行都会重新生成，因此可加入忽略
+# phase1-basics/clean.log
+# phase1-basics/merged.jsonl
+# phase1-basics/clean_report.md
+# phase1-basics/clean_chat_sessions.csv
+# phase1-basics/clean_basic_report.md
+# 如需保留结果，请把对应行注释掉
+
+# ---------- 原始数据集 ----------
+# raw/ 目录下的样本数据来自赛题方，按需上传；如需全部忽略请取消下一行注释
+# raw/
+
+# ---------- 系统/上传缓存 ----------
+*.log
+!phase1-basics/clean.log
+!phase2-consolidate/clean.log

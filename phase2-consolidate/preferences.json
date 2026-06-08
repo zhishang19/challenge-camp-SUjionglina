@@ -1,0 +1,91 @@
+[
+  {
+    "pref_id": "P2",
+    "uid": "u001",
+    "pref_key": "output_style",
+    "pref_value": "详细、带数据表格",
+    "version": 2,
+    "note": "用户纠正 @@@",
+    "state": "corrected",
+    "needs_review": [
+      "conflict_with_default"
+    ]
+  },
+  {
+    "pref_id": "P3",
+    "uid": "U002",
+    "pref_key": "emoji_policy",
+    "pref_value": "禁用",
+    "version": 1,
+    "note": "句首有 呃…就是…",
+    "state": "explicit",
+    "needs_review": [
+      "conflict_with_default"
+    ]
+  },
+  {
+    "pref_id": "P4",
+    "uid": "u003",
+    "pref_key": "search_scope",
+    "pref_value": "麒麟系统/驱动",
+    "version": 1,
+    "note": "含错别字 麒麟",
+    "state": "explicit",
+    "needs_review": []
+  },
+  {
+    "pref_id": "P6",
+    "uid": "",
+    "pref_key": "security_level",
+    "pref_value": "高",
+    "version": 1,
+    "note": "uid 缺失",
+    "state": "explicit",
+    "needs_review": [
+      "missing_required_fields",
+      "uid_missing"
+    ]
+  },
+  {
+    "pref_id": "P7",
+    "uid": "U005",
+    "pref_key": "meeting_minutes_format",
+    "pref_value": "三段式：背景、决定、待办",
+    "version": 1,
+    "note": "用户明确要求记住",
+    "state": "explicit",
+    "needs_review": []
+  },
+  {
+    "pref_id": "P9",
+    "uid": "u002",
+    "pref_key": "emoji_policy",
+    "pref_value": "允许少量 emoji",
+    "version": 0,
+    "note": "管理员导入旧偏好，与用户表达冲突",
+    "state": "explicit",
+    "needs_review": [
+      "conflict_with_default"
+    ]
+  },
+  {
+    "pref_id": "P10",
+    "uid": "u006",
+    "pref_key": "privacy_policy",
+    "pref_value": "不保存测试手机号",
+    "version": 1,
+    "note": "从 S105 抽取",
+    "state": "explicit",
+    "needs_review": []
+  },
+  {
+    "pref_id": "P12",
+    "uid": "u003",
+    "pref_key": "driver_update_entry",
+    "pref_value": "驱动管理器",
+    "version": 2,
+    "note": "用户纠正，需覆盖旧知识",
+    "state": "corrected",
+    "needs_review": []
+  }
+]

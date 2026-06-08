@@ -1,0 +1,21 @@
+# phase2-consolidate 局部忽略
+# 与根目录 .gitignore 互补，专注本阶段产物
+
+# ---- 脚本与缓存 ----
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# ---- 临时日志（按需保留：clean.log 默认保留，pipeline 中间日志不提交） ----
+*.tmp
+*.bak
+
+# ---- IDE / 编辑器 ----
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db

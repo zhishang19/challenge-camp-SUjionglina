@@ -1,0 +1,4 @@
+# D4 pipeline 依赖
+# 全部使用 Python 3.10+ 标准库（pathlib、csv、json、re、shutil、tempfile、datetime、collections）
+# 不需要 pip install 任何第三方包；如需替换自带的极简 YAML 解析，可选：
+#   PyYAML>=6.0
