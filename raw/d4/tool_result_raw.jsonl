@@ -1,0 +1,8 @@
+{"trace":"T-501","tool":"file_export","status":"ok","raw_output":"exported: /home/u001/月报_简洁版.pdf\n\n<!--done-->","exec_ms":420}
+{"trace":"T-502","tool":"file_export","status":"ok","raw_output":"exported: /home/u001/月报_详细版.pdf  嗯嗯完成啦！！","exec_ms":510}
+{"trace":"T-503","tool":"web_search","status":"error","raw_output":"timeout after 3000ms …… 网络那个不稳定","exec_ms":3001}
+{"trace":"T-504","tool":"shell_exec","status":"ok","raw_output":"kylin-driver-check: version 2.1.0\nstdout: OK","exec_ms":88}
+{"trace":"T-505","tool":"calendar_write","status":"ok","raw_output":"created event: 项目复盘 2026-06-05 15:00; attendee=li@example.com <!--cache-hit:false-->","exec_ms":"640"}
+{"trace":"T-506","tool":"file_export","status":"fail","raw_output":"ERROR permission denied: /root/report.docx 嗯... retry? retry?","exec_ms":920}
+{"trace":"T-506","tool":"file_export","status":"fail","raw_output":"ERROR permission denied: /root/report.docx 嗯... retry? retry?","exec_ms":920}
+{"trace":"T-507","tool":"memory_delete","status":"ok","raw_output":"deleted candidate memory: email=zhangsan@example.com reason=forget_command","exec_ms":77}

@@ -1,0 +1,2790 @@
+pref_id,uid,pref_key,pref_value,version,note
+P-D04-00000,u0018,answer_style,就是 短句回复 [draft],v0,仅本次例外
+P-D04-00001,u0171,search_scope,稍等 仅本地知只库 <!-- cached -->,v1,重复记录
+P-D04-00002,u0674,meeting_minutes_format,help: 不超过200字 <!-- cached -->,v2,仅本次例外
+P-D04-00003,u0097,emoji_policy,我想想  纯文本 <!-- cached -->,v4,仅本次例外
+P-D04-00004,u0770,emoji_policy,就是 纯文本（口述）,v0,重复记录
+P-D04-00005,u0696,output_style,就是 <p>先结论后步骤</p>（口述）,v0,管理员导入旧偏好
+P-D04-00006,u0657,meeting_minutes_format,稍等 不超过200字 @@@,v3,用户明确表达
+P-D04-00007,u0202,output_style,嗯 简洁、少废话（口述）,v3,管理员导入旧偏好
+P-D04-00008,u0023,privacy_policy,嗯 ```敏感信息只用于本轮工具调用``` ENDEND,v1,用户明确表达
+P-D04-00009,u0544,answer_style,然后然后 祥细解释每一步原因（口述）,v4,用户明确表达
+P-D04-00010,u0616,output_style,嗯　详细、带数据表格 #todo,v1,仅本次例外
+P-D04-00011,u0376,search_scope,然后然后 仅本地知识库 😅,v2,用户纠正
+P-D04-00012,u0021,output_style,啊 简洁、少废话 😅,v4,用户明确表达
+P-D04-00013,u0121,privacy_policy,就是  敏感信息只用于本轮工具调用 ENDEND,v2,用户明确表达
+P-D04-00014,u0690,emoji_policy,麻烦 默认允许 ENDEND,v2,管理员导入旧偏好
+P-D04-00015,u0483,privacy_policy,help: <<<< 敏感信息只用于本轮工具调用 >>>> ～,v0,重复记录
+P-D04-00016,u0062,privacy_policy,"　敏感信息只用于本轮工具调用
+cache=false #todo",v3,仅本次例外
+P-D04-00017,u0099,search_scope,"那个 奇麟系统/驱动
+
+<!--done-->（口述）",v2,用户明确表达
+P-D04-00018,u0606,output_style,  简洁、少废话 @@@,v2,重复记录
+P-D04-00019,u0496,emoji_policy,稍等　纯文本 😅,v1,重复记录
+P-D04-00020,u0512,answer_style,啊 先给结论，再给步骤 [draft],v4,重复记录
+P-D04-00021,u0672,meeting_minutes_format,呃 不超过200字……,v1,用户明确表达
+P-D04-00022,u0736,privacy_policy,稍等　不保存测试手机号！！！,v1,用户纠正
+P-D04-00023,u0265,search_scope,那个 办公软件/模板,v0,仅本次例外
+P-D04-00024,u0797,emoji_policy,其实 <p>纯文本</p> @@@,v4,用户明确表达
+P-D04-00025,u0539,meeting_minutes_format,　三段式：背景、决定、待办 ENDEND,v2,用户明确表达
+P-D04-00026,u0693,emoji_policy,然后然后 允许少量 emoji,v2,用户纠正
+P-D04-00027,u0663,search_scope,其实  麒麟系统/驱动！！！,v1,用户明确表达
+P-D04-00028,u0358,answer_style,我想想  详细解释每一步原因 😅,v1,重复记录
+P-D04-00029,u0588,output_style,啊　```先结论后步骤```……,v4,用户明确表达
+P-D04-00030,u0037,output_style," 先结论后步骤
+stdout: OK！！！",v4,管理员导入旧偏好
+P-D04-00031,u0436,meeting_minutes_format,然后然后 bullet 列表 <!-- cached -->,v2,管理员导入旧偏好
+P-D04-00032,u0263,emoji_policy,其实　允许少量 emoji #todo,v1,管理员导入旧偏好
+P-D04-00033,u0717,output_style,然后然后  详细、带数据表格 [draft],v0,用户纠正
+P-D04-00034,u0730,answer_style,[ASR] 短句回复 电话 13812345678,v4,用户纠正
+P-D04-00035,,output_style,嗯　简洁、少废话（口述）,v2,重复记录
+P-D04-00036,u0217,emoji_policy,就是　默认允许 😅,v1,用户明确表达
+P-D04-00037,u0441,answer_style,那个  详细解释每一步原因（口述）,v2,仅本次例外
+P-D04-00038,u0324,search_scope,help: <<<< 仅本地知识库 >>>> 😅,v2,重复记录
+P-D04-00039,u0393,output_style,就是 只给步骤 [draft],v2,仅本次例外
+P-D04-00040,u0043,answer_style,嗯 短句回复……,v2,仅本次例外
+P-D04-00041,u0796,privacy_policy,help: 敏感信息只用于本轮工具调用（口述）,v4,管理员导入旧偏好
+P-D04-00042,u0391,meeting_minutes_format, bullet 列表……,v0,管理员导入旧偏好
+P-D04-00043,u0187,meeting_minutes_format,[ASR] 不超过200字 [draft],v2,管理员导入旧偏好
+P-D04-00044,u0280,search_scope,  办公软件/模板 [draft],v0,用户明确表达
+P-D04-00045,u0166,meeting_minutes_format,稍等　三段式：背景、决定、待办……,v2,重复记录
+P-D04-00046,u0729,answer_style,呃 短句回复……,v1,用户明确表达
+P-D04-00047,u0293,output_style,麻烦　先结论后步骤 ～,v0,用户纠正
+P-D04-00048,u0488,answer_style,啊 先给结论，再给步骤 #todo,v3,用户明确表达
+P-D04-00049,u0789,privacy_policy,啊 敏感信息只用于本轮工具调用 #todo,v1,重复记录
+P-D04-00050,u0035,meeting_minutes_format, 三段式：背景、决定、待办 ～,v3,用户纠正
+P-D04-00051,u0324,answer_style,那个 **短句回复**（口述）,v0,管理员导入旧偏好
+P-D04-00052,u0109,answer_style, 短句回复,v4,仅本次例外
+P-D04-00053,u0043,emoji_policy,就是 纯文本（口述）,v4,仅本次例外
+P-D04-00054,u0680,emoji_policy,麻烦 纯文本（口述）,v3,管理员导入旧偏好
+P-D04-00055,u0540,privacy_policy,"啊 敏感信息只用于本轮工具调用
+cache=false [draft]",v4,重复记录
+P-D04-00056,u0252,answer_style,[ASR] 【祥细解释每一步原因】 ～,v0,管理员导入旧偏好
+P-D04-00057,u0438,output_style,然后然后　先结论后步骤 ENDEND,v4,用户明确表达
+P-D04-00058,u0718,output_style,嗯 简洁、少废话,v2,仅本次例外
+P-D04-00059,u0388,output_style,啊 先结论后步骤（口述）,v2,仅本次例外
+P-D04-00060,,meeting_minutes_format,  bullet 列表,v2,用户纠正
+P-D04-00061,u0106,privacy_policy,就是 不保存测试手机号 😅,v1,重复记录
+P-D04-00062,u0485,search_scope,然后然后 **办公软件/模板** [draft],v0,用户明确表达
+P-D04-00063,u0427,privacy_policy,稍等　不保存测试手机号 😅,v1,用户纠正
+P-D04-00064,u0175,meeting_minutes_format,稍等 不超过200字 😅,v0,用户明确表达
+P-D04-00065,u0773,emoji_policy,help: 纯文本 😅,v1,仅本次例外
+P-D04-00066,u0687,privacy_policy,"help: 不保存测试手机号
+cache=false [draft]",v4,用户明确表达
+P-D04-00067,u0250,privacy_policy,嗯 <<<< 敏感信息只用于本轮工具调用 >>>> #todo,v3,仅本次例外
+P-D04-00068,u0476,privacy_policy,嗯 不保存测试手机号（口述）,v4,管理员导入旧偏好
+P-D04-00069,u0240,meeting_minutes_format,然后然后 **三段式：背景、决定、待办** #todo,v2,用户纠正
+P-D04-00070,u0024,emoji_policy,[ASR] 禁用 #todo,v1,管理员导入旧偏好
+P-D04-00071,u0763,privacy_policy, 不保存测试手机号 #todo,v1,用户明确表达
+P-D04-00072,u0297,output_style,help: 先结论后步骤 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00073,u0734,meeting_minutes_format,"[ASR] 三段式：背景、决定、待办
+stdout: OK ～",v4,管理员导入旧偏好
+P-D04-00074,u0222,answer_style,呃 先给结论，再给步骤 @@@,v4,管理员导入旧偏好
+P-D04-00075,u0256,output_style,呃 先结论后步骤 😅,v3,管理员导入旧偏好
+P-D04-00076,u0563,meeting_minutes_format, <<<< 三段式：背景、决定、待办 >>>> <!-- cached -->,v1,重复记录
+P-D04-00077,u0446,privacy_policy,help: 敏感信息只用于本轮工具调用 😅,v2,管理员导入旧偏好
+P-D04-00078,u0771,answer_style,啊　**短句回复** #todo,v3,重复记录
+P-D04-00079,u0710,privacy_policy,help:  不保存测试手机号 😅,v3,仅本次例外
+P-D04-00080,u0398,emoji_policy,[ASR] 允许少量 emoji #todo,v3,仅本次例外
+P-D04-00081,u0189,emoji_policy,就是 禁用……,v3,用户明确表达
+P-D04-00082,u0164,output_style,我想想 **详细、带数据表格** #todo,v1,重复记录
+P-D04-00083,u0271,search_scope,我想想 仅本地知识库,v0,用户明确表达
+P-D04-00084,u0592,privacy_policy,"呃 不保存测试手机号
+
+<!--done-->！！！",v3,用户纠正
+P-D04-00085,u0177,output_style,其实 【只给步骤】（口述）,v0,用户明确表达
+P-D04-00086,u0217,meeting_minutes_format,[ASR] bullet 列表！！！,v3,用户明确表达
+P-D04-00087,u0003,privacy_policy,稍等 不保存测试手机号……,v3,用户明确表达
+P-D04-00088,u0514,meeting_minutes_format,"麻烦 不超过200字
+stdout: OK！！！",v3,用户纠正
+P-D04-00089,u0503,meeting_minutes_format,其实 【bullet 列表】 [draft],v1,管理员导入旧偏好
+P-D04-00090,u0517,answer_style,"啊 ```先给结论，再给步骤```
+cache=false [draft]",v3,用户明确表达
+P-D04-00091,u0452,output_style,呃 详细、带数据表格 [draft],v4,管理员导入旧偏好
+P-D04-00092,u0703,search_scope,呃 仅本地知识库 [draft],v2,管理员导入旧偏好
+P-D04-00093,u0637,privacy_policy,然后然后  不保存测试手机号 😅,v4,用户明确表达
+P-D04-00094,u0796,search_scope," 麒麟系统/驱动
+cache=false @@@",v0,管理员导入旧偏好
+P-D04-00095,u0089,output_style,然后然后 简洁、少废话！！！,v0,用户明确表达
+P-D04-00096,u0773,meeting_minutes_format,呃  bullet 列表！！！,v0,仅本次例外
+P-D04-00097,u0652,output_style,稍等 先结论后步骤 #todo,v2,重复记录
+P-D04-00098,u0361,output_style,我想想 祥细、带数据表格 [draft],v4,用户明确表达
+P-D04-00099,u0598,privacy_policy,"然后然后  敏感信息只用于本轮工具调用
+
+<!--done--> <!-- cached -->",v1,用户纠正
+P-D04-00100,u0272,meeting_minutes_format,[ASR]  三段式：背景、决定、待办（口述）,v4,仅本次例外
+P-D04-00101,u0526,answer_style,然后然后  详细解释每一步原因,v0,用户明确表达
+P-D04-00102,u0633,meeting_minutes_format,然后然后  三段式：背景、决定、待办 #todo,v3,用户明确表达
+P-D04-00103,,privacy_policy,[ASR]  敏感信息只用于本轮工具调用 <!-- cached -->,v2,用户纠正
+P-D04-00104,,meeting_minutes_format," 不超过200字
+
+<!--done--> ENDEND",v1,用户纠正
+P-D04-00105,u0563,answer_style,"稍等 短句回复
+cache=false 😅",v1,仅本次例外
+P-D04-00106,u0529,privacy_policy,麻烦 不保存测试手机号 @@@,v2,管理员导入旧偏好
+P-D04-00107,u0777,privacy_policy," 敏感信息只用于本轮工具调用
+cache=false <!-- cached -->",v2,重复记录
+P-D04-00108,u0451,search_scope,麻烦 <p>仅本地知识库</p> 😅,v0,用户纠正
+P-D04-00109,u0550,meeting_minutes_format,然后然后 【三段式：背景、决定、待办】！！！,v4,仅本次例外
+P-D04-00110,u0239,output_style,那个　<<<< 先结论后步骤 >>>>……,v1,管理员导入旧偏好
+P-D04-00111,u0590,privacy_policy,呃　敏感信息只用于本轮工具调用 ～,v2,重复记录
+P-D04-00112,u0219,answer_style,啊  短句回复……,v3,用户明确表达
+P-D04-00113,u0053,privacy_policy,我想想 不保存测试手机号……,v0,管理员导入旧偏好
+P-D04-00114,u0770,search_scope,啊 奇麟系统/驱动 #todo,v1,用户纠正
+P-D04-00115,u0212,search_scope,[ASR] 办公软件/模板（口述）,v2,用户纠正
+P-D04-00116,u0539,meeting_minutes_format, 不超过200字,v2,用户明确表达
+P-D04-00117,u0145,answer_style,然后然后 短句回复 <!-- cached -->,v3,用户明确表达
+P-D04-00118,u0742,privacy_policy,就是 不保存测试手机号……,v2,用户纠正
+P-D04-00119,u0599,search_scope,"啊 仅本地知只库
+cache=false……",v3,用户明确表达
+P-D04-00120,u0434,meeting_minutes_format,"然后然后 三段式：背景、决定、待办
+cache=false 😅",v0,仅本次例外
+P-D04-00121,u0239,output_style,呃 祥细、带数据表格,v2,用户明确表达
+P-D04-00122,u0657,meeting_minutes_format,那个  不超过200字 @@@,v4,用户明确表达
+P-D04-00123,u0126,search_scope,[ASR]　麒麟系统/驱动（口述）,v4,仅本次例外
+P-D04-00124,u0076,emoji_policy,那个 禁用（口述）,v1,用户明确表达
+P-D04-00125,u0784,meeting_minutes_format,呃 不超过200字 ～,v0,管理员导入旧偏好
+P-D04-00126,u0031,privacy_policy,我想想  不保存测试手机号 😅,v1,管理员导入旧偏好
+P-D04-00127,u0096,answer_style,啊 详细解释每一步原因 😅,v0,管理员导入旧偏好
+P-D04-00128,u0073,answer_style,那个 祥细解释每一步原因 😅,v2,重复记录
+P-D04-00129,u0026,emoji_policy,呃 默认允许 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-00130,u0310,answer_style,其实 先给结论，再给步骤,v2,用户明确表达
+P-D04-00131,u0325,output_style,"啊 祥细、带数据表格
+cache=false @@@",v0,仅本次例外
+P-D04-00132,u0626,answer_style,然后然后 短句回复（口述）,v2,重复记录
+P-D04-00133,u0552,output_style,我想想 **只给步骤**（口述）,v3,仅本次例外
+P-D04-00134,u0674,privacy_policy,稍等 不保存测试手机号（口述）,v1,重复记录
+P-D04-00135,u0248,privacy_policy,"稍等 不保存测试手机号
+cache=false #todo",v3,用户纠正
+P-D04-00136,u0273,answer_style,其实 祥细解释每一步原因,v2,重复记录
+P-D04-00137,u0307,meeting_minutes_format,其实  bullet 列表！！！,v0,重复记录
+P-D04-00138,u0048,meeting_minutes_format,help: 三段式：背景、决定、待办！！！,v2,仅本次例外
+P-D04-00139,u0008,emoji_policy,就是 默认允许！！！,v1,用户纠正
+P-D04-00140,u0586,answer_style,其实 ```短句回复``` <!-- cached -->,v4,仅本次例外
+P-D04-00141,u0044,output_style,我想想 详细、带数据表格 ENDEND,v0,管理员导入旧偏好
+P-D04-00142,u0491,privacy_policy,啊 敏感信息只用于本轮工具调用 😅,v3,重复记录
+P-D04-00143,u0011,meeting_minutes_format,然后然后  不超过200字,v1,仅本次例外
+P-D04-00144,u0105,output_style, 只给步骤 ～,v4,仅本次例外
+P-D04-00145,u0005,output_style,啊 简洁、少废话 #todo,v1,用户明确表达
+P-D04-00146,u0443,meeting_minutes_format,"呃 不超过200字
+cache=false ENDEND",v4,用户明确表达
+P-D04-00147,u0393,output_style,嗯 简洁、少废话 [draft],v2,仅本次例外
+P-D04-00148,u0034,output_style,其实 先结论后步骤 #todo,v4,用户纠正
+P-D04-00149,,emoji_policy,呃 <p>默认允许</p>！！！,v0,仅本次例外
+P-D04-00150,u0465,emoji_policy,然后然后 默认允许 #todo,v1,用户明确表达
+P-D04-00151,u0667,emoji_policy,其实 纯文本,v2,重复记录
+P-D04-00152,u0252,answer_style, 短句回复 @@@,v3,仅本次例外
+P-D04-00153,u0593,answer_style,啊 详细解释每一步原因 [draft],v2,管理员导入旧偏好
+P-D04-00154,u0740,privacy_policy,其实 【敏感信息只用于本轮工具调用】……,v1,重复记录
+P-D04-00155,u0470,privacy_policy,其实  不保存测试手机号,v3,管理员导入旧偏好
+P-D04-00156,u0090,emoji_policy,就是 允许少量　emoji！！！,v1,管理员导入旧偏好
+P-D04-00157,u0716,privacy_policy,嗯  不保存测试手机号……,v1,重复记录
+P-D04-00158,u0761,meeting_minutes_format,help:  三段式：背景、决定、待办 #todo,v0,管理员导入旧偏好
+P-D04-00159,u0054,search_scope,[ASR] 麒麟系统/驱动 😅,v3,重复记录
+P-D04-00160,u0659,emoji_policy,help: 禁用 ～,v4,重复记录
+P-D04-00161,u0517,meeting_minutes_format,那个  三段式：背景、决定、待办（口述）,v3,仅本次例外
+P-D04-00162,u0552,output_style,麻烦　只给步骤 ENDEND,v1,仅本次例外
+P-D04-00163,u0247,answer_style,呃  <p>先给结论，再给步骤</p> <!-- cached -->,v2,用户明确表达
+P-D04-00164,u0501,meeting_minutes_format,呃 **三段式：背景、决定、待办** ～,v3,仅本次例外
+P-D04-00165,u0758,output_style,help: 详细、带数据表格 #todo,v4,用户纠正
+P-D04-00166,u0019,meeting_minutes_format,"[ASR]　不超过200字
+
+<!--done--> [draft]",v3,仅本次例外
+P-D04-00167,u0210,emoji_policy,我想想 纯文本 [draft],v4,用户明确表达
+P-D04-00168,u0524,emoji_policy,那个 纯文本 [draft],v3,重复记录
+P-D04-00169,u0243,privacy_policy,然后然后 不保存测试手机号 ～,v4,用户纠正
+P-D04-00170,u0440,answer_style,啊 详细解释每一步原因 #todo,v0,用户纠正
+P-D04-00171,u0027,search_scope,其实 <p>仅本地知识库</p>,v0,管理员导入旧偏好
+P-D04-00172,u0656,emoji_policy,[ASR]  <p>允许少量　emoji</p>,v2,仅本次例外
+P-D04-00173,u0071,answer_style,呃  短句回复 😅,v3,用户纠正
+P-D04-00174,u0421,privacy_policy,稍等　不保存测试手机号 [draft],v2,管理员导入旧偏好
+P-D04-00175,u0142,answer_style,[ASR]　短句回复 😅,v3,重复记录
+P-D04-00176,u0528,search_scope,我想想 麒麟系统/驱动！！！,v4,重复记录
+P-D04-00177,u0540,output_style, 先结论后步骤 [draft],v3,用户明确表达
+P-D04-00178,u0348,emoji_policy,就是 默认允许……,v1,用户明确表达
+P-D04-00179,u0031,emoji_policy,麻烦  允许少量 emoji #todo,v0,用户明确表达
+P-D04-00180,u0309,meeting_minutes_format,其实　三段式：背景、决定、待办 ～,v2,用户明确表达
+P-D04-00181,u0649,privacy_policy,我想想 不保存测试手机号 [draft],v1,仅本次例外
+P-D04-00182,u0339,meeting_minutes_format,help: 不超过200字 ～,v1,用户纠正
+P-D04-00183,u0140,meeting_minutes_format,　不超过200字（口述）,v1,管理员导入旧偏好
+P-D04-00184,u0602,output_style,"然后然后 简洁、少废话
+
+<!--done--> ENDEND",v3,管理员导入旧偏好
+P-D04-00185,u0498,answer_style," 短句回复
+
+<!--done--> @@@",v1,重复记录
+P-D04-00186,u0158,privacy_policy,就是 不保存测试手机号 ～,v1,重复记录
+P-D04-00187,u0243,privacy_policy,然后然后 敏感信息只用于本轮工具调用 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00188,u0276,search_scope,麻烦 仅本地知识库 #todo,v2,用户纠正
+P-D04-00189,u0316,meeting_minutes_format,啊 ```bullet 列表``` ～,v4,重复记录
+P-D04-00190,u0067,search_scope,help: 办公软件/模板 @@@,v4,仅本次例外
+P-D04-00191,u0238,answer_style,那个 先给结论，再给步骤,v3,用户明确表达
+P-D04-00192,u0403,search_scope, 仅本地知识库！！！,v3,用户纠正
+P-D04-00193,u0036,privacy_policy,啊 敏感信息只用于本轮工具调用 @@@,v3,重复记录
+P-D04-00194,u0589,privacy_policy,help: 不保存测试手机号！！！,v0,用户明确表达
+P-D04-00195,u0567,meeting_minutes_format,help: 三段式：背景、决定、待办（口述）,v2,管理员导入旧偏好
+P-D04-00196,u0472,emoji_policy,麻烦　默认允许 ENDEND,v0,重复记录
+P-D04-00197,u0140,emoji_policy,呃 纯文本 #todo,v3,用户纠正
+P-D04-00198,u0275,answer_style,其实 先给结论，再给步骤 <!-- cached -->,v2,用户明确表达
+P-D04-00199,u0684,emoji_policy,help: 纯文本（口述）,v2,用户明确表达
+P-D04-00200,u0463,search_scope,麻烦 仅本地知只库（口述）,v1,用户明确表达
+P-D04-00201,u0438,emoji_policy,我想想 纯文本！！！,v0,仅本次例外
+P-D04-00202,u0084,privacy_policy,就是 不保存测试手机号,v2,仅本次例外
+P-D04-00203,u0433,search_scope,我想想 麒麟系统/驱动 [draft],v4,用户明确表达
+P-D04-00204,u0066,privacy_policy,然后然后 不保存测试手机号！！！,v0,用户纠正
+P-D04-00205,u0777,privacy_policy,就是 不保存测试手机号 😅,v1,重复记录
+P-D04-00206,u0014,emoji_policy,[ASR] 【默认允许】（口述）,v4,用户纠正
+P-D04-00207,u0260,search_scope,那个　仅本地知识库 [draft],v3,用户纠正
+P-D04-00208,u0424,emoji_policy,我想想 纯文本 #todo,v3,仅本次例外
+P-D04-00209,u0076,output_style,啊 简洁、少废话 @@@,v0,用户明确表达
+P-D04-00210,u0367,search_scope,嗯 仅本地知识库！！！,v2,用户纠正
+P-D04-00211,u0565,privacy_policy,我想想 <p>不保存测试手机号</p> #todo,v0,重复记录
+P-D04-00212,u0092,search_scope,help:  仅本地知识库 [draft],v4,管理员导入旧偏好
+P-D04-00213,u0773,search_scope,我想想　仅本地知识库（口述）,v1,用户纠正
+P-D04-00214,u0145,search_scope,我想想 仅本地知只库,v1,用户纠正
+P-D04-00215,u0485,output_style,其实  先结论后步骤 ENDEND,v4,管理员导入旧偏好
+P-D04-00216,u0700,output_style,那个 【详细、带数据表格】（口述）,v1,用户纠正
+P-D04-00217,u0004,meeting_minutes_format,呃 bullet 列表 ENDEND,v0,重复记录
+P-D04-00218,u0056,answer_style,我想想 **详细解释每一步原因** ENDEND,v2,重复记录
+P-D04-00219,u0431,output_style,啊　```先结论后步骤``` @@@,v3,重复记录
+P-D04-00220,u0119,meeting_minutes_format,啊 bullet 列表 ～,v3,管理员导入旧偏好
+P-D04-00221,u0328,search_scope,help: 麒麟系統系统/驱动,v4,用户明确表达
+P-D04-00222,u0426,output_style,那个 先结论后步骤 <!-- cached -->,v2,重复记录
+P-D04-00223,u0010,answer_style,那个 详细解释每一步原因……,v0,用户纠正
+P-D04-00224,u0213,privacy_policy,我想想 不保存测试手机号 ENDEND,v1,用户纠正
+P-D04-00225,u0106,search_scope,其实　仅本地知识库 😅,v0,用户明确表达
+P-D04-00226,u0275,output_style,help:　详细、带数据表格 [draft],v2,仅本次例外
+P-D04-00227,u0092,search_scope,其实 仅本地知识库（口述）,v2,重复记录
+P-D04-00228,u0480,output_style,那个 先结论后步骤 ～,v3,重复记录
+P-D04-00229,,privacy_policy,啊 敏感信息只用于本轮工具调用 ENDEND,v1,管理员导入旧偏好
+P-D04-00230,u0502,privacy_policy,啊　敏感信息只用于本轮工具调用 #todo,v1,用户纠正
+P-D04-00231,u0309,output_style,麻烦 只给步骤 @@@,v4,用户纠正
+P-D04-00232,u0145,output_style,然后然后 先结论后步骤 ENDEND,v2,用户明确表达
+P-D04-00233,u0059,answer_style,[ASR] 祥细解释每一步原因……,v2,用户明确表达
+P-D04-00234,u0095,output_style,嗯 简洁、少废话 #todo,v4,用户明确表达
+P-D04-00235,u0523,meeting_minutes_format,啊 不超过200字 电话 13812345678 <!-- cached -->,v1,用户明确表达
+P-D04-00236,u0100,search_scope,然后然后 奇麟系统/驱动,v3,用户纠正
+P-D04-00237,u0271,search_scope,其实 办公软件/模板 😅,v0,用户明确表达
+P-D04-00238,u0741,emoji_policy,[ASR] 【允许少量 emoji】 [draft],v3,重复记录
+P-D04-00239,u0363,search_scope,其实 办公软件/模板（口述）,v1,用户明确表达
+P-D04-00240,u0213,privacy_policy,麻烦　敏感信息只用于本轮工具调用 ～,v4,管理员导入旧偏好
+P-D04-00241,u0734,output_style,我想想 只给步骤！！！,v3,用户纠正
+P-D04-00242,u0273,privacy_policy,啊 **不保存测试手机号** ENDEND,v4,用户明确表达
+P-D04-00243,u0618,search_scope,稍等　```办公软件/模板```（口述）,v0,重复记录
+P-D04-00244,u0476,search_scope,help: 仅本地知识库 ～,v1,用户纠正
+P-D04-00245,u0693,answer_style," 短句回复
+
+<!--done-->",v0,用户纠正
+P-D04-00246,u0155,meeting_minutes_format,啊 bullet 列表……,v3,用户纠正
+P-D04-00247,u0586,emoji_policy,"然后然后　禁用
+cache=false ENDEND",v2,用户纠正
+P-D04-00248,u0730,output_style,[ASR] 简洁、少废话！！！,v0,重复记录
+P-D04-00249,u0741,meeting_minutes_format,麻烦  【三段式：背景、决定、待办】（口述）,v4,管理员导入旧偏好
+P-D04-00250,u0098,meeting_minutes_format,那个 【bullet 列表】 ENDEND,v1,管理员导入旧偏好
+P-D04-00251,u0067,search_scope,然后然后 办公软件/模板（口述）,v3,管理员导入旧偏好
+P-D04-00252,u0398,meeting_minutes_format,然后然后 三段式：背景、决定、待办 <!-- cached -->,v2,用户明确表达
+P-D04-00253,u0507,output_style, ```简洁、少废话```（口述）,v4,仅本次例外
+P-D04-00254,u0150,emoji_policy,麻烦 禁用,v3,管理员导入旧偏好
+P-D04-00255,u0506,emoji_policy,其实  禁用 ENDEND,v3,重复记录
+P-D04-00256,u0426,output_style,其实　简洁、少废话 @@@,v3,仅本次例外
+P-D04-00257,u0049,privacy_policy,我想想 敏感信息只用于本轮工具调用……,v3,管理员导入旧偏好
+P-D04-00258,u0420,answer_style,嗯 短句回复 [draft],v3,管理员导入旧偏好
+P-D04-00259,u0167,privacy_policy,我想想 敏感信息只用于本轮工具调用 <!-- cached -->,v1,用户纠正
+P-D04-00260,u0129,answer_style,我想想 详细解释每一步原因 <!-- cached -->,v3,用户明确表达
+P-D04-00261,u0678,emoji_policy,就是　允许少量 emoji,v0,用户明确表达
+P-D04-00262,u0278,meeting_minutes_format," 【bullet 列表】
+cache=false ENDEND",v0,用户明确表达
+P-D04-00263,u0417,answer_style,然后然后 短句回复！！！,v4,仅本次例外
+P-D04-00264,u0240,privacy_policy,麻烦 不保存测试手机号 ～,v3,用户纠正
+P-D04-00265,u0403,answer_style,然后然后 短句回复 @@@,v3,重复记录
+P-D04-00266,u0665,answer_style,然后然后 短句回复 [draft],v3,管理员导入旧偏好
+P-D04-00267,u0166,emoji_policy,嗯 允许少量 emoji <!-- cached -->,v4,重复记录
+P-D04-00268,u0096,emoji_policy,其实　默认允许！！！,v0,管理员导入旧偏好
+P-D04-00269,u0698,answer_style,麻烦　短句回复 [draft],v2,用户明确表达
+P-D04-00270,u0351,emoji_policy,就是 禁用 [draft],v2,用户纠正
+P-D04-00271,u0485,privacy_policy,就是 不保存测试手机号,v3,管理员导入旧偏好
+P-D04-00272,u0387,output_style,呃　简洁、少废话 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00273,u0259,answer_style,嗯 短句回复 ENDEND,v3,用户纠正
+P-D04-00274,u0005,search_scope,[ASR] 办公软件/模板 #todo,v3,用户明确表达
+P-D04-00275,u0240,emoji_policy,然后然后 禁用！！！,v1,用户纠正
+P-D04-00276,u0258,privacy_policy,嗯　敏感信息只用于本轮工具调用 <!-- cached -->,v3,用户明确表达
+P-D04-00277,u0703,emoji_policy,其实 纯文本（口述）,v4,用户纠正
+P-D04-00278,u0302,meeting_minutes_format,"help: 不超过200字
+
+<!--done-->……",v3,重复记录
+P-D04-00279,u0702,search_scope,我想想 仅本地知识库 ～,v0,用户纠正
+P-D04-00280,u0430,meeting_minutes_format,呃 bullet 列表 [draft],v2,用户明确表达
+P-D04-00281,u0505,meeting_minutes_format,其实 不超过200字……,v1,仅本次例外
+P-D04-00282,u0111,output_style,help: 简洁、少废话 @@@,v2,用户明确表达
+P-D04-00283,u0227,meeting_minutes_format,那个 不超过200字 #todo,v2,重复记录
+P-D04-00284,u0363,search_scope,"稍等  麒麟系统/驱动
+cache=false ENDEND",v3,重复记录
+P-D04-00285,u0208,privacy_policy,"呃 敏感信息只用于本轮工具调用
+cache=false 😅",v1,用户纠正
+P-D04-00286,u0777,answer_style,help: 详细解释每一步原因（口述）,v3,用户明确表达
+P-D04-00287,u0059,emoji_policy,呃 禁用！！！,v4,重复记录
+P-D04-00288,u0351,emoji_policy,help:  禁用,v4,管理员导入旧偏好
+P-D04-00289,u0781,search_scope,help:　办公软件/模板！！！,v1,用户纠正
+P-D04-00290,u0327,output_style,麻烦  详细、带数据表格 ENDEND,v2,用户纠正
+P-D04-00291,u0322,answer_style,"呃 ```详细解释每一步原因```
+
+<!--done-->！！！",v3,用户明确表达
+P-D04-00292,u0754,search_scope,[ASR] 办公软件/模板,v1,仅本次例外
+P-D04-00293,u0765,privacy_policy,其实 **不保存测试手机号**（口述）,v0,仅本次例外
+P-D04-00294,u0333,privacy_policy,啊  敏感信息只用于本轮工具调用……,v0,用户纠正
+P-D04-00295,u0331,privacy_policy,就是 敏感信息只用于本轮工具调用 #todo,v1,重复记录
+P-D04-00296,u0698,emoji_policy,那个 允许少量	emoji（口述）,v4,管理员导入旧偏好
+P-D04-00297,u0544,privacy_policy,啊 敏感信息只用于本轮工具调用……,v1,重复记录
+P-D04-00298,u0773,answer_style,然后然后 短句回复！！！,v1,用户明确表达
+P-D04-00299,u0453,meeting_minutes_format,麻烦 三段式：背景、决定、待办 ～,v0,用户纠正
+P-D04-00300,u0576,output_style,啊 祥细、带数据表格 ～,v1,管理员导入旧偏好
+P-D04-00301,u0705,meeting_minutes_format,稍等 bullet 列表 ENDEND,v1,仅本次例外
+P-D04-00302,,search_scope,"嗯 仅本地知识库
+stdout: OK 😅",v3,用户明确表达
+P-D04-00303,u0001,output_style,我想想 先结论后步骤（口述）,v4,用户纠正
+P-D04-00304,u0134,privacy_policy,help: 敏感信息只用于本轮工具调用 @@@,v2,仅本次例外
+P-D04-00305,u0471,emoji_policy,那个 禁用 ～,v4,重复记录
+P-D04-00306,u0666,answer_style,help:　先给结论，再给步骤,v0,用户明确表达
+P-D04-00307,u0744,emoji_policy,麻烦 纯文本 <!-- cached -->,v0,仅本次例外
+P-D04-00308,u0784,emoji_policy,啊 允许少量 emoji,v1,重复记录
+P-D04-00309,u0312,output_style,啊 简洁、少废话,v2,用户明确表达
+P-D04-00310,u0409,search_scope, 办公软件/模板 ENDEND,v1,仅本次例外
+P-D04-00311,u0679,emoji_policy, <<<< 默认允许 >>>>……,v2,重复记录
+P-D04-00312,u0228,output_style,其实 **详细、带数据表格** ～,v1,管理员导入旧偏好
+P-D04-00313,u0255,meeting_minutes_format,呃 bullet 列表……,v3,管理员导入旧偏好
+P-D04-00314,u0727,meeting_minutes_format,嗯  不超过200字！！！,v0,用户纠正
+P-D04-00315,u0749,answer_style,嗯 【短句回复】 [draft],v0,仅本次例外
+P-D04-00316,u0047,emoji_policy,就是 纯文本！！！,v3,用户纠正
+P-D04-00317,u0381,output_style,然后然后 详细、带数据表格,v2,用户纠正
+P-D04-00318,u0347,privacy_policy,呃  敏感信息只用于本轮工具调用 😅,v3,管理员导入旧偏好
+P-D04-00319,u0384,search_scope,"然后然后 仅本地知只库
+cache=false（口述）",v3,管理员导入旧偏好
+P-D04-00320,u0223,privacy_policy,然后然后 不保存测试手机号（口述）,v2,用户纠正
+P-D04-00321,u0712,output_style,麻烦 先结论后步骤,v2,用户明确表达
+P-D04-00322,u0034,output_style,那个 简洁、少废话 @@@,v2,重复记录
+P-D04-00323,u0299,emoji_policy,"那个 允许少量 emoji
+
+<!--done-->（口述）",v0,用户明确表达
+P-D04-00324,u0077,privacy_policy,那个 敏感信息只用于本轮工具调用,v1,仅本次例外
+P-D04-00325,,privacy_policy,help: **不保存测试手机号**……,v4,用户纠正
+P-D04-00326,u0719,privacy_policy,稍等 敏感信息只用于本轮工具调用,v2,重复记录
+P-D04-00327,u0373,output_style,[ASR] 详细、带数据表格（口述）,v3,管理员导入旧偏好
+P-D04-00328,u0022,answer_style,那个 先给结论，再给步骤 [draft],v1,用户明确表达
+P-D04-00329,u0304,meeting_minutes_format,其实 不超过200字（口述）,v1,用户纠正
+P-D04-00330,u0006,meeting_minutes_format,help: bullet 列表,v0,用户纠正
+P-D04-00331,u0204,emoji_policy,其实 允许少量 emoji 😅,v0,用户明确表达
+P-D04-00332,u0287,search_scope,[ASR] 仅本地知只库 ～,v1,仅本次例外
+P-D04-00333,u0697,answer_style,然后然后 短句回复 <!-- cached -->,v4,用户明确表达
+P-D04-00334,u0339,answer_style,help: 短句回复（口述）,v4,用户纠正
+P-D04-00335,u0309,privacy_policy,　不保存测试手机号（口述）,v4,仅本次例外
+P-D04-00336,u0780,meeting_minutes_format,其实 bullet 列表 [draft],v0,管理员导入旧偏好
+P-D04-00337,u0189,answer_style,稍等  先给结论，再给步骤（口述）,v2,重复记录
+P-D04-00338,u0456,search_scope,就是 仅本地知识库,v1,重复记录
+P-D04-00339,u0427,meeting_minutes_format,"我想想 三段式：背景、决定、待办
+
+<!--done-->（口述）",v4,重复记录
+P-D04-00340,u0701,emoji_policy,help: 禁用 😅,v4,仅本次例外
+P-D04-00341,u0509,privacy_policy,help: 不保存测试手机号 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00342,u0147,privacy_policy,然后然后 敏感信息只用于本轮工具调用（口述）,v0,用户纠正
+P-D04-00343,u0235,privacy_policy,"[ASR] 不保存测试手机号
+cache=false 😅",v0,管理员导入旧偏好
+P-D04-00344,u0719,meeting_minutes_format,嗯 不超过200字（口述）,v2,管理员导入旧偏好
+P-D04-00345,u0170,answer_style,呃 先给结论，再给步骤 #todo,v2,重复记录
+P-D04-00346,u0514,emoji_policy," ```纯文本```
+
+<!--done-->！！！",v4,重复记录
+P-D04-00347,u0445,privacy_policy,其实 敏感信息只用于本轮工具调用！！！,v2,用户明确表达
+P-D04-00348,u0180,meeting_minutes_format,呃 不超过200字 <!-- cached -->,v3,用户明确表达
+P-D04-00349,u0644,answer_style,[ASR] 短句回复！！！,v1,用户明确表达
+P-D04-00350,u0799,answer_style,呃 详细解释每一步原因 ～,v4,仅本次例外
+P-D04-00351,u0337,emoji_policy,其实 禁用 ～,v1,用户纠正
+P-D04-00352,u0100,privacy_policy,那个 不保存测试手机号 #todo,v0,管理员导入旧偏好
+P-D04-00353,u0798,output_style,我想想 ```先结论后步骤``` @@@,v1,管理员导入旧偏好
+P-D04-00354,u0077,answer_style,其实 先给结论，再给步骤,v2,管理员导入旧偏好
+P-D04-00355,u0156,output_style,嗯 详细、带数据表格 [draft],v2,重复记录
+P-D04-00356,u0287,meeting_minutes_format,help: 三段式：背景、决定、待办 ENDEND,v3,用户明确表达
+P-D04-00357,u0001,emoji_policy,我想想 允许少量 emoji 😅,v4,仅本次例外
+P-D04-00358,u0053,search_scope,呃 办公软件/模板 ENDEND,v3,仅本次例外
+P-D04-00359,u0294,meeting_minutes_format,其实　<p>bullet　列表</p> [draft],v2,管理员导入旧偏好
+P-D04-00360,u0322,emoji_policy,嗯 纯文本（口述）,v3,重复记录
+P-D04-00361,u0266,search_scope,稍等 ```麒麟系统/驱动```,v0,仅本次例外
+P-D04-00362,u0050,output_style,啊 简洁、少废话 <!-- cached -->,v2,用户明确表达
+P-D04-00363,u0318,output_style, 简洁、少废话 邮箱 user109@example.com（口述）,v0,管理员导入旧偏好
+P-D04-00364,u0176,emoji_policy,那个 禁用 <!-- cached -->,v4,重复记录
+P-D04-00365,u0466,search_scope,麻烦　办公软件/模板 😅,v4,仅本次例外
+P-D04-00366,u0154,privacy_policy,麻烦 【不保存测试手机号】 #todo,v2,用户纠正
+P-D04-00367,u0519,answer_style,麻烦 详细解释每一步原因 ENDEND,v2,用户纠正
+P-D04-00368,u0143,meeting_minutes_format,稍等 bullet 列表（口述）,v4,重复记录
+P-D04-00369,u0727,output_style,就是 只给步骤 [draft],v3,重复记录
+P-D04-00370,u0260,meeting_minutes_format,  【三段式：背景、决定、待办】……,v0,用户明确表达
+P-D04-00371,u0572,meeting_minutes_format, 不超过200字 ENDEND,v3,管理员导入旧偏好
+P-D04-00372,u0107,emoji_policy,"就是 ```允许少量 emoji```
+stdout: OK #todo",v4,用户明确表达
+P-D04-00373,u0320,search_scope,嗯 麒麟系统/驱动 [draft],v1,仅本次例外
+P-D04-00374,u0725,meeting_minutes_format,啊　三段式：背景、决定、待办,v2,仅本次例外
+P-D04-00375,u0295,search_scope,其实  办公软件/模板 <!-- cached -->,v2,仅本次例外
+P-D04-00376,,output_style,麻烦 详细、带数据表格 [draft],v1,管理员导入旧偏好
+P-D04-00377,u0183,privacy_policy,呃 不保存测试手机号 😅,v2,管理员导入旧偏好
+P-D04-00378,u0205,meeting_minutes_format,稍等  三段式：背景、决定、待办！！！,v4,重复记录
+P-D04-00379,u0369,output_style, 【简洁、少废话】 😅,v3,管理员导入旧偏好
+P-D04-00380,u0635,emoji_policy,"啊　允许少量 emoji
+cache=false 😅",v1,用户明确表达
+P-D04-00381,u0635,output_style,help: 只给步骤 ～,v1,用户明确表达
+P-D04-00382,u0415,search_scope,麻烦 办公软件/模板！！！,v1,管理员导入旧偏好
+P-D04-00383,u0651,meeting_minutes_format,"呃 三段式：背景、决定、待办
+stdout: OK（口述）",v2,仅本次例外
+P-D04-00384,u0441,output_style,麻烦 先结论后步骤！！！,v0,重复记录
+P-D04-00385,u0190,privacy_policy,[ASR] 不保存测试手机号 ENDEND,v3,仅本次例外
+P-D04-00386,u0750,search_scope,呃 仅本地知识库！！！,v2,仅本次例外
+P-D04-00387,u0549,privacy_policy,稍等 不保存测试手机号 ～,v4,仅本次例外
+P-D04-00388,u0017,search_scope,[ASR] 办公软件/模板（口述）,v3,管理员导入旧偏好
+P-D04-00389,u0433,search_scope,help: 麒麟系統系统/驱动 [draft],v0,管理员导入旧偏好
+P-D04-00390,u0027,emoji_policy,其实　默认允许 ～,v3,用户纠正
+P-D04-00391,u0306,answer_style,稍等 详细解释每一步原因 @@@,v4,管理员导入旧偏好
+P-D04-00392,u0704,meeting_minutes_format,啊 不超过200字 @@@,v1,用户明确表达
+P-D04-00393,u0125,answer_style,"我想想 短句回复
+
+<!--done-->（口述）",v1,管理员导入旧偏好
+P-D04-00394,u0505,search_scope,呃 **仅本地知只库** 😅,v2,仅本次例外
+P-D04-00395,u0615,meeting_minutes_format,[ASR] 三段式：背景、决定、待办（口述）,v0,用户纠正
+P-D04-00396,u0373,answer_style,其实 祥细解释每一步原因 😅,v0,用户明确表达
+P-D04-00397,u0172,emoji_policy,[ASR]　**禁用** [draft],v1,仅本次例外
+P-D04-00398,u0214,answer_style,稍等 祥细解释每一步原因！！！,v4,管理员导入旧偏好
+P-D04-00399,u0481,meeting_minutes_format,呃 不超过200字（口述）,v3,用户纠正
+P-D04-00400,u0099,emoji_policy,就是 禁用 ENDEND,v0,用户纠正
+P-D04-00401,u0589,output_style,[ASR]　<<<< 先结论后步骤 >>>> 😅,v3,仅本次例外
+P-D04-00402,u0618,output_style,啊  简洁、少废话（口述）,v0,用户纠正
+P-D04-00403,u0567,emoji_policy,然后然后 允许少量 emoji @@@,v1,用户明确表达
+P-D04-00404,u0097,privacy_policy,稍等 【不保存测试手机号】 😅,v4,用户明确表达
+P-D04-00405,u0109,search_scope,其实 仅本地知只库 <!-- cached -->,v4,用户纠正
+P-D04-00406,u0011,meeting_minutes_format,"呃 ```不超过200字```
+cache=false ～",v0,重复记录
+P-D04-00407,u0492,privacy_policy,那个 不保存测试手机号 ～,v2,用户纠正
+P-D04-00408,u0781,meeting_minutes_format,然后然后 三段式：背景、决定、待办 <!-- cached -->,v2,仅本次例外
+P-D04-00409,u0219,emoji_policy,稍等 禁用 ～,v2,仅本次例外
+P-D04-00410,u0261,answer_style, 详细解释每一步原因！！！,v3,重复记录
+P-D04-00411,u0166,meeting_minutes_format,然后然后 <p>三段式：背景、决定、待办</p>,v1,管理员导入旧偏好
+P-D04-00412,u0489,emoji_policy,就是 允许少量 emoji #todo,v0,重复记录
+P-D04-00413,u0240,search_scope,啊 麒麟系统/驱动！！！,v0,管理员导入旧偏好
+P-D04-00414,u0732,answer_style,啊 短句回复 #todo,v0,重复记录
+P-D04-00415,u0301,emoji_policy,就是 允许少量 emoji 😅,v3,用户明确表达
+P-D04-00416,u0141,meeting_minutes_format,啊 三段式：背景、决定、待办 @@@,v0,仅本次例外
+P-D04-00417,u0423,privacy_policy,　敏感信息只用于本轮工具调用 [draft],v0,用户明确表达
+P-D04-00418,u0559,search_scope,其实 仅本地知识库……,v4,用户纠正
+P-D04-00419,u0318,meeting_minutes_format,我想想 bullet 列表 😅,v2,重复记录
+P-D04-00420,u0540,search_scope,那个　```办公软件/模板``` ENDEND,v4,管理员导入旧偏好
+P-D04-00421,u0657,meeting_minutes_format,我想想 不超过200字,v1,重复记录
+P-D04-00422,u0571,output_style,稍等 先结论后步骤……,v3,用户纠正
+P-D04-00423,u0106,search_scope,稍等 麒麟系统/驱动 ENDEND,v3,用户明确表达
+P-D04-00424,u0283,answer_style,然后然后 【先给结论，再给步骤】 @@@,v0,仅本次例外
+P-D04-00425,u0632,emoji_policy,就是 纯文本 @@@,v4,用户明确表达
+P-D04-00426,u0417,emoji_policy,稍等 允许少量 emoji <!-- cached -->,v3,重复记录
+P-D04-00427,u0317,answer_style,然后然后 先给结论，再给步骤 <!-- cached -->,v2,用户纠正
+P-D04-00428,u0422,answer_style,麻烦 短句回复 ENDEND,v3,用户纠正
+P-D04-00429,u0472,output_style,麻烦 ```祥细、带数据表格``` @@@,v3,管理员导入旧偏好
+P-D04-00430,u0761,meeting_minutes_format,[ASR] 不超过200字……,v2,用户明确表达
+P-D04-00431,u0231,meeting_minutes_format,我想想 bullet 列表 @@@,v4,仅本次例外
+P-D04-00432,u0514,search_scope,啊 奇麟系统/驱动 #todo,v3,管理员导入旧偏好
+P-D04-00433,u0774,search_scope,其实 【麒麟系统/驱动】 #todo,v4,管理员导入旧偏好
+P-D04-00434,u0640,search_scope,[ASR] 仅本地知识库 <!-- cached -->,v2,用户明确表达
+P-D04-00435,u0177,meeting_minutes_format,help: bullet 列表！！！,v2,用户纠正
+P-D04-00436,u0063,answer_style,啊  先给结论，再给步骤 #todo,v3,用户纠正
+P-D04-00437,u0015,search_scope,那个 ```办公软件/模板``` 电话 13688889999,v2,管理员导入旧偏好
+P-D04-00438,u0532,privacy_policy,然后然后 不保存测试手机号 #todo,v1,重复记录
+P-D04-00439,u0081,meeting_minutes_format,[ASR] bullet 列表 😅,v1,用户明确表达
+P-D04-00440,u0551,privacy_policy,help: 敏感信息只用于本轮工具调用 #todo,v1,重复记录
+P-D04-00441,u0214,meeting_minutes_format,那个　bullet 列表 [draft],v4,用户纠正
+P-D04-00442,u0236,search_scope,那个 办公软件/模板（口述）,v0,用户明确表达
+P-D04-00443,u0686,emoji_policy,呃　禁用！！！,v3,用户纠正
+P-D04-00444,u0036,emoji_policy,其实　禁用 <!-- cached -->,v1,用户纠正
+P-D04-00445,u0344,emoji_policy, 禁用 ENDEND,v3,重复记录
+P-D04-00446,u0769,meeting_minutes_format,"help: 三段式：背景、决定、待办
+cache=false（口述）",v2,仅本次例外
+P-D04-00447,u0738,search_scope, 麒麟系统/驱动 ～,v3,用户纠正
+P-D04-00448,u0707,emoji_policy,就是 禁用 [draft],v4,用户纠正
+P-D04-00449,u0562,search_scope,那个 仅本地知识库 😅,v2,用户明确表达
+P-D04-00450,u0550,meeting_minutes_format,那个 不超过200字 😅,v0,用户纠正
+P-D04-00451,u0023,output_style,help: 简洁、少废话 <!-- cached -->,v3,用户纠正
+P-D04-00452,u0659,emoji_policy,其实　默认允许……,v1,管理员导入旧偏好
+P-D04-00453,u0434,meeting_minutes_format,稍等 三段式：背景、决定、待办 #todo,v2,用户纠正
+P-D04-00454,u0601,privacy_policy,其实 不保存测试手机号 ～,v0,重复记录
+P-D04-00455,u0753,output_style,稍等 简洁、少废话 😅,v0,用户明确表达
+P-D04-00456,u0440,answer_style,"那个  短句回复
+stdout: OK #todo",v3,用户纠正
+P-D04-00457,u0339,search_scope,"稍等 麒麟系统/驱动
+
+<!--done--> @@@",v0,用户纠正
+P-D04-00458,u0153,answer_style,"嗯　短句回复
+stdout: OK！！！",v1,用户明确表达
+P-D04-00459,u0567,answer_style,"help:  详细解释每一步原因
+stdout: OK <!-- cached -->",v3,重复记录
+P-D04-00460,u0257,privacy_policy,"我想想 不保存测试手机号
+
+<!--done--> ～",v4,用户明确表达
+P-D04-00461,u0471,emoji_policy,麻烦 允许少量 emoji <!-- cached -->,v1,重复记录
+P-D04-00462,u0125,privacy_policy,就是 不保存测试手机号 ～,v2,仅本次例外
+P-D04-00463,u0471,output_style,help:　祥细、带数据表格……,v0,用户明确表达
+P-D04-00464,u0518,output_style,那个　只给步骤 [draft],v3,管理员导入旧偏好
+P-D04-00465,u0065,search_scope,"其实  <<<< 麒麟系统/驱动 >>>>
+
+<!--done-->……",v4,用户纠正
+P-D04-00466,u0119,answer_style,然后然后  短句回复 ENDEND,v4,仅本次例外
+P-D04-00467,u0799,search_scope,　麒麟系统/驱动 <!-- cached -->,v2,用户明确表达
+P-D04-00468,u0079,privacy_policy,就是 敏感信息只用于本轮工具调用 ENDEND,v3,用户明确表达
+P-D04-00469,u0478,emoji_policy,那个 默认允许,v3,仅本次例外
+P-D04-00470,,search_scope,呃  仅本地知识库,v4,重复记录
+P-D04-00471,u0693,privacy_policy,那个 不保存测试手机号……,v2,用户纠正
+P-D04-00472,u0685,search_scope,那个 仅本地知识库！！！,v4,仅本次例外
+P-D04-00473,u0506,meeting_minutes_format,麻烦　三段式：背景、决定、待办 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-00474,u0423,emoji_policy,嗯 <<<< 默认允许 >>>> 电话 13688889999（口述）,v1,重复记录
+P-D04-00475,u0062,privacy_policy,其实 敏感信息只用于本轮工具调用！！！,v0,重复记录
+P-D04-00476,u0764,emoji_policy, 允许少量  emoji ENDEND,v1,重复记录
+P-D04-00477,u0624,answer_style,那个　详细解释每一步原因 [draft],v3,管理员导入旧偏好
+P-D04-00478,u0178,emoji_policy,我想想 禁用 @@@,v0,重复记录
+P-D04-00479,u0259,meeting_minutes_format,其实 不超过200字 ENDEND,v3,仅本次例外
+P-D04-00480,u0266,meeting_minutes_format,呃　不超过200字 #todo,v0,重复记录
+P-D04-00481,u0018,emoji_policy,"呃 纯文本
+stdout: OK……",v4,管理员导入旧偏好
+P-D04-00482,u0168,output_style, 先结论后步骤 #todo,v0,用户明确表达
+P-D04-00483,u0075,answer_style,"help:  详细解释每一步原因
+stdout: OK <!-- cached -->",v2,用户纠正
+P-D04-00484,u0260,search_scope,"其实 仅本地知只库
+stdout: OK <!-- cached -->",v0,用户纠正
+P-D04-00485,u0741,output_style,[ASR]  详细、带数据表格 <!-- cached -->,v1,用户明确表达
+P-D04-00486,u0251,privacy_policy,"呃 敏感信息只用于本轮工具调用
+cache=false",v3,管理员导入旧偏好
+P-D04-00487,u0224,output_style,那个 只给步骤 😅,v0,用户纠正
+P-D04-00488,u0145,meeting_minutes_format,麻烦 三段式：背景、决定、待办……,v2,用户明确表达
+P-D04-00489,u0260,privacy_policy,就是 <p>敏感信息只用于本轮工具调用</p> 电话 13900001111,v1,管理员导入旧偏好
+P-D04-00490,u0429,search_scope,就是 仅本地知识库,v3,用户明确表达
+P-D04-00491,u0491,search_scope,呃 办公软件/模板 ～,v3,仅本次例外
+P-D04-00492,,search_scope,help: 办公软件/模板！！！,v1,用户纠正
+P-D04-00493,u0271,emoji_policy,然后然后　允许少量 emoji <!-- cached -->,v2,重复记录
+P-D04-00494,u0628,emoji_policy,help:  允许少量 emoji ENDEND,v0,仅本次例外
+P-D04-00495,u0419,answer_style,"我想想 详细解释每一步原因
+cache=false [draft]",v4,用户明确表达
+P-D04-00496,u0140,search_scope,那个 办公软件/模板 😅,v3,用户纠正
+P-D04-00497,u0302,search_scope,就是 办公软件/模板 ～,v3,用户明确表达
+P-D04-00498,u0792,answer_style,然后然后 短句回复,v0,用户纠正
+P-D04-00499,u0293,output_style,其实　<<<< 详细、带数据表格 >>>> #todo,v3,管理员导入旧偏好
+P-D04-00500,u0550,privacy_policy,help:  【不保存测试手机号】 #todo,v3,用户纠正
+P-D04-00501,u0657,meeting_minutes_format,"[ASR] 三段式：背景、决定、待办
+cache=false [draft]",v3,重复记录
+P-D04-00502,u0104,privacy_policy,啊 不保存测试手机号 [draft],v0,管理员导入旧偏好
+P-D04-00503,u0185,search_scope, 办公软件/模板……,v2,重复记录
+P-D04-00504,u0574,privacy_policy,麻烦 不保存测试手机号 😅,v3,仅本次例外
+P-D04-00505,u0794,output_style,help: 只给步骤 [draft],v2,用户明确表达
+P-D04-00506,u0729,meeting_minutes_format,呃 不超过200字 [draft],v3,重复记录
+P-D04-00507,u0135,emoji_policy, 禁用 <!-- cached -->,v4,仅本次例外
+P-D04-00508,u0532,emoji_policy, 纯文本……,v2,重复记录
+P-D04-00509,u0703,output_style,呃 简洁、少废话,v1,管理员导入旧偏好
+P-D04-00510,u0607,privacy_policy,然后然后 敏感信息只用于本轮工具调用 ENDEND,v0,用户明确表达
+P-D04-00511,u0076,output_style,那个 先结论后步骤,v1,重复记录
+P-D04-00512,u0536,emoji_policy,我想想  允许少量 emoji [draft],v3,用户明确表达
+P-D04-00513,u0091,answer_style,我想想 先给结论，再给步骤 ENDEND,v3,用户明确表达
+P-D04-00514,u0648,output_style,就是  只给步骤,v1,用户纠正
+P-D04-00515,u0179,emoji_policy,呃 纯文本！！！,v2,用户纠正
+P-D04-00516,u0404,privacy_policy,就是 敏感信息只用于本轮工具调用（口述）,v2,用户纠正
+P-D04-00517,u0150,answer_style,"嗯 短句回复
+cache=false（口述）",v2,管理员导入旧偏好
+P-D04-00518,u0476,emoji_policy,help: 纯文本 @@@,v0,用户纠正
+P-D04-00519,u0452,search_scope,"嗯　仅本地知只库
+cache=false [draft]",v3,管理员导入旧偏好
+P-D04-00520,u0769,emoji_policy,"呃 纯文本
+stdout: OK……",v1,用户纠正
+P-D04-00521,u0750,output_style,"嗯 简洁、少废话
+cache=false（口述）",v3,仅本次例外
+P-D04-00522,u0726,answer_style,啊 详细解释每一步原因 ～,v4,用户明确表达
+P-D04-00523,u0678,meeting_minutes_format,呃 不超过200字（口述）,v1,用户纠正
+P-D04-00524,u0359,answer_style,啊 先给结论，再给步骤 @@@,v1,重复记录
+P-D04-00525,u0327,privacy_policy,我想想 不保存测试手机号,v0,用户纠正
+P-D04-00526,u0773,emoji_policy,啊 **默认允许** <!-- cached -->,v2,仅本次例外
+P-D04-00527,u0524,meeting_minutes_format,嗯 不超过200字 <!-- cached -->,v2,用户明确表达
+P-D04-00528,u0080,answer_style,就是 详细解释每一步原因……,v0,用户纠正
+P-D04-00529,u0295,search_scope,啊  办公软件/模板……,v4,用户明确表达
+P-D04-00530,u0071,output_style,呃 先结论后步骤……,v0,仅本次例外
+P-D04-00531,u0647,search_scope,呃 办公软件/模板 [draft],v3,用户明确表达
+P-D04-00532,u0207,answer_style, 先给结论，再给步骤 @@@,v0,用户纠正
+P-D04-00533,u0615,privacy_policy,啊 <p>不保存测试手机号</p>（口述）,v0,管理员导入旧偏好
+P-D04-00534,u0443,meeting_minutes_format,[ASR] bullet 列表 ～,v0,用户明确表达
+P-D04-00535,u0392,privacy_policy,然后然后 敏感信息只用于本轮工具调用 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00536,u0097,answer_style,我想想  <p>详细解释每一步原因</p>（口述）,v2,用户明确表达
+P-D04-00537,u0750,privacy_policy,其实 敏感信息只用于本轮工具调用,v1,仅本次例外
+P-D04-00538,u0640,answer_style,我想想 【先给结论，再给步骤】 ENDEND,v2,仅本次例外
+P-D04-00539,u0573,meeting_minutes_format,我想想 bullet 列表！！！,v2,管理员导入旧偏好
+P-D04-00540,u0713,search_scope, <p>办公软件/模板</p> <!-- cached -->,v1,用户明确表达
+P-D04-00541,u0759,output_style,那个 先结论后步骤 @@@,v3,用户明确表达
+P-D04-00542,u0414,output_style,然后然后 只给步骤 ～,v3,管理员导入旧偏好
+P-D04-00543,u0377,emoji_policy,其实 默认允许！！！,v4,管理员导入旧偏好
+P-D04-00544,u0769,answer_style,嗯 祥细解释每一步原因 ENDEND,v0,用户纠正
+P-D04-00545,u0479,meeting_minutes_format,麻烦 bullet 列表 邮箱 user114@example.com ENDEND,v1,重复记录
+P-D04-00546,u0268,search_scope,其实 麒麟系统/驱动,v1,仅本次例外
+P-D04-00547,u0224,answer_style,其实 先给结论，再给步骤！！！,v4,用户纠正
+P-D04-00548,u0705,output_style,然后然后 详细、带数据表格,v4,仅本次例外
+P-D04-00549,u0659,answer_style,help:　短句回复（口述）,v4,重复记录
+P-D04-00550,u0124,meeting_minutes_format,就是 不超过200字 #todo,v4,管理员导入旧偏好
+P-D04-00551,u0114,emoji_policy,我想想  默认允许 #todo,v0,用户明确表达
+P-D04-00552,u0689,search_scope,就是　办公软件/模板（口述）,v0,管理员导入旧偏好
+P-D04-00553,u0221,answer_style,我想想　详细解释每一步原因 ～,v3,仅本次例外
+P-D04-00554,u0203,privacy_policy,就是 敏感信息只用于本轮工具调用（口述）,v3,重复记录
+P-D04-00555,u0448,emoji_policy, 默认允许……,v0,管理员导入旧偏好
+P-D04-00556,u0780,emoji_policy,　【禁用】……,v4,用户明确表达
+P-D04-00557,u0744,output_style,"就是 祥细、带数据表格
+stdout: OK ENDEND",v4,用户明确表达
+P-D04-00558,u0514,meeting_minutes_format,呃 三段式：背景、决定、待办……,v1,用户纠正
+P-D04-00559,u0245,emoji_policy,help: 允许少量 emoji 😅,v0,用户明确表达
+P-D04-00560,u0408,search_scope,那个 其麟系统/驱动（口述）,v3,用户纠正
+P-D04-00561,,privacy_policy,稍等 敏感信息只用于本轮工具调用 <!-- cached -->,v2,用户纠正
+P-D04-00562,u0524,answer_style,然后然后　详细解释每一步原因 ENDEND,v3,用户纠正
+P-D04-00563,u0245,search_scope,"啊 奇麟系统/驱动
+cache=false（口述）",v4,仅本次例外
+P-D04-00564,u0019,search_scope,我想想 仅本地知识库 <!-- cached -->,v3,重复记录
+P-D04-00565,u0065,search_scope,稍等 <p>仅本地知识库</p>,v2,重复记录
+P-D04-00566,u0138,search_scope,[ASR] 仅本地知识库 @@@,v1,管理员导入旧偏好
+P-D04-00567,u0477,privacy_policy,我想想 敏感信息只用于本轮工具调用 电话 13900001111 <!-- cached -->,v3,用户明确表达
+P-D04-00568,u0104,privacy_policy,然后然后 ```敏感信息只用于本轮工具调用``` 😅,v0,用户明确表达
+P-D04-00569,u0411,meeting_minutes_format,"然后然后 不超过200字
+
+<!--done--> ENDEND",v1,仅本次例外
+P-D04-00570,u0079,emoji_policy,然后然后  允许少量 emoji ～,v2,重复记录
+P-D04-00571,u0219,search_scope,[ASR]  <<<< 麒麟系统/驱动 >>>> [draft],v4,用户纠正
+P-D04-00572,u0518,emoji_policy,嗯 纯文本,v4,重复记录
+P-D04-00573,,output_style,那个　简洁、少废话 @@@,v1,管理员导入旧偏好
+P-D04-00574,u0065,search_scope,那个 仅本地知识库 [draft],v0,用户明确表达
+P-D04-00575,u0554,emoji_policy,麻烦　禁用 #todo,v1,管理员导入旧偏好
+P-D04-00576,u0394,emoji_policy,[ASR] 默认允许,v1,管理员导入旧偏好
+P-D04-00577,u0106,emoji_policy,啊 允许少量 emoji 😅,v3,用户纠正
+P-D04-00578,u0335,answer_style,呃 先给结论，再给步骤！！！,v2,用户纠正
+P-D04-00579,u0192,privacy_policy,就是 <p>不保存测试手机号</p> [draft],v0,用户明确表达
+P-D04-00580,u0262,emoji_policy,其实 纯文本（口述）,v1,用户纠正
+P-D04-00581,u0019,meeting_minutes_format,我想想 <p>bullet 列表</p>……,v4,管理员导入旧偏好
+P-D04-00582,u0778,privacy_policy,就是 敏感信息只用于本轮工具调用 ENDEND,v1,仅本次例外
+P-D04-00583,u0479,privacy_policy,那个 敏感信息只用于本轮工具调用 <!-- cached -->,v1,用户纠正
+P-D04-00584,u0114,output_style,呃 先结论后步骤（口述）,v1,用户明确表达
+P-D04-00585,u0533,search_scope,嗯 办公软件/模板（口述）,v4,仅本次例外
+P-D04-00586,u0633,answer_style,help: 短句回复 😅,v3,用户纠正
+P-D04-00587,u0118,output_style,啊 先结论后步骤 ENDEND,v3,管理员导入旧偏好
+P-D04-00588,u0674,answer_style,呃 短句回复 @@@,v1,管理员导入旧偏好
+P-D04-00589,u0469,emoji_policy,就是 纯文本 [draft],v3,用户纠正
+P-D04-00590,u0578,meeting_minutes_format,稍等  **三段式：背景、决定、待办** ～,v4,用户明确表达
+P-D04-00591,u0233,search_scope,就是　办公软件/模板 😅,v3,用户明确表达
+P-D04-00592,u0275,search_scope,就是　麒麟系统/驱动 @@@,v1,用户明确表达
+P-D04-00593,u0740,privacy_policy,啊 不保存测试手机号 @@@,v2,用户明确表达
+P-D04-00594,u0705,output_style,就是　只给步骤 😅,v3,用户明确表达
+P-D04-00595,u0152,emoji_policy,麻烦 纯文本 😅,v3,管理员导入旧偏好
+P-D04-00596,u0132,meeting_minutes_format,其实 bullet 列表 @@@,v0,重复记录
+P-D04-00597,u0787,privacy_policy,呃 **不保存测试手机号**！！！,v2,仅本次例外
+P-D04-00598,u0551,meeting_minutes_format,"稍等 不超过200字
+cache=false（口述）",v3,管理员导入旧偏好
+P-D04-00599,u0031,output_style,就是 祥细、带数据表格 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-00600,u0142,output_style, 详细、带数据表格（口述）,v2,用户纠正
+P-D04-00601,u0472,search_scope,嗯  麒麟系统/驱动……,v3,重复记录
+P-D04-00602,u0012,answer_style,help: 详细解释每一步原因 😅,v1,仅本次例外
+P-D04-00603,u0540,output_style,啊 简洁、少废话 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-00604,u0090,meeting_minutes_format,其实 不超过200字！！！,v2,重复记录
+P-D04-00605,u0324,output_style,嗯 先结论后步骤 [draft],v0,管理员导入旧偏好
+P-D04-00606,u0149,meeting_minutes_format, bullet 列表 @@@,v3,用户明确表达
+P-D04-00607,u0751,privacy_policy,稍等 敏感信息只用于本轮工具调用,v2,管理员导入旧偏好
+P-D04-00608,u0728,search_scope,嗯 <<<< 仅本地知识库 >>>>！！！,v0,重复记录
+P-D04-00609,u0713,meeting_minutes_format,那个 bullet 列表……,v4,重复记录
+P-D04-00610,u0596,search_scope,啊 仅本地知只库 邮箱 user31@example.com ENDEND,v0,重复记录
+P-D04-00611,u0406,meeting_minutes_format, bullet 列表 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-00612,u0449,output_style,然后然后 先结论后步骤 [draft],v2,仅本次例外
+P-D04-00613,u0048,privacy_policy,那个 ```敏感信息只用于本轮工具调用``` ～,v3,用户明确表达
+P-D04-00614,u0082,emoji_policy,其实 禁用 <!-- cached -->,v3,重复记录
+P-D04-00615,u0109,meeting_minutes_format, bullet 列表 ～,v4,仅本次例外
+P-D04-00616,u0714,answer_style,我想想 短句回复……,v0,管理员导入旧偏好
+P-D04-00617,u0178,emoji_policy,就是 禁用 😅,v4,管理员导入旧偏好
+P-D04-00618,u0368,answer_style,那个 详细解释每一步原因 [draft],v0,用户明确表达
+P-D04-00619,u0211,output_style,啊  <<<< 只给步骤 >>>> <!-- cached -->,v3,用户明确表达
+P-D04-00620,u0515,search_scope,呃 办公软件/模板 ENDEND,v3,用户明确表达
+P-D04-00621,u0268,emoji_policy,麻烦  默认允许（口述）,v2,重复记录
+P-D04-00622,u0368,answer_style,麻烦 先给结论，再给步骤,v3,管理员导入旧偏好
+P-D04-00623,u0678,emoji_policy,help: **纯文本** #todo,v3,重复记录
+P-D04-00624,u0022,search_scope,啊　仅本地知只库 [draft],v2,仅本次例外
+P-D04-00625,u0695,meeting_minutes_format,"呃 bullet 列表
+
+<!--done-->（口述）",v2,仅本次例外
+P-D04-00626,u0330,privacy_policy,然后然后 不保存测试手机号……,v3,用户纠正
+P-D04-00627,u0571,answer_style,然后然后 先给结论，再给步骤 @@@,v4,用户纠正
+P-D04-00628,u0686,answer_style,[ASR] 详细解释每一步原因 <!-- cached -->,v1,仅本次例外
+P-D04-00629,u0694,answer_style,"稍等 短句回复
+stdout: OK <!-- cached -->",v1,用户明确表达
+P-D04-00630,u0416,privacy_policy,麻烦 不保存测试手机号（口述）,v3,用户明确表达
+P-D04-00631,u0008,search_scope,就是　办公软件/模板 电话 13688889999,v1,仅本次例外
+P-D04-00632,u0089,privacy_policy,嗯 敏感信息只用于本轮工具调用 @@@,v3,管理员导入旧偏好
+P-D04-00633,u0549,answer_style,然后然后 短句回复（口述）,v4,用户纠正
+P-D04-00634,u0492,privacy_policy,那个　敏感信息只用于本轮工具调用 #todo,v0,仅本次例外
+P-D04-00635,u0166,search_scope,稍等  麒麟系统/驱动 @@@,v0,重复记录
+P-D04-00636,u0107,output_style,呃 只给步骤 @@@,v0,用户明确表达
+P-D04-00637,u0772,emoji_policy,我想想 <<<< 默认允许 >>>> [draft],v0,重复记录
+P-D04-00638,u0756,output_style,我想想 先结论后步骤,v4,重复记录
+P-D04-00639,u0302,output_style,help: 详细、带数据表格 😅,v0,重复记录
+P-D04-00640,u0245,answer_style,嗯 先给结论，再给步骤 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-00641,u0425,privacy_policy,其实 敏感信息只用于本轮工具调用 [draft],v4,仅本次例外
+P-D04-00642,u0273,search_scope,嗯  麒麟系统/驱动 [draft],v2,仅本次例外
+P-D04-00643,u0257,emoji_policy,"嗯 默认允许
+
+<!--done--> ENDEND",v4,仅本次例外
+P-D04-00644,u0349,search_scope,然后然后 麒麟系统/驱动 ～,v1,重复记录
+P-D04-00645,u0358,output_style,其实　简洁、少废话 ～,v0,管理员导入旧偏好
+P-D04-00646,u0208,emoji_policy,嗯 禁用 [draft],v4,重复记录
+P-D04-00647,u0429,meeting_minutes_format,呃  不超过200字,v0,管理员导入旧偏好
+P-D04-00648,u0362,answer_style,我想想 短句回复 😅,v2,用户明确表达
+P-D04-00649,u0205,answer_style, 短句回复 #todo,v4,管理员导入旧偏好
+P-D04-00650,u0542,answer_style,我想想 先给结论，再给步骤 ～,v4,用户明确表达
+P-D04-00651,u0800,privacy_policy,那个　敏感信息只用于本轮工具调用 @@@,v0,用户纠正
+P-D04-00652,,search_scope,呃 办公软件/模板 #todo,v2,重复记录
+P-D04-00653,u0660,emoji_policy,那个 允许少量 emoji @@@,v3,用户明确表达
+P-D04-00654,u0530,output_style,啊 只给步骤 @@@,v1,管理员导入旧偏好
+P-D04-00655,u0761,output_style,[ASR] 详细、带数据表格 @@@,v3,用户纠正
+P-D04-00656,u0297,output_style,就是 详细、带数据表格 #todo,v2,管理员导入旧偏好
+P-D04-00657,u0272,emoji_policy,其实 允许少量 emoji！！！,v2,重复记录
+P-D04-00658,u0710,privacy_policy,就是 不保存测试手机号 邮箱 user208@example.com 😅,v4,用户纠正
+P-D04-00659,u0518,answer_style,help:  先给结论，再给步骤（口述）,v1,用户纠正
+P-D04-00660,u0655,answer_style,呃　短句回复 ENDEND,v2,用户纠正
+P-D04-00661,u0182,output_style, 详细、带数据表格！！！,v0,管理员导入旧偏好
+P-D04-00662,u0382,privacy_policy, <<<< 不保存测试手机号 >>>> [draft],v2,用户明确表达
+P-D04-00663,u0357,output_style,就是 <p>详细、带数据表格</p>！！！,v2,用户纠正
+P-D04-00664,u0721,meeting_minutes_format,嗯 不超过200字 @@@,v1,管理员导入旧偏好
+P-D04-00665,u0607,search_scope,啊 仅本地知识库 #todo,v3,用户纠正
+P-D04-00666,u0311,privacy_policy,啊 敏感信息只用于本轮工具调用！！！,v3,仅本次例外
+P-D04-00667,u0303,meeting_minutes_format,啊 **不超过200字**,v3,管理员导入旧偏好
+P-D04-00668,u0160,answer_style,麻烦 祥细解释每一步原因 😅,v4,用户纠正
+P-D04-00669,u0410,privacy_policy,然后然后　不保存测试手机号 ～,v3,用户明确表达
+P-D04-00670,u0114,output_style,那个 简洁、少废话 😅,v2,用户明确表达
+P-D04-00671,u0583,output_style,help: 只给步骤 [draft],v2,重复记录
+P-D04-00672,u0477,output_style,其实 先结论后步骤 ENDEND,v3,用户明确表达
+P-D04-00673,u0113,emoji_policy,"[ASR] 默认允许
+cache=false 😅",v1,用户纠正
+P-D04-00674,u0002,answer_style,　短句回复 ～,v0,重复记录
+P-D04-00675,u0206,emoji_policy,help: <<<< 默认允许 >>>> <!-- cached -->,v3,用户明确表达
+P-D04-00676,u0035,emoji_policy, 允许少量 emoji 邮箱 user304@example.com #todo,v4,用户明确表达
+P-D04-00677,u0559,search_scope,"麻烦 仅本地知识库
+stdout: OK（口述）",v4,用户纠正
+P-D04-00678,u0352,emoji_policy,稍等 禁用 [draft],v3,管理员导入旧偏好
+P-D04-00679,u0650,output_style,嗯　**先结论后步骤** ～,v1,重复记录
+P-D04-00680,u0233,emoji_policy,稍等 <p>纯文本</p>,v4,用户纠正
+P-D04-00681,u0623,privacy_policy,"我想想　敏感信息只用于本轮工具调用
+cache=false ENDEND",v2,管理员导入旧偏好
+P-D04-00682,u0614,emoji_policy,其实 纯文本……,v0,用户明确表达
+P-D04-00683,u0660,search_scope,help:  办公软件/模板 #todo,v4,仅本次例外
+P-D04-00684,u0786,meeting_minutes_format,嗯 不超过200字 😅,v0,管理员导入旧偏好
+P-D04-00685,u0433,search_scope, 麒麟系统/驱动 #todo,v1,用户明确表达
+P-D04-00686,u0594,output_style,就是 详细、带数据表格 @@@,v3,用户明确表达
+P-D04-00687,u0116,meeting_minutes_format,啊 bullet 列表（口述）,v1,管理员导入旧偏好
+P-D04-00688,,meeting_minutes_format,麻烦  bullet 列表,v0,仅本次例外
+P-D04-00689,u0152,meeting_minutes_format,help: 三段式：背景、决定、待办！！！,v0,仅本次例外
+P-D04-00690,u0371,emoji_policy,help: 默认允许 @@@,v3,管理员导入旧偏好
+P-D04-00691,u0234,emoji_policy,那个 **默认允许** #todo,v3,用户纠正
+P-D04-00692,u0191,privacy_policy,那个 敏感信息只用于本轮工具调用 @@@,v2,重复记录
+P-D04-00693,,meeting_minutes_format,就是 <p>bullet 列表</p>（口述）,v0,仅本次例外
+P-D04-00694,u0438,meeting_minutes_format,那个　<p>三段式：背景、决定、待办</p>！！！,v2,用户纠正
+P-D04-00695,u0026,privacy_policy,稍等 不保存测试手机号,v4,用户明确表达
+P-D04-00696,u0731,output_style,我想想 先结论后步骤 ～,v4,用户明确表达
+P-D04-00697,u0772,meeting_minutes_format,啊 bullet 列表,v2,用户纠正
+P-D04-00698,u0228,search_scope,然后然后  仅本地知识库（口述）,v1,仅本次例外
+P-D04-00699,u0783,meeting_minutes_format,我想想 三段式：背景、决定、待办……,v2,用户明确表达
+P-D04-00700,u0190,answer_style,啊 先给结论，再给步骤！！！,v3,重复记录
+P-D04-00701,u0646,search_scope,其实 麒麟系统/驱动 @@@,v0,用户明确表达
+P-D04-00702,u0034,meeting_minutes_format,稍等 bullet 列表 邮箱 user709@example.com……,v3,用户明确表达
+P-D04-00703,u0473,emoji_policy,麻烦 纯文本！！！,v2,用户明确表达
+P-D04-00704,u0480,search_scope,[ASR] 麒麟系统/驱动 ENDEND,v3,管理员导入旧偏好
+P-D04-00705,u0446,privacy_policy,麻烦 敏感信息只用于本轮工具调用 @@@,v0,管理员导入旧偏好
+P-D04-00706,u0296,emoji_policy,我想想 纯文本 ENDEND,v4,重复记录
+P-D04-00707,u0592,meeting_minutes_format,稍等 不超过200字（口述）,v3,用户明确表达
+P-D04-00708,u0132,meeting_minutes_format,麻烦 三段式：背景、决定、待办,v2,重复记录
+P-D04-00709,u0349,privacy_policy,"help: 敏感信息只用于本轮工具调用
+cache=false（口述）",v4,重复记录
+P-D04-00710,u0172,privacy_policy,呃 ```不保存测试手机号``` <!-- cached -->,v2,管理员导入旧偏好
+P-D04-00711,u0639,search_scope,"就是 办公软件/模板
+
+<!--done-->",v2,用户纠正
+P-D04-00712,u0654,output_style, 只给步骤 ～,v1,仅本次例外
+P-D04-00713,u0379,emoji_policy,就是　禁用……,v0,仅本次例外
+P-D04-00714,u0682,emoji_policy,"嗯 禁用
+stdout: OK（口述）",v0,仅本次例外
+P-D04-00715,u0261,search_scope,麻烦 办公软件/模板！！！,v0,仅本次例外
+P-D04-00716,u0436,meeting_minutes_format,我想想 **不超过200字** [draft],v1,仅本次例外
+P-D04-00717,u0655,emoji_policy,然后然后  ```禁用``` [draft],v1,管理员导入旧偏好
+P-D04-00718,u0158,answer_style," 祥细解释每一步原因
+cache=false（口述）",v1,重复记录
+P-D04-00719,u0680,meeting_minutes_format,"稍等 不超过200字
+
+<!--done--> ENDEND",v3,用户明确表达
+P-D04-00720,u0437,search_scope,就是 【仅本地知识库】 #todo,v4,用户纠正
+P-D04-00721,u0485,emoji_policy, 默认允许 @@@,v1,管理员导入旧偏好
+P-D04-00722,u0679,meeting_minutes_format,help: ```不超过200字``` #todo,v2,仅本次例外
+P-D04-00723,u0297,emoji_policy,然后然后　禁用,v0,用户明确表达
+P-D04-00724,u0032,meeting_minutes_format,我想想 不超过200字 ～,v3,用户明确表达
+P-D04-00725,u0744,meeting_minutes_format,然后然后 不超过200字！！！,v0,仅本次例外
+P-D04-00726,u0041,output_style, 祥细、带数据表格 [draft],v0,仅本次例外
+P-D04-00727,u0382,meeting_minutes_format,麻烦 bullet 列表 #todo,v2,管理员导入旧偏好
+P-D04-00728,u0790,search_scope,[ASR] 办公软件/模板 😅,v4,管理员导入旧偏好
+P-D04-00729,u0705,meeting_minutes_format,就是  三段式：背景、决定、待办 😅,v4,重复记录
+P-D04-00730,u0299,privacy_policy,"那个 敏感信息只用于本轮工具调用
+cache=false……",v2,用户纠正
+P-D04-00731,u0054,meeting_minutes_format,嗯 bullet 列表 ～,v3,管理员导入旧偏好
+P-D04-00732,,privacy_policy,help: 不保存测试手机号！！！,v4,仅本次例外
+P-D04-00733,u0270,privacy_policy,就是 敏感信息只用于本轮工具调用 @@@,v3,用户明确表达
+P-D04-00734,u0253,output_style,嗯 简洁、少废话……,v2,管理员导入旧偏好
+P-D04-00735,u0394,answer_style,麻烦 短句回复（口述）,v3,用户明确表达
+P-D04-00736,u0243,search_scope,嗯  仅本地知识库！！！,v1,管理员导入旧偏好
+P-D04-00737,u0253,emoji_policy, 允许少量 emoji [draft],v1,用户明确表达
+P-D04-00738,u0510,emoji_policy,那个 禁用 @@@,v4,仅本次例外
+P-D04-00739,u0407,meeting_minutes_format,  三段式：背景、决定、待办……,v0,重复记录
+P-D04-00740,u0449,privacy_policy,其实 不保存测试手机号 邮箱 user803@example.com ENDEND,v1,用户明确表达
+P-D04-00741,u0268,search_scope,"就是 麒麟系統系统/驱动
+stdout: OK ～",v4,管理员导入旧偏好
+P-D04-00742,u0397,search_scope,"[ASR] 仅本地知识库
+cache=false <!-- cached -->",v1,管理员导入旧偏好
+P-D04-00743,u0381,answer_style,其实 详细解释每一步原因 😅,v1,用户纠正
+P-D04-00744,u0192,privacy_policy,"我想想 不保存测试手机号
+cache=false [draft]",v2,用户明确表达
+P-D04-00745,u0006,emoji_policy,然后然后  <p>纯文本</p>！！！,v0,仅本次例外
+P-D04-00746,u0182,privacy_policy,嗯 敏感信息只用于本轮工具调用 #todo,v0,重复记录
+P-D04-00747,u0657,meeting_minutes_format,help: bullet 列表 #todo,v1,重复记录
+P-D04-00748,u0763,privacy_policy,"呃 <p>敏感信息只用于本轮工具调用</p>
+stdout: OK [draft]",v2,管理员导入旧偏好
+P-D04-00749,u0269,privacy_policy,啊 敏感信息只用于本轮工具调用 ～,v4,用户明确表达
+P-D04-00750,u0510,search_scope,就是 办公软件/模板 ENDEND,v3,用户纠正
+P-D04-00751,u0231,output_style, 先结论后步骤……,v3,用户明确表达
+P-D04-00752,u0353,privacy_policy,呃 不保存测试手机号 [draft],v1,管理员导入旧偏好
+P-D04-00753,u0233,privacy_policy,然后然后 不保存测试手机号 ENDEND,v1,管理员导入旧偏好
+P-D04-00754,u0644,emoji_policy,[ASR]　默认允许 ENDEND,v4,仅本次例外
+P-D04-00755,u0012,search_scope,"麻烦 仅本地知识库
+cache=false ENDEND",v3,用户纠正
+P-D04-00756,,search_scope,我想想 ```麒麟系统/驱动``` <!-- cached -->,v2,仅本次例外
+P-D04-00757,u0503,emoji_policy,然后然后 允许少量 emoji 😅,v3,用户纠正
+P-D04-00758,u0045,search_scope,然后然后 仅本地知识库 #todo,v0,重复记录
+P-D04-00759,u0564,search_scope,啊 仅本地知只库 ～,v2,重复记录
+P-D04-00760,u0317,emoji_policy,help: 禁用 电话 13812345678,v0,用户纠正
+P-D04-00761,u0074,meeting_minutes_format,麻烦 bullet 列表 ～,v1,用户纠正
+P-D04-00762,u0410,emoji_policy,就是 默认允许 @@@,v2,仅本次例外
+P-D04-00763,u0558,search_scope,help: 麒麟系统/驱动 ～,v2,仅本次例外
+P-D04-00764,u0418,emoji_policy,稍等　【允许少量  emoji】（口述）,v3,用户明确表达
+P-D04-00765,u0545,emoji_policy,"help:  禁用
+cache=false！！！",v3,管理员导入旧偏好
+P-D04-00766,u0266,meeting_minutes_format,我想想  不超过200字 ～,v4,管理员导入旧偏好
+P-D04-00767,u0088,privacy_policy,我想想 敏感信息只用于本轮工具调用 @@@,v3,重复记录
+P-D04-00768,,privacy_policy,那个 【不保存测试手机号】（口述）,v1,用户纠正
+P-D04-00769,u0152,privacy_policy,嗯 敏感信息只用于本轮工具调用 ENDEND,v3,用户纠正
+P-D04-00770,u0746,search_scope,嗯　<p>仅本地知只库</p>,v4,用户纠正
+P-D04-00771,u0192,meeting_minutes_format,"那个 bullet	列表
+
+<!--done--> #todo",v3,管理员导入旧偏好
+P-D04-00772,u0071,privacy_policy,[ASR] 敏感信息只用于本轮工具调用 [draft],v4,重复记录
+P-D04-00773,u0510,privacy_policy,然后然后 不保存测试手机号 [draft],v4,管理员导入旧偏好
+P-D04-00774,u0283,output_style,help: 只给步骤……,v0,用户明确表达
+P-D04-00775,u0310,answer_style,help: 短句回复 邮箱 user728@example.com……,v0,用户纠正
+P-D04-00776,u0334,emoji_policy,然后然后 禁用 #todo,v2,重复记录
+P-D04-00777,u0220,answer_style,"呃 <<<< 短句回复 >>>>
+stdout: OK（口述）",v3,仅本次例外
+P-D04-00778,u0344,search_scope,然后然后　办公软件/模板,v2,重复记录
+P-D04-00779,u0215,emoji_policy,啊 纯文本,v3,管理员导入旧偏好
+P-D04-00780,u0466,answer_style,[ASR]　详细解释每一步原因 😅,v0,重复记录
+P-D04-00781,u0007,output_style,然后然后 <p>只给步骤</p> @@@,v0,用户纠正
+P-D04-00782,u0035,answer_style,啊 先给结论，再给步骤（口述）,v4,用户明确表达
+P-D04-00783,u0120,answer_style,其实 祥细解释每一步原因 😅,v0,管理员导入旧偏好
+P-D04-00784,u0530,output_style,稍等　先结论后步骤,v1,用户纠正
+P-D04-00785,u0074,privacy_policy,我想想 不保存测试手机号 ～,v2,管理员导入旧偏好
+P-D04-00786,u0693,meeting_minutes_format,麻烦 不超过200字 😅,v0,仅本次例外
+P-D04-00787,u0103,answer_style,[ASR] 祥细解释每一步原因……,v4,用户明确表达
+P-D04-00788,u0150,output_style, 先结论后步骤！！！,v4,管理员导入旧偏好
+P-D04-00789,u0781,emoji_policy,啊 纯文本……,v4,用户纠正
+P-D04-00790,u0667,output_style,啊 祥细、带数据表格 @@@,v0,用户纠正
+P-D04-00791,u0625,search_scope,稍等 仅本地知只库 ENDEND,v2,用户纠正
+P-D04-00792,u0027,answer_style,其实 短句回复 😅,v0,用户纠正
+P-D04-00793,u0507,privacy_policy,稍等　敏感信息只用于本轮工具调用（口述）,v1,用户纠正
+P-D04-00794,u0230,output_style,其实  简洁、少废话 邮箱 user880@example.com！！！,v4,用户明确表达
+P-D04-00795,u0302,output_style,那个 简洁、少废话！！！,v0,管理员导入旧偏好
+P-D04-00796,u0528,meeting_minutes_format,啊 不超过200字……,v4,重复记录
+P-D04-00797,u0182,meeting_minutes_format,就是 三段式：背景、决定、待办 #todo,v3,用户纠正
+P-D04-00798,u0410,search_scope,help: <p>仅本地知识库</p> 😅,v1,重复记录
+P-D04-00799,u0660,search_scope,呃 办公软件/模板 😅,v2,重复记录
+P-D04-00800,u0053,privacy_policy,其实 不保存测试手机号 #todo,v0,用户明确表达
+P-D04-00801,u0397,emoji_policy,help: 默认允许 电话 13900001111！！！,v2,重复记录
+P-D04-00802,u0421,search_scope,呃 仅本地知只库 @@@,v2,用户明确表达
+P-D04-00803,u0777,privacy_policy,其实　<p>敏感信息只用于本轮工具调用</p>（口述）,v4,用户纠正
+P-D04-00804,u0533,privacy_policy,"稍等 不保存测试手机号
+stdout: OK……",v1,用户明确表达
+P-D04-00805,u0530,privacy_policy,[ASR] 不保存测试手机号 ～,v0,用户明确表达
+P-D04-00806,u0401,meeting_minutes_format,嗯 不超过200字 ～,v4,用户纠正
+P-D04-00807,u0453,emoji_policy,麻烦 默认允许（口述）,v0,用户明确表达
+P-D04-00808,u0137,answer_style,就是　先给结论，再给步骤！！！,v4,重复记录
+P-D04-00809,u0631,output_style,那个 <<<< 简洁、少废话 >>>>……,v1,用户明确表达
+P-D04-00810,,emoji_policy,其实 禁用 [draft],v3,用户明确表达
+P-D04-00811,u0560,emoji_policy,"那个 默认允许
+cache=false",v0,用户明确表达
+P-D04-00812,u0727,emoji_policy,我想想 <p>禁用</p> ENDEND,v2,用户明确表达
+P-D04-00813,u0293,search_scope,就是 麒麟系统/驱动,v0,用户纠正
+P-D04-00814,u0743,emoji_policy,嗯 <<<< 允许少量 emoji >>>>,v1,重复记录
+P-D04-00815,u0552,answer_style,就是 祥细解释每一步原因 [draft],v0,管理员导入旧偏好
+P-D04-00816,u0143,privacy_policy,那个 【敏感信息只用于本轮工具调用】,v3,重复记录
+P-D04-00817,u0670,meeting_minutes_format,然后然后  bullet 列表 @@@,v3,管理员导入旧偏好
+P-D04-00818,u0345,emoji_policy,呃 <<<< 纯文本 >>>> #todo,v3,仅本次例外
+P-D04-00819,u0103,meeting_minutes_format,嗯 bullet 列表 <!-- cached -->,v4,仅本次例外
+P-D04-00820,u0593,search_scope,然后然后 仅本地知识库 @@@,v2,管理员导入旧偏好
+P-D04-00821,u0401,search_scope,其实　办公软件/模板 [draft],v1,管理员导入旧偏好
+P-D04-00822,u0464,output_style,[ASR] 简洁、少废话……,v4,重复记录
+P-D04-00823,u0400,meeting_minutes_format,啊 bullet 列表 😅,v1,仅本次例外
+P-D04-00824,u0663,output_style, 只给步骤 电话 13812345678 [draft],v0,管理员导入旧偏好
+P-D04-00825,u0722,privacy_policy,[ASR] 不保存测试手机号 #todo,v3,用户纠正
+P-D04-00826,u0120,search_scope,然后然后 办公软件/模板 #todo,v3,用户纠正
+P-D04-00827,u0557,emoji_policy,[ASR] 禁用 😅,v1,管理员导入旧偏好
+P-D04-00828,u0682,output_style,"啊 先结论后步骤
+cache=false……",v3,重复记录
+P-D04-00829,u0070,privacy_policy,麻烦  敏感信息只用于本轮工具调用（口述）,v0,用户明确表达
+P-D04-00830,u0150,meeting_minutes_format,啊 【不超过200字】 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-00831,u0087,emoji_policy,我想想 纯文本（口述）,v3,管理员导入旧偏好
+P-D04-00832,u0355,privacy_policy,其实　敏感信息只用于本轮工具调用,v3,用户明确表达
+P-D04-00833,u0578,search_scope,然后然后 麒麟系统/驱动 [draft],v4,仅本次例外
+P-D04-00834,u0124,meeting_minutes_format, bullet 列表 #todo,v1,重复记录
+P-D04-00835,u0034,meeting_minutes_format,那个 bullet 列表！！！,v3,重复记录
+P-D04-00836,u0333,output_style,呃　只给步骤 #todo,v0,管理员导入旧偏好
+P-D04-00837,u0228,search_scope,"啊 【其麟系统/驱动】
+
+<!--done--> [draft]",v4,用户纠正
+P-D04-00838,u0116,output_style,help: 先结论后步骤 @@@,v0,用户明确表达
+P-D04-00839,u0316,output_style,呃 详细、带数据表格 <!-- cached -->,v2,管理员导入旧偏好
+P-D04-00840,u0185,privacy_policy, 不保存测试手机号 ENDEND,v4,仅本次例外
+P-D04-00841,u0196,search_scope,[ASR]  奇麟系统/驱动 😅,v4,仅本次例外
+P-D04-00842,u0245,emoji_policy,  禁用……,v1,用户明确表达
+P-D04-00843,u0735,search_scope,呃 仅本地知识库 [draft],v3,用户明确表达
+P-D04-00844,u0666,answer_style,嗯 详细解释每一步原因 [draft],v4,用户纠正
+P-D04-00845,u0703,meeting_minutes_format,嗯  bullet 列表 ～,v1,仅本次例外
+P-D04-00846,u0650,answer_style,其实 详细解释每一步原因,v3,用户纠正
+P-D04-00847,u0303,output_style, 只给步骤 #todo,v2,用户纠正
+P-D04-00848,u0408,search_scope, 办公软件/模板！！！,v0,用户纠正
+P-D04-00849,u0148,search_scope,help: 麒麟系统/驱动……,v2,管理员导入旧偏好
+P-D04-00850,u0517,privacy_policy,"啊 不保存测试手机号
+stdout: OK @@@",v1,仅本次例外
+P-D04-00851,u0515,privacy_policy,稍等 敏感信息只用于本轮工具调用 @@@,v0,用户纠正
+P-D04-00852,u0596,meeting_minutes_format,稍等 三段式：背景、决定、待办……,v2,仅本次例外
+P-D04-00853,u0719,search_scope,呃 麒麟系统/驱动 ENDEND,v3,重复记录
+P-D04-00854,u0582,meeting_minutes_format,"[ASR] 三段式：背景、决定、待办
+stdout: OK（口述）",v2,用户明确表达
+P-D04-00855,u0520,search_scope,那个 仅本地知识库 😅,v3,用户明确表达
+P-D04-00856,u0181,search_scope,help: 麒麟系统/驱动！！！,v3,仅本次例外
+P-D04-00857,u0729,privacy_policy,"就是  ```不保存测试手机号```
+
+<!--done--> ENDEND",v0,用户纠正
+P-D04-00858,u0199,answer_style,help: 短句回复 #todo,v1,管理员导入旧偏好
+P-D04-00859,u0066,emoji_policy,麻烦　默认允许！！！,v4,仅本次例外
+P-D04-00860,u0204,privacy_policy,呃　敏感信息只用于本轮工具调用！！！,v2,重复记录
+P-D04-00861,,emoji_policy,稍等 默认允许 @@@,v2,用户明确表达
+P-D04-00862,u0262,output_style,嗯 详细、带数据表格！！！,v3,重复记录
+P-D04-00863,u0519,privacy_policy,稍等 敏感信息只用于本轮工具调用 ～,v0,用户纠正
+P-D04-00864,u0292,privacy_policy,啊 敏感信息只用于本轮工具调用 😅,v1,重复记录
+P-D04-00865,u0227,output_style, 先结论后步骤 <!-- cached -->,v4,重复记录
+P-D04-00866,u0108,search_scope,help: 办公软件/模板（口述）,v2,管理员导入旧偏好
+P-D04-00867,u0079,privacy_policy,我想想　敏感信息只用于本轮工具调用 [draft],v3,用户明确表达
+P-D04-00868,u0447,search_scope, 仅本地知识库 ENDEND,v1,用户明确表达
+P-D04-00869,u0730,answer_style,呃 短句回复 😅,v0,用户明确表达
+P-D04-00870,u0583,emoji_policy,其实  纯文本 ENDEND,v3,重复记录
+P-D04-00871,u0604,answer_style,help:  祥细解释每一步原因 ～,v2,用户明确表达
+P-D04-00872,,output_style,[ASR] <<<< 简洁、少废话 >>>> @@@,v1,管理员导入旧偏好
+P-D04-00873,u0496,answer_style,嗯 先给结论，再给步骤 😅,v0,用户明确表达
+P-D04-00874,u0573,meeting_minutes_format,稍等 **bullet 列表** ～,v0,用户纠正
+P-D04-00875,u0201,emoji_policy,help:　纯文本 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-00876,,privacy_policy,嗯 不保存测试手机号 😅,v0,重复记录
+P-D04-00877,u0288,output_style,那个 详细、带数据表格 ～,v1,仅本次例外
+P-D04-00878,u0094,answer_style,[ASR] 短句回复 ～,v4,用户纠正
+P-D04-00879,,output_style,啊 先结论后步骤 @@@,v2,管理员导入旧偏好
+P-D04-00880,u0671,privacy_policy,稍等 不保存测试手机号……,v3,用户明确表达
+P-D04-00881,u0144,search_scope,然后然后  麒麟系统/驱动 @@@,v1,用户纠正
+P-D04-00882,u0455,answer_style,就是 ```详细解释每一步原因``` ～,v4,用户明确表达
+P-D04-00883,u0599,meeting_minutes_format,help:  三段式：背景、决定、待办 ENDEND,v0,仅本次例外
+P-D04-00884,u0651,meeting_minutes_format,其实 三段式：背景、决定、待办 #todo,v1,管理员导入旧偏好
+P-D04-00885,u0230,privacy_policy,就是 敏感信息只用于本轮工具调用……,v3,管理员导入旧偏好
+P-D04-00886,u0289,privacy_policy, 不保存测试手机号（口述）,v2,管理员导入旧偏好
+P-D04-00887,u0338,output_style,就是 先结论后步骤（口述）,v1,用户纠正
+P-D04-00888,u0284,emoji_policy,help:　纯文本 <!-- cached -->,v0,用户明确表达
+P-D04-00889,u0370,output_style,"嗯 <<<<  只给步骤  >>>>
+stdout: OK @@@",v2,管理员导入旧偏好
+P-D04-00890,u0253,privacy_policy,我想想 <p>敏感信息只用于本轮工具调用</p> @@@,v2,管理员导入旧偏好
+P-D04-00891,u0375,search_scope,嗯 办公软件/模板 #todo,v4,用户明确表达
+P-D04-00892,u0410,emoji_policy,然后然后 纯文本 ENDEND,v4,重复记录
+P-D04-00893,u0579,privacy_policy,啊 不保存测试手机号 @@@,v0,仅本次例外
+P-D04-00894,u0552,privacy_policy,麻烦 不保存测试手机号 [draft],v4,管理员导入旧偏好
+P-D04-00895,u0364,meeting_minutes_format,嗯  bullet 列表 邮箱 user269@example.com,v1,重复记录
+P-D04-00896,u0544,privacy_policy, 不保存测试手机号 电话 13900001111,v1,重复记录
+P-D04-00897,u0751,emoji_policy,help:  允许少量 emoji,v3,管理员导入旧偏好
+P-D04-00898,u0192,privacy_policy,其实  敏感信息只用于本轮工具调用！！！,v1,管理员导入旧偏好
+P-D04-00899,u0028,meeting_minutes_format,呃 不超过200字 ENDEND,v1,仅本次例外
+P-D04-00900,u0788,output_style,help:　祥细、带数据表格（口述）,v0,仅本次例外
+P-D04-00901,u0383,emoji_policy,"其实  纯文本
+
+<!--done--> ENDEND",v1,用户明确表达
+P-D04-00902,u0550,privacy_policy,[ASR] 敏感信息只用于本轮工具调用！！！,v1,管理员导入旧偏好
+P-D04-00903,u0199,answer_style,啊  详细解释每一步原因 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-00904,u0613,output_style,那个 简洁、少废话 😅,v0,管理员导入旧偏好
+P-D04-00905,u0643,emoji_policy,help: 允许少量 emoji 😅,v1,用户明确表达
+P-D04-00906,u0540,meeting_minutes_format,其实 bullet  列表,v1,用户明确表达
+P-D04-00907,u0355,emoji_policy,[ASR] 纯文本！！！,v2,用户明确表达
+P-D04-00908,u0505,search_scope,嗯 麒麟系统/驱动,v4,管理员导入旧偏好
+P-D04-00909,u0185,meeting_minutes_format,那个 三段式：背景、决定、待办 😅,v2,管理员导入旧偏好
+P-D04-00910,u0276,search_scope,[ASR]  ```麒麟系統系统/驱动``` #todo,v4,用户明确表达
+P-D04-00911,u0392,meeting_minutes_format,稍等  不超过200字 电话 13688889999 @@@,v3,用户明确表达
+P-D04-00912,u0333,privacy_policy,呃 **不保存测试手机号** ～,v4,重复记录
+P-D04-00913,u0293,emoji_policy,我想想 禁用……,v1,重复记录
+P-D04-00914,u0114,meeting_minutes_format,help:  三段式：背景、决定、待办（口述）,v4,重复记录
+P-D04-00915,u0642,meeting_minutes_format,嗯 三段式：背景、决定、待办（口述）,v0,用户纠正
+P-D04-00916,u0143,answer_style,啊 短句回复！！！,v4,重复记录
+P-D04-00917,u0415,answer_style,啊  短句回复 @@@,v0,用户明确表达
+P-D04-00918,u0303,answer_style,help: 短句回复……,v2,用户明确表达
+P-D04-00919,u0675,answer_style,"麻烦　详细解释每一步原因
+stdout: OK #todo",v2,管理员导入旧偏好
+P-D04-00920,u0678,privacy_policy,我想想 敏感信息只用于本轮工具调用……,v1,用户明确表达
+P-D04-00921,u0621,output_style,麻烦 ```详细、带数据表格```,v2,用户明确表达
+P-D04-00922,u0340,emoji_policy,help: 禁用……,v0,重复记录
+P-D04-00923,u0254,output_style,我想想 先结论后步骤,v4,管理员导入旧偏好
+P-D04-00924,u0797,privacy_policy,麻烦 <p>不保存测试手机号</p>（口述）,v3,管理员导入旧偏好
+P-D04-00925,u0559,output_style,麻烦 只给步骤（口述）,v0,用户纠正
+P-D04-00926,u0709,emoji_policy, 允许少量 emoji @@@,v1,重复记录
+P-D04-00927,u0107,search_scope,[ASR] 办公软件/模板,v0,用户明确表达
+P-D04-00928,u0694,search_scope,我想想　办公软件/模板……,v1,重复记录
+P-D04-00929,u0084,meeting_minutes_format,那个 bullet 列表 😅,v3,用户明确表达
+P-D04-00930,u0655,privacy_policy,我想想 敏感信息只用于本轮工具调用 #todo,v0,仅本次例外
+P-D04-00931,u0392,search_scope,help: 麒麟系统/驱动 <!-- cached -->,v0,重复记录
+P-D04-00932,u0300,search_scope,就是 仅本地知只库,v2,用户明确表达
+P-D04-00933,u0100,answer_style, 详细解释每一步原因 😅,v4,仅本次例外
+P-D04-00934,u0476,search_scope,help: 奇麟系统/驱动,v2,仅本次例外
+P-D04-00935,u0352,search_scope,我想想 麒麟系统/驱动 [draft],v2,用户纠正
+P-D04-00936,u0074,answer_style,"[ASR] 先给结论，再给步骤
+stdout: OK 😅",v4,仅本次例外
+P-D04-00937,u0788,search_scope,然后然后　办公软件/模板 ENDEND,v4,管理员导入旧偏好
+P-D04-00938,u0204,privacy_policy,麻烦　敏感信息只用于本轮工具调用 #todo,v4,用户明确表达
+P-D04-00939,u0074,output_style,　只给步骤 <!-- cached -->,v4,重复记录
+P-D04-00940,u0502,privacy_policy,啊  不保存测试手机号……,v1,用户明确表达
+P-D04-00941,u0118,emoji_policy,那个  纯文本 😅,v4,管理员导入旧偏好
+P-D04-00942,u0178,privacy_policy,呃　不保存测试手机号 [draft],v3,用户纠正
+P-D04-00943,u0211,answer_style,呃 祥细解释每一步原因 #todo,v4,用户明确表达
+P-D04-00944,,emoji_policy,那个 默认允许 <!-- cached -->,v2,仅本次例外
+P-D04-00945,u0206,emoji_policy, <p>允许少量 emoji</p> 电话 13900001111 [draft],v4,用户纠正
+P-D04-00946,u0694,answer_style,就是 先给结论，再给步骤 ENDEND,v4,用户明确表达
+P-D04-00947,u0511,meeting_minutes_format,呃  三段式：背景、决定、待办……,v2,用户明确表达
+P-D04-00948,u0408,output_style,嗯 简洁、少废话 ENDEND,v1,用户明确表达
+P-D04-00949,u0235,privacy_policy,然后然后 不保存测试手机号 @@@,v4,用户明确表达
+P-D04-00950,u0786,answer_style,然后然后 先给结论，再给步骤 ～,v4,用户明确表达
+P-D04-00951,u0111,emoji_policy,麻烦 纯文本 ENDEND,v0,仅本次例外
+P-D04-00952,u0116,privacy_policy,麻烦 敏感信息只用于本轮工具调用……,v3,管理员导入旧偏好
+P-D04-00953,u0741,search_scope,[ASR]　办公软件/模板……,v1,用户明确表达
+P-D04-00954,u0242,privacy_policy,[ASR] 不保存测试手机号 [draft],v0,仅本次例外
+P-D04-00955,u0176,privacy_policy,就是 敏感信息只用于本轮工具调用 ～,v4,用户纠正
+P-D04-00956,u0234,search_scope,我想想 麒麟系统/驱动……,v0,管理员导入旧偏好
+P-D04-00957,u0123,search_scope,啊 麒麟系统/驱动 电话 13812345678 @@@,v2,仅本次例外
+P-D04-00958,u0091,privacy_policy,那个  不保存测试手机号,v1,用户纠正
+P-D04-00959,u0632,privacy_policy,[ASR] 不保存测试手机号 ～,v3,用户纠正
+P-D04-00960,u0667,search_scope,麻烦 仅本地知识库 @@@,v1,管理员导入旧偏好
+P-D04-00961,u0124,privacy_policy,稍等 不保存测试手机号 ～,v4,用户纠正
+P-D04-00962,u0535,search_scope,[ASR] 仅本地知识库……,v4,管理员导入旧偏好
+P-D04-00963,u0380,search_scope,我想想 奇麟系统/驱动 😅,v3,用户明确表达
+P-D04-00964,u0252,search_scope,稍等 办公软件/模板 ENDEND,v3,用户纠正
+P-D04-00965,u0427,privacy_policy,[ASR] 【不保存测试手机号】 #todo,v4,管理员导入旧偏好
+P-D04-00966,u0600,output_style,麻烦 先结论后步骤 @@@,v3,重复记录
+P-D04-00967,u0016,emoji_policy,[ASR] 允许少量 emoji,v1,用户纠正
+P-D04-00968,u0599,search_scope,然后然后 办公软件/模板 ENDEND,v0,管理员导入旧偏好
+P-D04-00969,u0289,answer_style,help: 短句回复（口述）,v2,管理员导入旧偏好
+P-D04-00970,u0169,meeting_minutes_format,然后然后  三段式：背景、决定、待办 <!-- cached -->,v1,用户明确表达
+P-D04-00971,u0211,answer_style,就是 短句回复！！！,v3,仅本次例外
+P-D04-00972,u0444,output_style,嗯 只给步骤 <!-- cached -->,v4,仅本次例外
+P-D04-00973,u0527,answer_style,啊 先给结论，再给步骤……,v4,用户明确表达
+P-D04-00974,u0756,search_scope,然后然后 仅本地知识库 😅,v1,用户纠正
+P-D04-00975,u0421,privacy_policy,呃  不保存测试手机号 [draft],v2,管理员导入旧偏好
+P-D04-00976,u0007,emoji_policy,[ASR] 允许少量 emoji ENDEND,v2,用户纠正
+P-D04-00977,u0276,privacy_policy,[ASR] 敏感信息只用于本轮工具调用……,v2,管理员导入旧偏好
+P-D04-00978,u0590,search_scope,稍等 仅本地知识库……,v4,仅本次例外
+P-D04-00979,u0398,emoji_policy,其实 默认允许……,v3,用户纠正
+P-D04-00980,u0485,meeting_minutes_format, ```三段式：背景、决定、待办``` 😅,v1,用户明确表达
+P-D04-00981,u0731,meeting_minutes_format,麻烦　不超过200字 <!-- cached -->,v2,用户明确表达
+P-D04-00982,u0075,search_scope,  麒麟系统/驱动 @@@,v3,仅本次例外
+P-D04-00983,u0677,emoji_policy,麻烦 禁用（口述）,v2,用户纠正
+P-D04-00984,u0269,search_scope,help: 仅本地知识库,v3,用户纠正
+P-D04-00985,u0553,privacy_policy,稍等 不保存测试手机号,v3,用户明确表达
+P-D04-00986,u0719,output_style," 简洁、少废话
+stdout: OK",v0,重复记录
+P-D04-00987,u0163,output_style,麻烦 简洁、少废话 😅,v3,管理员导入旧偏好
+P-D04-00988,u0620,output_style,[ASR] 详细、带数据表格,v1,仅本次例外
+P-D04-00989,u0659,privacy_policy,我想想 敏感信息只用于本轮工具调用 ENDEND,v1,仅本次例外
+P-D04-00990,u0771,meeting_minutes_format,就是 bullet 列表 ENDEND,v4,重复记录
+P-D04-00991,u0016,meeting_minutes_format,稍等 三段式：背景、决定、待办 ENDEND,v4,用户纠正
+P-D04-00992,u0520,emoji_policy,就是 禁用……,v4,管理员导入旧偏好
+P-D04-00993,u0413,answer_style,稍等  短句回复 😅,v2,用户纠正
+P-D04-00994,u0678,privacy_policy,然后然后 敏感信息只用于本轮工具调用！！！,v3,用户纠正
+P-D04-00995,u0396,search_scope,麻烦 麒麟系统/驱动,v1,重复记录
+P-D04-00996,u0544,emoji_policy,嗯 纯文本 @@@,v0,仅本次例外
+P-D04-00997,u0152,privacy_policy,[ASR] 【不保存测试手机号】 ～,v2,仅本次例外
+P-D04-00998,u0397,search_scope,然后然后 仅本地知识库,v0,用户纠正
+P-D04-00999,u0721,emoji_policy,然后然后 禁用 ENDEND,v0,仅本次例外
+P-D04-01000,u0147,privacy_policy,嗯  敏感信息只用于本轮工具调用 @@@,v4,用户纠正
+P-D04-01001,u0456,output_style,其实 只给步骤 ENDEND,v4,用户明确表达
+P-D04-01002,u0034,emoji_policy,就是 禁用……,v1,重复记录
+P-D04-01003,u0215,answer_style,  祥细解释每一步原因 @@@,v0,用户纠正
+P-D04-01004,u0165,search_scope,然后然后 仅本地知识库！！！,v4,用户明确表达
+P-D04-01005,u0237,output_style,"啊 祥细、带数据表格
+
+<!--done-->！！！",v3,管理员导入旧偏好
+P-D04-01006,u0210,meeting_minutes_format,稍等 不超过200字！！！,v4,仅本次例外
+P-D04-01007,u0421,privacy_policy,然后然后　不保存测试手机号（口述）,v1,用户纠正
+P-D04-01008,u0312,output_style,[ASR] 只给步骤 <!-- cached -->,v2,仅本次例外
+P-D04-01009,u0752,answer_style,help: <p>先给结论，再给步骤</p>！！！,v4,用户纠正
+P-D04-01010,u0575,emoji_policy,那个 纯文本（口述）,v1,用户纠正
+P-D04-01011,u0469,emoji_policy,嗯 禁用……,v2,仅本次例外
+P-D04-01012,u0103,meeting_minutes_format,其实 三段式：背景、决定、待办 @@@,v3,重复记录
+P-D04-01013,u0480,search_scope,呃  **办公软件/模板** <!-- cached -->,v2,管理员导入旧偏好
+P-D04-01014,u0032,privacy_policy,麻烦  敏感信息只用于本轮工具调用 ～,v2,重复记录
+P-D04-01015,,answer_style,那个  先给结论，再给步骤 电话 13812345678 #todo,v1,用户明确表达
+P-D04-01016,,output_style,啊 【先结论后步骤】 @@@,v2,仅本次例外
+P-D04-01017,u0009,meeting_minutes_format,那个  不超过200字 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01018,u0078,privacy_policy,麻烦　不保存测试手机号……,v4,管理员导入旧偏好
+P-D04-01019,u0705,search_scope,稍等 奇麟系统/驱动 @@@,v4,管理员导入旧偏好
+P-D04-01020,u0245,output_style,就是 只给步骤 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01021,u0130,emoji_policy, 默认允许 😅,v1,用户明确表达
+P-D04-01022,u0153,search_scope,"那个 办公软件/模板
+cache=false @@@",v0,用户明确表达
+P-D04-01023,u0554,answer_style,我想想 先给结论，再给步骤,v2,仅本次例外
+P-D04-01024,u0142,privacy_policy,然后然后 不保存测试手机号 @@@,v0,用户明确表达
+P-D04-01025,u0792,meeting_minutes_format,那个 bullet 列表 电话 13812345678 @@@,v4,用户明确表达
+P-D04-01026,u0044,privacy_policy,稍等  不保存测试手机号 #todo,v4,仅本次例外
+P-D04-01027,u0319,emoji_policy,其实 禁用 [draft],v3,仅本次例外
+P-D04-01028,u0326,output_style,然后然后 ```先结论后步骤``` #todo,v1,仅本次例外
+P-D04-01029,u0364,emoji_policy,就是  允许少量 emoji ENDEND,v3,管理员导入旧偏好
+P-D04-01030,u0269,search_scope,[ASR]  仅本地知只库 ～,v1,用户明确表达
+P-D04-01031,u0504,meeting_minutes_format,  不超过200字 [draft],v0,仅本次例外
+P-D04-01032,u0116,emoji_policy,[ASR] 纯文本！！！,v2,重复记录
+P-D04-01033,u0273,privacy_policy,嗯 敏感信息只用于本轮工具调用 @@@,v1,重复记录
+P-D04-01034,u0451,search_scope,嗯 办公软件/模板 😅,v4,管理员导入旧偏好
+P-D04-01035,u0251,privacy_policy,呃　敏感信息只用于本轮工具调用！！！,v2,用户明确表达
+P-D04-01036,u0430,output_style, 只给步骤 @@@,v2,仅本次例外
+P-D04-01037,u0729,search_scope,就是　办公软件/模板 <!-- cached -->,v1,重复记录
+P-D04-01038,u0208,search_scope,我想想 仅本地知识库 [draft],v3,用户纠正
+P-D04-01039,u0378,output_style,麻烦　只给步骤（口述）,v1,管理员导入旧偏好
+P-D04-01040,u0457,emoji_policy,help: 允许少量 emoji 😅,v3,用户纠正
+P-D04-01041,u0699,output_style,嗯 只给步骤 [draft],v4,仅本次例外
+P-D04-01042,u0589,search_scope,其实 仅本地知识库 #todo,v4,用户纠正
+P-D04-01043,u0521,search_scope,然后然后　仅本地知识库 [draft],v4,用户纠正
+P-D04-01044,u0010,meeting_minutes_format,麻烦 **三段式：背景、决定、待办**……,v1,用户纠正
+P-D04-01045,u0099,output_style,[ASR]  ```祥细、带数据表格``` 😅,v0,重复记录
+P-D04-01046,u0249,emoji_policy, ```允许少量 emoji``` ～,v3,重复记录
+P-D04-01047,u0435,meeting_minutes_format,啊 三段式：背景、决定、待办 @@@,v0,重复记录
+P-D04-01048,u0050,answer_style,"啊 先给结论，再给步骤
+cache=false 😅",v0,管理员导入旧偏好
+P-D04-01049,u0454,privacy_policy,稍等 敏感信息只用于本轮工具调用 😅,v1,用户纠正
+P-D04-01050,u0070,search_scope,我想想 办公软件/模板 ～,v1,重复记录
+P-D04-01051,u0366,output_style,啊 简洁、少废话……,v2,仅本次例外
+P-D04-01052,u0542,meeting_minutes_format,help: <<<< 不超过200字 >>>> ENDEND,v3,仅本次例外
+P-D04-01053,u0735,output_style,呃　先结论后步骤 <!-- cached -->,v1,重复记录
+P-D04-01054,u0682,search_scope,我想想　仅本地知只库,v2,重复记录
+P-D04-01055,u0724,emoji_policy,help: 禁用！！！,v2,仅本次例外
+P-D04-01056,u0497,answer_style,麻烦 先给结论，再给步骤 😅,v3,重复记录
+P-D04-01057,u0163,search_scope,麻烦 办公软件/模板 <!-- cached -->,v3,用户纠正
+P-D04-01058,u0112,meeting_minutes_format,那个 bullet 列表……,v4,仅本次例外
+P-D04-01059,u0153,output_style,嗯 简洁、少废话,v1,用户明确表达
+P-D04-01060,u0617,meeting_minutes_format, bullet 列表……,v4,仅本次例外
+P-D04-01061,u0674,output_style,呃 简洁、少废话！！！,v2,仅本次例外
+P-D04-01062,u0110,privacy_policy,我想想  【敏感信息只用于本轮工具调用】 <!-- cached -->,v3,仅本次例外
+P-D04-01063,u0576,output_style,help: 先结论后步骤 #todo,v1,仅本次例外
+P-D04-01064,u0278,privacy_policy,然后然后　不保存测试手机号 @@@,v4,用户明确表达
+P-D04-01065,u0539,answer_style,"help:  先给结论，再给步骤
+cache=false #todo",v2,管理员导入旧偏好
+P-D04-01066,u0713,privacy_policy, 敏感信息只用于本轮工具调用 ENDEND,v1,管理员导入旧偏好
+P-D04-01067,u0757,privacy_policy,"呃 不保存测试手机号
+
+<!--done--> #todo",v3,管理员导入旧偏好
+P-D04-01068,u0772,meeting_minutes_format,[ASR] bullet 列表 ENDEND,v0,用户明确表达
+P-D04-01069,u0140,answer_style,"啊 短句回复
+
+<!--done-->……",v3,管理员导入旧偏好
+P-D04-01070,u0040,answer_style,我想想  详细解释每一步原因 @@@,v3,仅本次例外
+P-D04-01071,u0634,emoji_policy,麻烦 允许少量  emoji ENDEND,v1,重复记录
+P-D04-01072,u0257,search_scope,那个 办公软件/模板 [draft],v3,用户明确表达
+P-D04-01073,u0363,meeting_minutes_format,  <p>三段式：背景、决定、待办</p> [draft],v3,管理员导入旧偏好
+P-D04-01074,u0545,answer_style,稍等　详细解释每一步原因 😅,v1,用户明确表达
+P-D04-01075,u0018,output_style,稍等 先结论后步骤……,v1,管理员导入旧偏好
+P-D04-01076,u0611,emoji_policy,那个 ```默认允许``` ENDEND,v4,仅本次例外
+P-D04-01077,u0744,meeting_minutes_format,呃 三段式：背景、决定、待办,v3,管理员导入旧偏好
+P-D04-01078,u0267,meeting_minutes_format,呃 bullet 列表 ENDEND,v0,仅本次例外
+P-D04-01079,u0019,output_style,"help: 详细、带数据表格
+
+<!--done-->（口述）",v0,管理员导入旧偏好
+P-D04-01080,u0012,meeting_minutes_format,"其实　三段式：背景、决定、待办
+stdout: OK [draft]",v2,重复记录
+P-D04-01081,u0759,meeting_minutes_format,"help: bullet  列表
+stdout: OK <!-- cached -->",v4,用户明确表达
+P-D04-01082,u0107,emoji_policy,然后然后 禁用（口述）,v1,仅本次例外
+P-D04-01083,u0140,meeting_minutes_format," 三段式：背景、决定、待办
+stdout: OK ENDEND",v3,仅本次例外
+P-D04-01084,u0537,meeting_minutes_format,啊 三段式：背景、决定、待办,v4,用户明确表达
+P-D04-01085,u0108,meeting_minutes_format,就是 不超过200字 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01086,u0511,meeting_minutes_format,那个 bullet 列表（口述）,v3,管理员导入旧偏好
+P-D04-01087,u0690,meeting_minutes_format,其实 不超过200字！！！,v0,仅本次例外
+P-D04-01088,u0157,emoji_policy,那个 禁用 #todo,v0,用户纠正
+P-D04-01089,u0093,output_style,呃 详细、带数据表格（口述）,v1,重复记录
+P-D04-01090,u0773,emoji_policy,呃 默认允许 ～,v4,重复记录
+P-D04-01091,u0125,emoji_policy,然后然后 默认允许……,v0,仅本次例外
+P-D04-01092,u0600,meeting_minutes_format,就是 bullet 列表 ～,v3,管理员导入旧偏好
+P-D04-01093,u0057,output_style,呃　只给步骤 ～,v4,管理员导入旧偏好
+P-D04-01094,u0479,meeting_minutes_format,"稍等  三段式：背景、决定、待办
+
+<!--done--> #todo",v2,重复记录
+P-D04-01095,u0040,privacy_policy,嗯 敏感信息只用于本轮工具调用 ENDEND,v4,用户纠正
+P-D04-01096,u0630,output_style,呃 只给步骤（口述）,v2,管理员导入旧偏好
+P-D04-01097,u0712,privacy_policy,那个 敏感信息只用于本轮工具调用 ～,v4,用户明确表达
+P-D04-01098,u0599,search_scope,其实 麒麟系统/驱动（口述）,v2,重复记录
+P-D04-01099,u0178,output_style,就是 先结论后步骤 [draft],v3,重复记录
+P-D04-01100,u0619,meeting_minutes_format,稍等 ```不超过200字``` <!-- cached -->,v2,仅本次例外
+P-D04-01101,u0404,answer_style,麻烦  先给结论，再给步骤 <!-- cached -->,v3,用户纠正
+P-D04-01102,u0195,privacy_policy,[ASR] 敏感信息只用于本轮工具调用 <!-- cached -->,v0,仅本次例外
+P-D04-01103,u0600,answer_style,"嗯 先给结论，再给步骤
+stdout: OK ～",v1,仅本次例外
+P-D04-01104,u0142,answer_style,其实 祥细解释每一步原因 #todo,v2,管理员导入旧偏好
+P-D04-01105,u0649,emoji_policy,呃 纯文本 [draft],v0,用户纠正
+P-D04-01106,u0058,meeting_minutes_format,"那个 三段式：背景、决定、待办
+stdout: OK",v2,重复记录
+P-D04-01107,u0471,search_scope,"啊 <p>仅本地知识库</p>
+stdout: OK 😅",v0,重复记录
+P-D04-01108,u0228,answer_style,那个 详细解释每一步原因 😅,v4,用户明确表达
+P-D04-01109,u0789,privacy_policy,其实 <p>敏感信息只用于本轮工具调用</p>！！！,v3,用户纠正
+P-D04-01110,u0624,search_scope,嗯　【麒麟系統系统/驱动】 [draft],v0,用户明确表达
+P-D04-01111,u0696,search_scope,那个 奇麟系统/驱动,v3,用户纠正
+P-D04-01112,u0484,meeting_minutes_format,嗯 ```三段式：背景、决定、待办``` <!-- cached -->,v0,仅本次例外
+P-D04-01113,u0677,answer_style,然后然后 先给结论，再给步骤 [draft],v2,重复记录
+P-D04-01114,u0409,emoji_policy,然后然后  <<<< 纯文本 >>>> #todo,v0,仅本次例外
+P-D04-01115,u0699,answer_style,[ASR]  短句回复,v1,重复记录
+P-D04-01116,u0135,meeting_minutes_format,呃 bullet  列表！！！,v2,管理员导入旧偏好
+P-D04-01117,u0685,answer_style,然后然后　祥细解释每一步原因（口述）,v4,用户纠正
+P-D04-01118,u0086,answer_style,[ASR] 短句回复 <!-- cached -->,v1,用户明确表达
+P-D04-01119,u0116,meeting_minutes_format,就是 三段式：背景、决定、待办 ～,v0,用户纠正
+P-D04-01120,u0074,search_scope,稍等 仅本地知只库 😅,v3,重复记录
+P-D04-01121,u0025,output_style, 先结论后步骤 ～,v4,重复记录
+P-D04-01122,u0256,output_style,其实 <p>只给步骤</p>……,v0,用户明确表达
+P-D04-01123,u0446,search_scope,我想想 其麟系统/驱动 @@@,v3,用户明确表达
+P-D04-01124,u0117,meeting_minutes_format,呃　不超过200字 #todo,v3,管理员导入旧偏好
+P-D04-01125,u0521,meeting_minutes_format,啊 三段式：背景、决定、待办！！！,v1,用户纠正
+P-D04-01126,u0342,output_style,  只给步骤 #todo,v3,用户明确表达
+P-D04-01127,u0081,search_scope,嗯　办公软件/模板（口述）,v2,管理员导入旧偏好
+P-D04-01128,u0360,emoji_policy,然后然后 默认允许,v0,管理员导入旧偏好
+P-D04-01129,u0324,search_scope,然后然后 麒麟系统/驱动 [draft],v2,用户明确表达
+P-D04-01130,u0162,privacy_policy,然后然后 ```不保存测试手机号``` @@@,v4,用户纠正
+P-D04-01131,u0160,emoji_policy,"嗯 禁用
+cache=false 😅",v0,管理员导入旧偏好
+P-D04-01132,u0511,meeting_minutes_format,啊 三段式：背景、决定、待办 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-01133,u0346,search_scope,麻烦 仅本地知只库 ENDEND,v0,管理员导入旧偏好
+P-D04-01134,u0127,meeting_minutes_format,"呃 三段式：背景、决定、待办
+stdout: OK！！！",v2,用户明确表达
+P-D04-01135,u0143,answer_style,嗯 详细解释每一步原因 @@@,v1,管理员导入旧偏好
+P-D04-01136,u0233,privacy_policy,我想想  不保存测试手机号 <!-- cached -->,v2,用户纠正
+P-D04-01137,u0001,answer_style,麻烦 先给结论，再给步骤 #todo,v0,重复记录
+P-D04-01138,u0494,privacy_policy,然后然后 不保存测试手机号 ～,v1,仅本次例外
+P-D04-01139,u0308,privacy_policy,麻烦 敏感信息只用于本轮工具调用 ～,v2,用户明确表达
+P-D04-01140,u0512,meeting_minutes_format,麻烦 bullet 列表……,v1,重复记录
+P-D04-01141,u0360,meeting_minutes_format,help:  不超过200字 @@@,v4,仅本次例外
+P-D04-01142,u0248,search_scope,嗯 办公软件/模板 @@@,v0,管理员导入旧偏好
+P-D04-01143,u0463,privacy_policy,我想想  敏感信息只用于本轮工具调用 ENDEND,v0,重复记录
+P-D04-01144,u0585,output_style,稍等　详细、带数据表格 <!-- cached -->,v3,用户纠正
+P-D04-01145,u0279,meeting_minutes_format,嗯 bullet 列表 电话 13812345678！！！,v3,管理员导入旧偏好
+P-D04-01146,u0215,emoji_policy,啊  纯文本 😅,v0,用户纠正
+P-D04-01147,u0225,emoji_policy,然后然后 纯文本！！！,v4,用户明确表达
+P-D04-01148,,emoji_policy,啊  纯文本（口述）,v2,重复记录
+P-D04-01149,u0751,search_scope,[ASR]　办公软件/模板 😅,v1,重复记录
+P-D04-01150,u0077,answer_style,我想想  先给结论，再给步骤 [draft],v0,用户纠正
+P-D04-01151,u0734,emoji_policy,[ASR] 禁用 ENDEND,v3,仅本次例外
+P-D04-01152,u0361,answer_style,[ASR] 先给结论，再给步骤 [draft],v1,用户明确表达
+P-D04-01153,u0574,meeting_minutes_format,"稍等 bullet 列表
+cache=false ～",v0,管理员导入旧偏好
+P-D04-01154,u0432,emoji_policy,[ASR] <<<< 默认允许 >>>> ENDEND,v2,用户明确表达
+P-D04-01155,u0583,privacy_policy,我想想 不保存测试手机号（口述）,v2,用户纠正
+P-D04-01156,u0175,output_style, 只给步骤 [draft],v0,仅本次例外
+P-D04-01157,u0193,output_style,稍等  <<<< 简洁、少废话 >>>> 😅,v1,管理员导入旧偏好
+P-D04-01158,u0466,answer_style,那个 先给结论，再给步骤 😅,v0,重复记录
+P-D04-01159,u0036,emoji_policy,其实 禁用 [draft],v3,管理员导入旧偏好
+P-D04-01160,u0474,meeting_minutes_format,我想想 三段式：背景、决定、待办（口述）,v0,重复记录
+P-D04-01161,u0323,privacy_policy,就是 不保存测试手机号 @@@,v3,用户纠正
+P-D04-01162,u0599,search_scope,help: 麒麟系統系统/驱动 ENDEND,v4,管理员导入旧偏好
+P-D04-01163,u0064,meeting_minutes_format,  【bullet 列表】,v3,仅本次例外
+P-D04-01164,u0268,search_scope,就是 办公软件/模板,v2,用户明确表达
+P-D04-01165,u0751,output_style,"[ASR] 简洁、少废话
+stdout: OK @@@",v4,重复记录
+P-D04-01166,u0438,privacy_policy,啊 敏感信息只用于本轮工具调用 ENDEND,v1,管理员导入旧偏好
+P-D04-01167,u0025,output_style,麻烦 只给步骤 ENDEND,v3,管理员导入旧偏好
+P-D04-01168,u0676,meeting_minutes_format,"然后然后 <p>bullet 列表</p>
+
+<!--done--> 😅",v4,重复记录
+P-D04-01169,u0675,privacy_policy,然后然后 敏感信息只用于本轮工具调用 ～,v1,用户明确表达
+P-D04-01170,u0709,meeting_minutes_format, 三段式：背景、决定、待办 ～,v4,用户纠正
+P-D04-01171,u0005,privacy_policy,啊 敏感信息只用于本轮工具调用 #todo,v2,用户明确表达
+P-D04-01172,u0674,search_scope,啊  【办公软件/模板】……,v1,管理员导入旧偏好
+P-D04-01173,u0735,privacy_policy,其实  不保存测试手机号 😅,v4,用户明确表达
+P-D04-01174,u0588,privacy_policy,嗯 【敏感信息只用于本轮工具调用】 [draft],v0,管理员导入旧偏好
+P-D04-01175,u0571,emoji_policy,啊 允许少量 emoji [draft],v1,管理员导入旧偏好
+P-D04-01176,u0412,answer_style,[ASR] 先给结论，再给步骤……,v1,用户纠正
+P-D04-01177,u0081,privacy_policy,就是 不保存测试手机号 ～,v4,用户明确表达
+P-D04-01178,u0392,search_scope,就是 麒麟系统/驱动 [draft],v4,用户明确表达
+P-D04-01179,u0714,privacy_policy,那个 不保存测试手机号 😅,v2,用户明确表达
+P-D04-01180,u0552,emoji_policy,那个  禁用,v1,用户明确表达
+P-D04-01181,u0208,search_scope,"[ASR] 办公软件/模板
+cache=false！！！",v3,用户纠正
+P-D04-01182,u0748,emoji_policy,其实 禁用 😅,v0,用户纠正
+P-D04-01183,u0723,output_style,那个 先结论后步骤……,v0,管理员导入旧偏好
+P-D04-01184,u0761,privacy_policy,help: 敏感信息只用于本轮工具调用 <!-- cached -->,v0,仅本次例外
+P-D04-01185,u0721,meeting_minutes_format,"呃 三段式：背景、决定、待办
+
+<!--done--> ENDEND",v3,重复记录
+P-D04-01186,u0162,privacy_policy,[ASR] 不保存测试手机号 [draft],v0,用户明确表达
+P-D04-01187,u0492,privacy_policy,稍等 敏感信息只用于本轮工具调用（口述）,v2,仅本次例外
+P-D04-01188,u0470,search_scope,其实　<p>仅本地知只库</p> @@@,v3,用户明确表达
+P-D04-01189,u0749,answer_style,麻烦 短句回复 ENDEND,v0,管理员导入旧偏好
+P-D04-01190,u0025,privacy_policy,啊 不保存测试手机号 ENDEND,v4,重复记录
+P-D04-01191,u0118,privacy_policy, 不保存测试手机号！！！,v1,重复记录
+P-D04-01192,u0629,emoji_policy,  禁用 😅,v0,仅本次例外
+P-D04-01193,u0218,emoji_policy,然后然后 **纯文本** 😅,v4,重复记录
+P-D04-01194,u0685,meeting_minutes_format,然后然后 三段式：背景、决定、待办 ～,v3,仅本次例外
+P-D04-01195,u0401,answer_style,就是 祥细解释每一步原因（口述）,v0,重复记录
+P-D04-01196,u0497,search_scope,help: 办公软件/模板 #todo,v2,重复记录
+P-D04-01197,u0448,search_scope,然后然后 ```仅本地知识库``` <!-- cached -->,v2,重复记录
+P-D04-01198,u0007,emoji_policy,"[ASR] 默认允许
+cache=false #todo",v0,仅本次例外
+P-D04-01199,u0097,privacy_policy,help: 不保存测试手机号 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-01200,u0153,output_style,"啊 **先结论后步骤**
+stdout: OK",v4,仅本次例外
+P-D04-01201,u0422,privacy_policy,麻烦 敏感信息只用于本轮工具调用（口述）,v1,管理员导入旧偏好
+P-D04-01202,u0222,meeting_minutes_format,然后然后 不超过200字 <!-- cached -->,v2,用户明确表达
+P-D04-01203,u0180,output_style,[ASR] 祥细、带数据表格……,v0,重复记录
+P-D04-01204,u0698,answer_style,稍等  先给结论，再给步骤 ～,v0,用户明确表达
+P-D04-01205,u0534,meeting_minutes_format,然后然后 ```不超过200字```,v0,管理员导入旧偏好
+P-D04-01206,u0114,emoji_policy,稍等 默认允许 ENDEND,v4,用户明确表达
+P-D04-01207,u0797,output_style,那个 先结论后步骤 #todo,v3,用户明确表达
+P-D04-01208,u0252,answer_style,就是　短句回复 [draft],v1,管理员导入旧偏好
+P-D04-01209,u0043,answer_style,help: 短句回复 @@@,v0,用户纠正
+P-D04-01210,u0002,search_scope,那个 办公软件/模板！！！,v1,仅本次例外
+P-D04-01211,u0568,output_style,呃 先结论后步骤 ENDEND,v2,用户明确表达
+P-D04-01212,u0446,meeting_minutes_format,  bullet 列表 @@@,v4,仅本次例外
+P-D04-01213,u0420,search_scope,"啊 办公软件/模板
+stdout: OK……",v4,管理员导入旧偏好
+P-D04-01214,u0074,output_style,麻烦　只给步骤 ～,v2,管理员导入旧偏好
+P-D04-01215,u0004,output_style,"麻烦  简洁、少废话
+
+<!--done-->！！！",v4,管理员导入旧偏好
+P-D04-01216,u0249,emoji_policy,[ASR] 允许少量 emoji,v4,重复记录
+P-D04-01217,u0290,meeting_minutes_format,麻烦 【三段式：背景、决定、待办】（口述）,v2,管理员导入旧偏好
+P-D04-01218,u0584,answer_style,稍等 祥细解释每一步原因 [draft],v4,用户纠正
+P-D04-01219,u0269,meeting_minutes_format,就是 不超过200字（口述）,v4,用户纠正
+P-D04-01220,u0300,privacy_policy,麻烦 敏感信息只用于本轮工具调用……,v3,仅本次例外
+P-D04-01221,u0718,privacy_policy,稍等 敏感信息只用于本轮工具调用 @@@,v3,用户纠正
+P-D04-01222,u0206,privacy_policy,呃 ```不保存测试手机号```……,v4,管理员导入旧偏好
+P-D04-01223,u0122,answer_style,那个 先给结论，再给步骤 @@@,v3,管理员导入旧偏好
+P-D04-01224,u0361,search_scope, <p>仅本地知只库</p> <!-- cached -->,v2,仅本次例外
+P-D04-01225,u0581,meeting_minutes_format,[ASR] 不超过200字 ENDEND,v2,用户明确表达
+P-D04-01226,u0067,answer_style, 先给结论，再给步骤 😅,v0,管理员导入旧偏好
+P-D04-01227,u0650,output_style,啊 只给步骤 [draft],v4,用户纠正
+P-D04-01228,u0280,meeting_minutes_format,help: bullet 列表 ENDEND,v2,仅本次例外
+P-D04-01229,u0613,privacy_policy,呃 敏感信息只用于本轮工具调用 #todo,v4,用户明确表达
+P-D04-01230,u0641,privacy_policy,其实 不保存测试手机号！！！,v4,管理员导入旧偏好
+P-D04-01231,u0220,output_style,其实　只给步骤 ～,v2,用户明确表达
+P-D04-01232,u0721,answer_style,就是 【先给结论，再给步骤】 [draft],v2,管理员导入旧偏好
+P-D04-01233,u0746,privacy_policy,然后然后 敏感信息只用于本轮工具调用 @@@,v4,仅本次例外
+P-D04-01234,u0167,meeting_minutes_format,呃　bullet 列表 @@@,v3,用户明确表达
+P-D04-01235,u0019,emoji_policy,啊 纯文本！！！,v3,重复记录
+P-D04-01236,u0347,output_style,"嗯  只给步骤
+
+<!--done-->",v3,仅本次例外
+P-D04-01237,,privacy_policy,"我想想 敏感信息只用于本轮工具调用
+cache=false ENDEND",v0,用户纠正
+P-D04-01238,u0790,output_style,我想想 只给步骤……,v0,管理员导入旧偏好
+P-D04-01239,u0016,meeting_minutes_format,我想想 三段式：背景、决定、待办 [draft],v4,管理员导入旧偏好
+P-D04-01240,u0127,search_scope, 仅本地知识库 @@@,v0,重复记录
+P-D04-01241,u0206,emoji_policy,呃 默认允许 ～,v4,管理员导入旧偏好
+P-D04-01242,u0448,meeting_minutes_format,我想想 不超过200字 [draft],v3,用户纠正
+P-D04-01243,u0341,meeting_minutes_format,麻烦 不超过200字 @@@,v4,管理员导入旧偏好
+P-D04-01244,u0204,privacy_policy,啊 不保存测试手机号 [draft],v4,仅本次例外
+P-D04-01245,u0557,output_style,然后然后 简洁、少废话 <!-- cached -->,v3,仅本次例外
+P-D04-01246,u0093,search_scope,稍等 麒麟系统/驱动 #todo,v0,管理员导入旧偏好
+P-D04-01247,u0560,answer_style,其实  详细解释每一步原因！！！,v3,用户纠正
+P-D04-01248,u0538,emoji_policy,help:  纯文本（口述）,v4,用户纠正
+P-D04-01249,u0394,privacy_policy,就是 ```敏感信息只用于本轮工具调用``` <!-- cached -->,v3,重复记录
+P-D04-01250,u0704,emoji_policy,我想想 默认允许 @@@,v3,用户纠正
+P-D04-01251,u0133,output_style,[ASR] 详细、带数据表格,v3,用户明确表达
+P-D04-01252,u0737,meeting_minutes_format,嗯 不超过200字 #todo,v3,重复记录
+P-D04-01253,u0307,search_scope,呃　仅本地知识库……,v4,重复记录
+P-D04-01254,u0126,emoji_policy,help: 纯文本 ～,v3,重复记录
+P-D04-01255,u0742,meeting_minutes_format,稍等 不超过200字！！！,v1,管理员导入旧偏好
+P-D04-01256,u0406,meeting_minutes_format,help:　三段式：背景、决定、待办 ENDEND,v2,重复记录
+P-D04-01257,u0203,emoji_policy, **默认允许** <!-- cached -->,v1,重复记录
+P-D04-01258,u0260,answer_style,稍等 短句回复（口述）,v2,用户纠正
+P-D04-01259,u0273,emoji_policy,然后然后 允许少量 emoji……,v0,仅本次例外
+P-D04-01260,u0528,meeting_minutes_format,就是 bullet 列表 @@@,v3,重复记录
+P-D04-01261,u0075,privacy_policy,呃 敏感信息只用于本轮工具调用……,v4,重复记录
+P-D04-01262,u0190,answer_style, 详细解释每一步原因 😅,v3,管理员导入旧偏好
+P-D04-01263,u0327,emoji_policy,稍等 允许少量 emoji #todo,v0,仅本次例外
+P-D04-01264,u0240,emoji_policy,"啊 默认允许
+
+<!--done--> 😅",v3,管理员导入旧偏好
+P-D04-01265,u0554,meeting_minutes_format, bullet 列表,v3,用户明确表达
+P-D04-01266,u0153,answer_style,那个 先给结论，再给步骤 #todo,v2,管理员导入旧偏好
+P-D04-01267,u0481,answer_style,呃 短句回复（口述）,v4,管理员导入旧偏好
+P-D04-01268,u0232,search_scope,稍等 麒麟系统/驱动 @@@,v2,仅本次例外
+P-D04-01269,u0684,search_scope,"稍等  麒麟系統系统/驱动
+stdout: OK @@@",v1,用户明确表达
+P-D04-01270,u0762,privacy_policy,"嗯 敏感信息只用于本轮工具调用
+
+<!--done--> ～",v0,用户纠正
+P-D04-01271,u0480,privacy_policy,麻烦 不保存测试手机号 ENDEND,v2,仅本次例外
+P-D04-01272,u0241,search_scope,"啊　【仅本地知识库】
+stdout: OK ENDEND",v0,用户明确表达
+P-D04-01273,u0051,emoji_policy, 纯文本 [draft],v0,仅本次例外
+P-D04-01274,u0446,meeting_minutes_format,我想想 不超过200字 @@@,v0,重复记录
+P-D04-01275,u0130,search_scope,其实 办公软件/模板,v3,用户明确表达
+P-D04-01276,u0312,answer_style, 先给结论，再给步骤！！！,v1,仅本次例外
+P-D04-01277,u0617,emoji_policy,啊 允许少量 emoji [draft],v1,仅本次例外
+P-D04-01278,u0048,meeting_minutes_format,  bullet 列表 ～,v0,用户纠正
+P-D04-01279,u0054,emoji_policy,麻烦 默认允许 ENDEND,v4,管理员导入旧偏好
+P-D04-01280,u0385,output_style,呃 只给步骤 <!-- cached -->,v4,重复记录
+P-D04-01281,u0267,answer_style,然后然后 短句回复……,v2,重复记录
+P-D04-01282,u0519,answer_style,然后然后 【短句回复】 @@@,v1,用户明确表达
+P-D04-01283,u0492,answer_style,呃 短句回复 @@@,v1,用户纠正
+P-D04-01284,u0641,emoji_policy,嗯 禁用 <!-- cached -->,v2,重复记录
+P-D04-01285,u0483,meeting_minutes_format," bullet 列表
+
+<!--done--> @@@",v2,重复记录
+P-D04-01286,u0181,output_style,稍等　简洁、少废话（口述）,v0,用户明确表达
+P-D04-01287,u0655,privacy_policy,啊 不保存测试手机号 @@@,v2,重复记录
+P-D04-01288,u0795,meeting_minutes_format,啊 不超过200字 #todo,v0,用户明确表达
+P-D04-01289,u0783,privacy_policy,稍等 <<<< 不保存测试手机号 >>>>,v4,管理员导入旧偏好
+P-D04-01290,u0413,emoji_policy,我想想 <p>纯文本</p>（口述）,v4,用户明确表达
+P-D04-01291,u0414,emoji_policy,其实 ```纯文本```（口述）,v4,仅本次例外
+P-D04-01292,u0766,meeting_minutes_format,然后然后　bullet 列表 [draft],v0,用户明确表达
+P-D04-01293,u0215,output_style,麻烦 祥细、带数据表格！！！,v1,管理员导入旧偏好
+P-D04-01294,u0250,emoji_policy,啊 纯文本 😅,v2,管理员导入旧偏好
+P-D04-01295,u0130,output_style,其实 先结论后步骤 😅,v2,用户明确表达
+P-D04-01296,u0637,emoji_policy,我想想 纯文本 ENDEND,v3,管理员导入旧偏好
+P-D04-01297,u0564,search_scope,help: 仅本地知识库 @@@,v2,用户明确表达
+P-D04-01298,u0785,emoji_policy,[ASR]　纯文本 #todo,v4,用户纠正
+P-D04-01299,u0578,emoji_policy,[ASR] 允许少量 emoji @@@,v4,管理员导入旧偏好
+P-D04-01300,u0212,meeting_minutes_format,就是 不超过200字 ENDEND,v3,用户明确表达
+P-D04-01301,u0015,emoji_policy,就是 禁用（口述）,v2,用户明确表达
+P-D04-01302,u0536,output_style,help: <p>简洁、少废话</p> [draft],v0,仅本次例外
+P-D04-01303,u0181,answer_style,稍等 祥细解释每一步原因 [draft],v3,重复记录
+P-D04-01304,u0682,output_style,"啊 详细、带数据表格
+cache=false <!-- cached -->",v4,仅本次例外
+P-D04-01305,u0773,emoji_policy,help: 纯文本 😅,v1,用户明确表达
+P-D04-01306,u0460,answer_style,就是 先给结论，再给步骤 ENDEND,v2,用户纠正
+P-D04-01307,u0645,meeting_minutes_format,help: 不超过200字 <!-- cached -->,v0,重复记录
+P-D04-01308,u0455,privacy_policy," 不保存测试手机号
+stdout: OK @@@",v4,用户明确表达
+P-D04-01309,u0162,meeting_minutes_format,就是 bullet	列表 <!-- cached -->,v1,用户纠正
+P-D04-01310,u0454,emoji_policy,"麻烦 默认允许
+stdout: OK @@@",v0,管理员导入旧偏好
+P-D04-01311,u0204,meeting_minutes_format,麻烦 不超过200字 😅,v1,用户纠正
+P-D04-01312,u0563,emoji_policy,其实　允许少量 emoji @@@,v2,用户明确表达
+P-D04-01313,u0190,meeting_minutes_format,"其实 三段式：背景、决定、待办
+stdout: OK（口述）",v1,仅本次例外
+P-D04-01314,u0063,output_style,那个 <<<< 先结论后步骤 >>>>（口述）,v4,用户纠正
+P-D04-01315,u0708,search_scope,我想想 麒麟系统/驱动 ENDEND,v1,仅本次例外
+P-D04-01316,u0719,privacy_policy,麻烦 敏感信息只用于本轮工具调用……,v1,重复记录
+P-D04-01317,u0319,emoji_policy,然后然后 默认允许,v4,用户纠正
+P-D04-01318,u0009,privacy_policy,呃 不保存测试手机号 #todo,v4,用户纠正
+P-D04-01319,u0786,emoji_policy, 默认允许 ～,v4,管理员导入旧偏好
+P-D04-01320,u0367,emoji_policy, 纯文本 @@@,v1,仅本次例外
+P-D04-01321,u0382,emoji_policy,麻烦 禁用 <!-- cached -->,v1,重复记录
+P-D04-01322,u0502,answer_style,呃  短句回复 #todo,v4,管理员导入旧偏好
+P-D04-01323,u0374,search_scope,"我想想 麒麟系统/驱动
+
+<!--done--> 😅",v1,仅本次例外
+P-D04-01324,u0336,meeting_minutes_format,呃 不超过200字 [draft],v4,仅本次例外
+P-D04-01325,u0001,privacy_policy,"稍等 不保存测试手机号
+
+<!--done-->！！！",v0,仅本次例外
+P-D04-01326,u0334,meeting_minutes_format,然后然后 不超过200字 ENDEND,v0,仅本次例外
+P-D04-01327,u0036,privacy_policy," ```不保存测试手机号```
+
+<!--done--> #todo",v3,管理员导入旧偏好
+P-D04-01328,u0770,answer_style,呃  <p>祥细解释每一步原因</p> ～,v2,管理员导入旧偏好
+P-D04-01329,u0330,answer_style,嗯 短句回复 😅,v2,仅本次例外
+P-D04-01330,u0202,search_scope,那个　<p>仅本地知识库</p> [draft],v0,用户纠正
+P-D04-01331,u0390,meeting_minutes_format, <p>不超过200字</p> 😅,v4,仅本次例外
+P-D04-01332,u0771,output_style,那个　详细、带数据表格 😅,v1,管理员导入旧偏好
+P-D04-01333,u0111,output_style,help:　简洁、少废话,v0,用户纠正
+P-D04-01334,u0405,privacy_policy,[ASR] 不保存测试手机号,v1,仅本次例外
+P-D04-01335,u0737,meeting_minutes_format,其实 bullet 列表……,v4,重复记录
+P-D04-01336,u0323,meeting_minutes_format,那个 三段式：背景、决定、待办（口述）,v0,用户纠正
+P-D04-01337,u0630,output_style,啊 只给步骤（口述）,v2,管理员导入旧偏好
+P-D04-01338,u0694,answer_style,啊 祥细解释每一步原因 @@@,v2,管理员导入旧偏好
+P-D04-01339,u0474,search_scope,help: 办公软件/模板 😅,v3,用户纠正
+P-D04-01340,u0748,emoji_policy,就是　默认允许 ～,v0,管理员导入旧偏好
+P-D04-01341,u0792,answer_style,help: 短句回复 ～,v2,仅本次例外
+P-D04-01342,u0761,output_style,然后然后 简洁、少废话 #todo,v0,用户明确表达
+P-D04-01343,u0645,answer_style,我想想 **短句回复** [draft],v1,仅本次例外
+P-D04-01344,u0723,search_scope, <<<< 办公软件/模板 >>>> [draft],v1,重复记录
+P-D04-01345,u0352,meeting_minutes_format,啊 三段式：背景、决定、待办 😅,v3,重复记录
+P-D04-01346,u0217,search_scope,啊 麒麟系统/驱动 ～,v4,仅本次例外
+P-D04-01347,u0116,search_scope, 办公软件/模板 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01348,u0032,privacy_policy,然后然后 【敏感信息只用于本轮工具调用】 ～,v4,仅本次例外
+P-D04-01349,u0406,answer_style,其实 先给结论，再给步骤！！！,v4,用户明确表达
+P-D04-01350,u0742,meeting_minutes_format,然后然后 不超过200字,v0,仅本次例外
+P-D04-01351,u0723,privacy_policy,我想想 不保存测试手机号！！！,v0,重复记录
+P-D04-01352,u0767,answer_style,然后然后 先给结论，再给步骤,v0,用户明确表达
+P-D04-01353,u0351,output_style,help: <<<< 详细、带数据表格 >>>> ENDEND,v4,重复记录
+P-D04-01354,u0340,answer_style,"嗯 短句回复
+
+<!--done--> #todo",v4,用户纠正
+P-D04-01355,u0644,output_style,我想想　只给步骤（口述）,v1,仅本次例外
+P-D04-01356,u0565,search_scope,啊 其麟系统/驱动 ～,v2,管理员导入旧偏好
+P-D04-01357,u0122,meeting_minutes_format,我想想  bullet 列表 @@@,v4,重复记录
+P-D04-01358,u0110,output_style,其实 简洁、少废话 @@@,v3,管理员导入旧偏好
+P-D04-01359,u0458,answer_style,我想想 短句回复……,v3,仅本次例外
+P-D04-01360,u0363,emoji_policy,稍等 <p>纯文本</p> 😅,v2,管理员导入旧偏好
+P-D04-01361,u0532,privacy_policy,嗯  ```敏感信息只用于本轮工具调用```！！！,v3,用户明确表达
+P-D04-01362,u0639,answer_style,然后然后 祥细解释每一步原因（口述）,v4,重复记录
+P-D04-01363,u0706,output_style,help: **只给步骤**,v3,仅本次例外
+P-D04-01364,u0164,meeting_minutes_format,那个 三段式：背景、决定、待办 #todo,v0,管理员导入旧偏好
+P-D04-01365,u0075,emoji_policy,"那个 默认允许
+cache=false ～",v3,仅本次例外
+P-D04-01366,u0057,meeting_minutes_format,[ASR] 不超过200字 #todo,v2,管理员导入旧偏好
+P-D04-01367,u0539,meeting_minutes_format,[ASR] 【三段式：背景、决定、待办】……,v4,管理员导入旧偏好
+P-D04-01368,u0068,search_scope,help: 办公软件/模板 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-01369,u0703,output_style, 先结论后步骤 ENDEND,v2,管理员导入旧偏好
+P-D04-01370,u0158,meeting_minutes_format,那个 【不超过200字】 [draft],v0,用户纠正
+P-D04-01371,u0601,meeting_minutes_format,然后然后 不超过200字（口述）,v2,用户纠正
+P-D04-01372,u0407,meeting_minutes_format,啊  三段式：背景、决定、待办 😅,v1,管理员导入旧偏好
+P-D04-01373,u0122,output_style,那个 简洁、少废话 #todo,v3,重复记录
+P-D04-01374,u0583,meeting_minutes_format,稍等 三段式：背景、决定、待办（口述）,v2,用户明确表达
+P-D04-01375,u0546,privacy_policy,我想想 敏感信息只用于本轮工具调用 [draft],v3,用户纠正
+P-D04-01376,u0576,output_style,其实 先结论后步骤 @@@,v2,用户明确表达
+P-D04-01377,u0127,search_scope,那个 仅本地知只库 ENDEND,v2,重复记录
+P-D04-01378,,output_style,那个  只给步骤 ENDEND,v3,用户明确表达
+P-D04-01379,,emoji_policy,然后然后 ```纯文本``` #todo,v2,仅本次例外
+P-D04-01380,u0117,meeting_minutes_format,稍等 三段式：背景、决定、待办 @@@,v1,重复记录
+P-D04-01381,u0555,privacy_policy,其实 不保存测试手机号 ENDEND,v0,仅本次例外
+P-D04-01382,u0179,privacy_policy,我想想 不保存测试手机号 @@@,v0,管理员导入旧偏好
+P-D04-01383,u0229,output_style,　只给步骤 ENDEND,v2,用户纠正
+P-D04-01384,,output_style,嗯 只给步骤 [draft],v4,仅本次例外
+P-D04-01385,u0762,meeting_minutes_format,那个 **三段式：背景、决定、待办** [draft],v3,用户纠正
+P-D04-01386,u0247,meeting_minutes_format,我想想 不超过200字！！！,v1,用户纠正
+P-D04-01387,u0543,meeting_minutes_format,麻烦 不超过200字 <!-- cached -->,v4,仅本次例外
+P-D04-01388,u0112,answer_style,那个 短句回复 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01389,u0257,answer_style,麻烦 短句回复 ENDEND,v4,用户纠正
+P-D04-01390,u0154,answer_style,呃　短句回复 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01391,u0774,emoji_policy,麻烦 纯文本 <!-- cached -->,v2,用户纠正
+P-D04-01392,u0683,answer_style,麻烦  详细解释每一步原因……,v4,用户明确表达
+P-D04-01393,u0237,answer_style,那个 短句回复 <!-- cached -->,v1,仅本次例外
+P-D04-01394,u0445,output_style,其实 先结论后步骤,v1,重复记录
+P-D04-01395,u0736,meeting_minutes_format,那个 不超过200字……,v2,重复记录
+P-D04-01396,u0451,output_style,"我想想  简洁、少废话
+stdout: OK #todo",v3,用户纠正
+P-D04-01397,u0310,output_style,其实 简洁、少废话……,v4,用户纠正
+P-D04-01398,u0448,privacy_policy,那个 不保存测试手机号（口述）,v1,管理员导入旧偏好
+P-D04-01399,u0004,privacy_policy,"嗯 不保存测试手机号
+stdout: OK……",v0,重复记录
+P-D04-01400,u0533,answer_style,稍等  **短句回复** [draft],v1,仅本次例外
+P-D04-01401,u0150,privacy_policy,啊 不保存测试手机号 ENDEND,v4,重复记录
+P-D04-01402,u0725,privacy_policy,就是  敏感信息只用于本轮工具调用 <!-- cached -->,v2,用户明确表达
+P-D04-01403,u0767,privacy_policy, 不保存测试手机号……,v1,用户明确表达
+P-D04-01404,u0646,search_scope,"麻烦 麒麟系统/驱动
+stdout: OK ENDEND",v0,管理员导入旧偏好
+P-D04-01405,u0269,meeting_minutes_format,"其实 三段式：背景、决定、待办
+stdout: OK 😅",v3,用户纠正
+P-D04-01406,u0621,emoji_policy,稍等 纯文本 @@@,v4,重复记录
+P-D04-01407,u0772,answer_style,就是 详细解释每一步原因 <!-- cached -->,v4,用户纠正
+P-D04-01408,u0213,emoji_policy,就是 默认允许 <!-- cached -->,v0,用户明确表达
+P-D04-01409,u0731,output_style,然后然后　详细、带数据表格 #todo,v3,管理员导入旧偏好
+P-D04-01410,u0013,meeting_minutes_format,呃 不超过200字 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01411,u0294,emoji_policy,[ASR]  默认允许 @@@,v3,重复记录
+P-D04-01412,u0229,emoji_policy,然后然后　纯文本！！！,v1,用户明确表达
+P-D04-01413,u0278,output_style,其实 只给步骤,v2,仅本次例外
+P-D04-01414,u0439,answer_style,我想想 短句回复（口述）,v1,用户明确表达
+P-D04-01415,u0203,output_style,help: 详细、带数据表格 ENDEND,v2,管理员导入旧偏好
+P-D04-01416,u0208,meeting_minutes_format,稍等 三段式：背景、决定、待办,v4,用户纠正
+P-D04-01417,u0256,search_scope,help: 仅本地知识库！！！,v2,管理员导入旧偏好
+P-D04-01418,u0052,answer_style,稍等 先给结论，再给步骤 [draft],v1,重复记录
+P-D04-01419,u0093,meeting_minutes_format,help: bullet 列表（口述）,v1,管理员导入旧偏好
+P-D04-01420,u0524,privacy_policy,麻烦 【敏感信息只用于本轮工具调用】 ～,v2,用户纠正
+P-D04-01421,u0165,output_style,[ASR]  祥细、带数据表格 😅,v4,用户纠正
+P-D04-01422,u0151,answer_style,麻烦 详细解释每一步原因 #todo,v0,用户明确表达
+P-D04-01423,u0672,meeting_minutes_format,麻烦 不超过200字 @@@,v0,仅本次例外
+P-D04-01424,u0435,emoji_policy,[ASR] 禁用 ～,v2,管理员导入旧偏好
+P-D04-01425,u0705,answer_style,然后然后 详细解释每一步原因 ENDEND,v1,用户纠正
+P-D04-01426,u0788,search_scope,[ASR] 其麟系统/驱动 @@@,v3,仅本次例外
+P-D04-01427,u0292,privacy_policy,麻烦 不保存测试手机号（口述）,v1,仅本次例外
+P-D04-01428,u0118,output_style,其实 <p>先结论后步骤</p>,v1,管理员导入旧偏好
+P-D04-01429,u0537,answer_style,嗯 短句回复 <!-- cached -->,v1,用户纠正
+P-D04-01430,u0047,emoji_policy,就是 默认允许 ENDEND,v0,用户纠正
+P-D04-01431,u0728,emoji_policy,help: 【默认允许】……,v0,重复记录
+P-D04-01432,u0142,output_style,[ASR] 详细、带数据表格 😅,v4,仅本次例外
+P-D04-01433,u0118,output_style,"嗯 只给步骤
+stdout: OK <!-- cached -->",v3,管理员导入旧偏好
+P-D04-01434,u0583,answer_style,"嗯 先给结论，再给步骤
+stdout: OK [draft]",v2,仅本次例外
+P-D04-01435,u0356,output_style,其实 先结论后步骤,v4,管理员导入旧偏好
+P-D04-01436,u0520,emoji_policy,"呃 纯文本
+cache=false <!-- cached -->",v4,仅本次例外
+P-D04-01437,u0408,search_scope,嗯 仅本地知识库 [draft],v0,重复记录
+P-D04-01438,u0397,search_scope,啊  【办公软件/模板】（口述）,v3,仅本次例外
+P-D04-01439,u0727,meeting_minutes_format,"就是  bullet 列表
+
+<!--done-->",v0,用户明确表达
+P-D04-01440,u0525,answer_style,我想想　祥细解释每一步原因 @@@,v0,管理员导入旧偏好
+P-D04-01441,u0377,output_style,"[ASR] 简洁、少废话
+cache=false ENDEND",v2,管理员导入旧偏好
+P-D04-01442,u0104,output_style,嗯  简洁、少废话……,v0,重复记录
+P-D04-01443,u0448,answer_style,"其实 【短句回复】
+
+<!--done-->",v3,管理员导入旧偏好
+P-D04-01444,u0011,meeting_minutes_format,嗯 bullet 列表 @@@,v1,重复记录
+P-D04-01445,u0195,meeting_minutes_format,就是  <<<< 不超过200字 >>>>……,v0,重复记录
+P-D04-01446,u0030,emoji_policy,嗯　禁用 [draft],v4,管理员导入旧偏好
+P-D04-01447,u0620,privacy_policy,其实 敏感信息只用于本轮工具调用 #todo,v3,重复记录
+P-D04-01448,u0190,search_scope,啊 仅本地知只库……,v0,用户明确表达
+P-D04-01449,u0382,emoji_policy,稍等 纯文本,v3,管理员导入旧偏好
+P-D04-01450,u0295,emoji_policy,嗯 允许少量 emoji [draft],v0,重复记录
+P-D04-01451,u0243,emoji_policy,啊 <p>禁用</p>！！！,v0,仅本次例外
+P-D04-01452,u0338,answer_style, 短句回复 <!-- cached -->,v4,用户纠正
+P-D04-01453,u0082,emoji_policy,嗯 禁用,v4,管理员导入旧偏好
+P-D04-01454,,answer_style,麻烦  【短句回复】！！！,v3,用户明确表达
+P-D04-01455,u0603,privacy_policy,然后然后 不保存测试手机号 ～,v4,重复记录
+P-D04-01456,u0237,answer_style,嗯  详细解释每一步原因（口述）,v2,用户纠正
+P-D04-01457,u0794,privacy_policy,"那个 不保存测试手机号
+
+<!--done-->",v1,用户纠正
+P-D04-01458,,emoji_policy,然后然后 禁用 [draft],v3,重复记录
+P-D04-01459,u0157,search_scope,那个 仅本地知识库,v1,管理员导入旧偏好
+P-D04-01460,u0179,emoji_policy,"[ASR] 纯文本
+
+<!--done--> [draft]",v0,重复记录
+P-D04-01461,u0670,meeting_minutes_format,麻烦 三段式：背景、决定、待办！！！,v1,用户明确表达
+P-D04-01462,u0259,answer_style,然后然后 先给结论，再给步骤 😅,v3,用户纠正
+P-D04-01463,u0122,emoji_policy, 纯文本 ENDEND,v3,仅本次例外
+P-D04-01464,u0478,meeting_minutes_format,"[ASR] 不超过200字
+stdout: OK ENDEND",v0,用户明确表达
+P-D04-01465,u0398,meeting_minutes_format,那个 不超过200字 #todo,v3,用户明确表达
+P-D04-01466,u0190,output_style,那个 【只给步骤】 [draft],v4,用户明确表达
+P-D04-01467,u0699,output_style,稍等 详细、带数据表格 @@@,v0,管理员导入旧偏好
+P-D04-01468,u0672,answer_style,[ASR] 短句回复 ENDEND,v0,管理员导入旧偏好
+P-D04-01469,u0047,search_scope,麻烦 <<<< 麒麟系统/驱动 >>>> ～,v4,管理员导入旧偏好
+P-D04-01470,u0637,search_scope,help: 仅本地知只库（口述）,v4,用户明确表达
+P-D04-01471,u0356,privacy_policy,嗯 不保存测试手机号 @@@,v2,管理员导入旧偏好
+P-D04-01472,u0338,output_style,那个　【简洁、少废话】 @@@,v0,用户明确表达
+P-D04-01473,u0065,search_scope,  麒麟系統系统/驱动 #todo,v0,管理员导入旧偏好
+P-D04-01474,u0495,search_scope,那个 麒麟系統系统/驱动！！！,v0,用户纠正
+P-D04-01475,u0081,meeting_minutes_format,那个 三段式：背景、决定、待办 ENDEND,v1,仅本次例外
+P-D04-01476,u0415,answer_style,就是 先给结论，再给步骤,v0,用户明确表达
+P-D04-01477,u0765,meeting_minutes_format,呃 不超过200字……,v1,用户纠正
+P-D04-01478,u0140,emoji_policy,[ASR] 默认允许,v4,仅本次例外
+P-D04-01479,u0344,meeting_minutes_format,麻烦 不超过200字,v4,用户明确表达
+P-D04-01480,u0489,meeting_minutes_format,嗯 <<<<	bullet	列表	>>>> [draft],v4,仅本次例外
+P-D04-01481,u0611,search_scope,嗯 <p>麒麟系统/驱动</p> @@@,v4,仅本次例外
+P-D04-01482,u0712,meeting_minutes_format,麻烦 ```三段式：背景、决定、待办``` <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01483,u0294,privacy_policy,就是 不保存测试手机号 #todo,v0,用户纠正
+P-D04-01484,u0594,answer_style,其实 短句回复 @@@,v4,仅本次例外
+P-D04-01485,u0464,emoji_policy,啊 禁用（口述）,v2,管理员导入旧偏好
+P-D04-01486,u0001,search_scope,嗯 仅本地知只库 ～,v3,用户纠正
+P-D04-01487,u0629,output_style,我想想 详细、带数据表格 @@@,v1,重复记录
+P-D04-01488,u0593,emoji_policy,啊 默认允许 ENDEND,v3,管理员导入旧偏好
+P-D04-01489,u0038,emoji_policy,然后然后 默认允许 [draft],v0,用户纠正
+P-D04-01490,u0468,output_style,啊　详细、带数据表格 #todo,v1,仅本次例外
+P-D04-01491,u0508,answer_style,[ASR] 先给结论，再给步骤 😅,v4,重复记录
+P-D04-01492,u0416,emoji_policy,嗯 允许少量 emoji（口述）,v3,重复记录
+P-D04-01493,u0030,search_scope,稍等 麒麟系統系统/驱动,v3,管理员导入旧偏好
+P-D04-01494,u0158,output_style,那个 简洁、少废话 [draft],v2,用户明确表达
+P-D04-01495,u0367,emoji_policy,麻烦  禁用 #todo,v4,仅本次例外
+P-D04-01496,u0348,meeting_minutes_format,[ASR] bullet 列表,v0,仅本次例外
+P-D04-01497,u0282,meeting_minutes_format,啊 <p>不超过200字</p> [draft],v4,用户纠正
+P-D04-01498,u0524,search_scope," 麒麟系统/驱动
+stdout: OK @@@",v4,仅本次例外
+P-D04-01499,u0133,privacy_policy,　敏感信息只用于本轮工具调用 电话 13688889999 [draft],v4,重复记录
+P-D04-01500,u0241,answer_style,呃 短句回复 ～,v3,用户纠正
+P-D04-01501,u0710,meeting_minutes_format,  bullet 列表,v2,用户明确表达
+P-D04-01502,u0206,search_scope,然后然后 仅本地知识库 @@@,v1,仅本次例外
+P-D04-01503,u0700,emoji_policy,呃 允许少量 emoji <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01504,u0340,search_scope,其实 <<<< 麒麟系统/驱动 >>>>……,v1,用户明确表达
+P-D04-01505,u0147,output_style,[ASR] 先结论后步骤 😅,v0,重复记录
+P-D04-01506,u0025,meeting_minutes_format,麻烦 bullet　列表！！！,v1,仅本次例外
+P-D04-01507,u0341,output_style,然后然后 简洁、少废话 #todo,v1,仅本次例外
+P-D04-01508,u0311,output_style,help: 【祥细、带数据表格】！！！,v2,用户纠正
+P-D04-01509,u0581,search_scope,我想想 办公软件/模板！！！,v2,重复记录
+P-D04-01510,u0431,meeting_minutes_format,我想想 三段式：背景、决定、待办（口述）,v1,管理员导入旧偏好
+P-D04-01511,u0314,output_style,[ASR] 先结论后步骤 [draft],v0,管理员导入旧偏好
+P-D04-01512,u0076,search_scope,"嗯 仅本地知识库
+cache=false！！！",v2,仅本次例外
+P-D04-01513,u0070,emoji_policy,嗯 允许少量 emoji #todo,v2,用户纠正
+P-D04-01514,u0415,emoji_policy,"然后然后 默认允许
+cache=false [draft]",v0,仅本次例外
+P-D04-01515,u0046,search_scope,稍等 办公软件/模板 😅,v1,仅本次例外
+P-D04-01516,,answer_style,就是 先给结论，再给步骤……,v1,管理员导入旧偏好
+P-D04-01517,u0413,output_style,啊 只给步骤 ～,v2,用户纠正
+P-D04-01518,u0093,emoji_policy,[ASR]  允许少量　emoji（口述）,v3,仅本次例外
+P-D04-01519,u0383,meeting_minutes_format,稍等 bullet 列表 @@@,v4,仅本次例外
+P-D04-01520,u0269,meeting_minutes_format,就是 三段式：背景、决定、待办 #todo,v4,仅本次例外
+P-D04-01521,u0622,answer_style,我想想 【短句回复】 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-01522,u0365,search_scope,嗯 <<<< 奇麟系统/驱动 >>>>（口述）,v2,用户纠正
+P-D04-01523,u0779,meeting_minutes_format,啊  三段式：背景、决定、待办 #todo,v1,重复记录
+P-D04-01524,u0546,answer_style,就是 祥细解释每一步原因……,v3,仅本次例外
+P-D04-01525,u0076,answer_style,其实 短句回复 ENDEND,v4,用户明确表达
+P-D04-01526,u0300,answer_style,其实 短句回复……,v3,仅本次例外
+P-D04-01527,u0424,meeting_minutes_format,其实  bullet 列表 #todo,v4,仅本次例外
+P-D04-01528,u0367,search_scope,那个 仅本地知识库 ～,v0,重复记录
+P-D04-01529,u0034,search_scope,我想想 <p>仅本地知识库</p> #todo,v2,用户明确表达
+P-D04-01530,u0083,privacy_policy,嗯　<<<< 敏感信息只用于本轮工具调用 >>>>！！！,v4,重复记录
+P-D04-01531,u0077,emoji_policy,其实 纯文本！！！,v3,仅本次例外
+P-D04-01532,u0549,meeting_minutes_format,稍等 三段式：背景、决定、待办,v3,用户纠正
+P-D04-01533,u0104,output_style,help: 简洁、少废话,v4,管理员导入旧偏好
+P-D04-01534,u0249,output_style,然后然后 先结论后步骤,v1,重复记录
+P-D04-01535,u0634,output_style," 先结论后步骤
+
+<!--done--> ENDEND",v3,用户明确表达
+P-D04-01536,u0528,output_style,[ASR] 只给步骤 @@@,v3,用户明确表达
+P-D04-01537,u0724,search_scope,啊 仅本地知识库 ENDEND,v2,用户明确表达
+P-D04-01538,u0691,emoji_policy,麻烦 允许少量 emoji！！！,v0,重复记录
+P-D04-01539,u0626,output_style,呃 先结论后步骤（口述）,v4,用户纠正
+P-D04-01540,u0146,search_scope,我想想 仅本地知只库 ～,v0,重复记录
+P-D04-01541,u0498,privacy_policy,啊 不保存测试手机号 <!-- cached -->,v3,仅本次例外
+P-D04-01542,u0119,search_scope,呃 **仅本地知识库**（口述）,v2,用户明确表达
+P-D04-01543,u0154,answer_style,呃 祥细解释每一步原因 ENDEND,v1,重复记录
+P-D04-01544,u0501,emoji_policy,然后然后 允许少量 emoji 😅,v0,重复记录
+P-D04-01545,u0726,output_style,我想想 详细、带数据表格 <!-- cached -->,v3,用户明确表达
+P-D04-01546,u0754,output_style,稍等 先结论后步骤（口述）,v1,用户明确表达
+P-D04-01547,u0785,search_scope,[ASR] 仅本地知只库！！！,v0,管理员导入旧偏好
+P-D04-01548,u0391,meeting_minutes_format,啊 bullet　列表 @@@,v0,仅本次例外
+P-D04-01549,u0109,answer_style,我想想 祥细解释每一步原因！！！,v0,管理员导入旧偏好
+P-D04-01550,u0512,search_scope,其实 办公软件/模板（口述）,v3,仅本次例外
+P-D04-01551,u0120,search_scope,然后然后 办公软件/模板 😅,v1,管理员导入旧偏好
+P-D04-01552,u0761,emoji_policy,然后然后  【默认允许】 电话 13900001111 ENDEND,v0,重复记录
+P-D04-01553,u0138,search_scope,麻烦 仅本地知识库 #todo,v3,重复记录
+P-D04-01554,u0773,answer_style,就是 先给结论，再给步骤 😅,v2,用户明确表达
+P-D04-01555,u0759,output_style,其实　先结论后步骤（口述）,v4,仅本次例外
+P-D04-01556,u0150,output_style,嗯 简洁、少废话……,v3,仅本次例外
+P-D04-01557,u0193,output_style,稍等 简洁、少废话 #todo,v4,仅本次例外
+P-D04-01558,u0771,meeting_minutes_format,麻烦 bullet	列表 #todo,v1,重复记录
+P-D04-01559,u0472,search_scope,啊 办公软件/模板 邮箱 user954@example.com（口述）,v1,用户明确表达
+P-D04-01560,u0757,meeting_minutes_format,help: bullet 列表 @@@,v1,用户明确表达
+P-D04-01561,u0103,search_scope,然后然后 奇麟系统/驱动,v2,管理员导入旧偏好
+P-D04-01562,u0278,emoji_policy,help: 纯文本 <!-- cached -->,v4,用户纠正
+P-D04-01563,u0797,answer_style,麻烦 详细解释每一步原因 [draft],v0,管理员导入旧偏好
+P-D04-01564,u0655,search_scope,麻烦 办公软件/模板……,v4,管理员导入旧偏好
+P-D04-01565,u0641,emoji_policy,其实 <<<<	允许少量	emoji	>>>> ENDEND,v1,管理员导入旧偏好
+P-D04-01566,u0128,answer_style,麻烦 短句回复……,v4,仅本次例外
+P-D04-01567,u0671,emoji_policy,呃 纯文本 @@@,v3,用户纠正
+P-D04-01568,u0644,privacy_policy, 不保存测试手机号 [draft],v2,用户明确表达
+P-D04-01569,u0611,search_scope,其实 办公软件/模板 <!-- cached -->,v1,用户纠正
+P-D04-01570,u0411,emoji_policy,就是 默认允许 #todo,v1,仅本次例外
+P-D04-01571,u0161,search_scope,就是 麒麟系统/驱动！！！,v2,仅本次例外
+P-D04-01572,u0125,answer_style,其实　先给结论，再给步骤！！！,v0,用户明确表达
+P-D04-01573,u0185,output_style,[ASR] 先结论后步骤 😅,v2,管理员导入旧偏好
+P-D04-01574,u0428,privacy_policy,嗯 不保存测试手机号,v2,仅本次例外
+P-D04-01575,u0758,emoji_policy,然后然后 禁用 😅,v2,重复记录
+P-D04-01576,u0466,privacy_policy,"嗯　敏感信息只用于本轮工具调用
+
+<!--done--> <!-- cached -->",v1,用户纠正
+P-D04-01577,u0280,answer_style,就是 先给结论，再给步骤 [draft],v0,仅本次例外
+P-D04-01578,u0780,emoji_policy,我想想 默认允许,v2,用户纠正
+P-D04-01579,u0295,search_scope,我想想 【仅本地知只库】 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01580,u0713,emoji_policy,呃 **默认允许** ENDEND,v1,用户明确表达
+P-D04-01581,u0258,emoji_policy, 默认允许 ENDEND,v1,仅本次例外
+P-D04-01582,u0002,meeting_minutes_format,"啊 bullet 列表
+cache=false 😅",v3,管理员导入旧偏好
+P-D04-01583,,privacy_policy,就是 不保存测试手机号 @@@,v4,用户明确表达
+P-D04-01584,u0232,answer_style,那个 先给结论，再给步骤！！！,v3,管理员导入旧偏好
+P-D04-01585,u0423,output_style,其实 只给步骤 😅,v3,用户明确表达
+P-D04-01586,u0506,answer_style,我想想　短句回复……,v0,用户纠正
+P-D04-01587,u0418,meeting_minutes_format,[ASR] bullet 列表（口述）,v0,仅本次例外
+P-D04-01588,u0722,output_style,稍等 先结论后步骤 😅,v0,用户明确表达
+P-D04-01589,u0799,privacy_policy,就是 不保存测试手机号 <!-- cached -->,v4,用户明确表达
+P-D04-01590,u0283,search_scope,啊 麒麟系统/驱动 [draft],v0,用户纠正
+P-D04-01591,,answer_style, <<<< 详细解释每一步原因 >>>> @@@,v3,用户纠正
+P-D04-01592,u0770,output_style,呃 详细、带数据表格 #todo,v2,管理员导入旧偏好
+P-D04-01593,,emoji_policy,然后然后 默认允许 ENDEND,v3,管理员导入旧偏好
+P-D04-01594,u0570,privacy_policy,麻烦  **不保存测试手机号** <!-- cached -->,v1,用户纠正
+P-D04-01595,u0788,output_style,"稍等 ```详细、带数据表格```
+stdout: OK [draft]",v4,用户纠正
+P-D04-01596,u0388,privacy_policy,嗯 不保存测试手机号（口述）,v1,用户纠正
+P-D04-01597,u0765,search_scope,嗯 办公软件/模板 ENDEND,v0,管理员导入旧偏好
+P-D04-01598,u0305,meeting_minutes_format,嗯 bullet 列表！！！,v1,用户明确表达
+P-D04-01599,u0403,output_style,呃　祥细、带数据表格……,v0,仅本次例外
+P-D04-01600,u0070,emoji_policy,其实 **纯文本**……,v1,管理员导入旧偏好
+P-D04-01601,u0638,emoji_policy,[ASR] 禁用！！！,v1,用户明确表达
+P-D04-01602,u0096,search_scope,  仅本地知只库 ENDEND,v1,仅本次例外
+P-D04-01603,u0131,meeting_minutes_format,稍等 bullet 列表 ～,v4,用户纠正
+P-D04-01604,u0106,meeting_minutes_format,其实 bullet 列表 😅,v3,仅本次例外
+P-D04-01605,u0779,answer_style,麻烦 短句回复（口述）,v1,用户明确表达
+P-D04-01606,u0513,answer_style,然后然后 短句回复 ENDEND,v2,重复记录
+P-D04-01607,u0641,privacy_policy,我想想 不保存测试手机号（口述）,v1,用户明确表达
+P-D04-01608,,meeting_minutes_format,help: bullet　列表（口述）,v1,用户明确表达
+P-D04-01609,u0414,emoji_policy,我想想 禁用 #todo,v0,用户明确表达
+P-D04-01610,u0757,output_style,呃 详细、带数据表格！！！,v3,重复记录
+P-D04-01611,u0089,answer_style,啊 详细解释每一步原因 ENDEND,v4,用户明确表达
+P-D04-01612,u0141,search_scope,那个 麒麟系统/驱动！！！,v2,管理员导入旧偏好
+P-D04-01613,u0259,meeting_minutes_format,就是 bullet 列表 ENDEND,v0,重复记录
+P-D04-01614,u0125,search_scope,稍等 其麟系统/驱动 [draft],v2,用户明确表达
+P-D04-01615,u0779,meeting_minutes_format,[ASR] bullet 列表 <!-- cached -->,v2,仅本次例外
+P-D04-01616,u0682,meeting_minutes_format,就是　不超过200字！！！,v2,仅本次例外
+P-D04-01617,u0041,privacy_policy,啊 不保存测试手机号（口述）,v3,仅本次例外
+P-D04-01618,u0434,emoji_policy,其实 默认允许 #todo,v0,用户纠正
+P-D04-01619,u0415,privacy_policy, 不保存测试手机号 <!-- cached -->,v2,仅本次例外
+P-D04-01620,u0416,privacy_policy,然后然后 不保存测试手机号……,v2,仅本次例外
+P-D04-01621,u0589,meeting_minutes_format,稍等  不超过200字 [draft],v2,用户纠正
+P-D04-01622,u0690,search_scope,[ASR] 仅本地知只库（口述）,v2,管理员导入旧偏好
+P-D04-01623,u0746,search_scope,那个 【办公软件/模板】 😅,v4,用户明确表达
+P-D04-01624,u0794,search_scope,那个  办公软件/模板,v0,仅本次例外
+P-D04-01625,u0591,emoji_policy,麻烦 禁用 <!-- cached -->,v4,用户明确表达
+P-D04-01626,u0187,answer_style,麻烦 短句回复！！！,v2,重复记录
+P-D04-01627,u0527,output_style,稍等 只给步骤 ENDEND,v2,重复记录
+P-D04-01628,u0401,emoji_policy,嗯　纯文本……,v1,仅本次例外
+P-D04-01629,u0075,answer_style,[ASR] 先给结论，再给步骤（口述）,v1,用户纠正
+P-D04-01630,u0444,answer_style,就是 详细解释每一步原因 😅,v1,用户明确表达
+P-D04-01631,u0077,privacy_policy,就是 敏感信息只用于本轮工具调用 #todo,v1,重复记录
+P-D04-01632,u0139,answer_style, 短句回复 @@@,v3,仅本次例外
+P-D04-01633,u0341,output_style,我想想  只给步骤 ～,v3,用户纠正
+P-D04-01634,u0506,emoji_policy," 禁用
+stdout: OK [draft]",v0,用户明确表达
+P-D04-01635,u0081,output_style,"那个 详细、带数据表格
+
+<!--done-->（口述）",v2,仅本次例外
+P-D04-01636,u0164,search_scope,呃  仅本地知识库 ～,v3,用户明确表达
+P-D04-01637,u0199,output_style,就是 只给步骤！！！,v1,管理员导入旧偏好
+P-D04-01638,u0054,emoji_policy,麻烦 纯文本 [draft],v4,重复记录
+P-D04-01639,u0785,output_style,啊 先结论后步骤 😅,v4,仅本次例外
+P-D04-01640,u0095,privacy_policy,那个 不保存测试手机号 ～,v1,用户纠正
+P-D04-01641,u0508,privacy_policy,我想想　不保存测试手机号（口述）,v4,用户明确表达
+P-D04-01642,u0054,privacy_policy," 敏感信息只用于本轮工具调用
+
+<!--done-->！！！",v0,用户纠正
+P-D04-01643,u0224,emoji_policy,[ASR] 禁用 ENDEND,v3,管理员导入旧偏好
+P-D04-01644,u0525,output_style,啊 只给步骤！！！,v4,管理员导入旧偏好
+P-D04-01645,u0369,emoji_policy,help:　纯文本 ENDEND,v3,用户纠正
+P-D04-01646,u0731,search_scope,[ASR] 奇麟系统/驱动,v1,用户纠正
+P-D04-01647,u0528,answer_style,呃  先给结论，再给步骤！！！,v0,仅本次例外
+P-D04-01648,u0773,emoji_policy,那个　允许少量 emoji @@@,v3,用户纠正
+P-D04-01649,u0097,answer_style,其实 先给结论，再给步骤 [draft],v0,重复记录
+P-D04-01650,u0786,search_scope,嗯 <<<< 仅本地知只库 >>>> ～,v2,管理员导入旧偏好
+P-D04-01651,u0737,emoji_policy,我想想 允许少量 emoji……,v0,用户纠正
+P-D04-01652,u0261,output_style,稍等 详细、带数据表格……,v1,仅本次例外
+P-D04-01653,u0228,output_style,嗯 只给步骤 😅,v0,用户明确表达
+P-D04-01654,u0163,emoji_policy,稍等 默认允许 [draft],v0,仅本次例外
+P-D04-01655,u0590,privacy_policy, 敏感信息只用于本轮工具调用 <!-- cached -->,v3,用户纠正
+P-D04-01656,u0491,privacy_policy, 敏感信息只用于本轮工具调用 <!-- cached -->,v2,用户明确表达
+P-D04-01657,u0182,output_style,help: 只给步骤 😅,v0,用户明确表达
+P-D04-01658,u0235,meeting_minutes_format,麻烦　不超过200字 @@@,v1,管理员导入旧偏好
+P-D04-01659,u0003,output_style, 只给步骤 @@@,v2,管理员导入旧偏好
+P-D04-01660,u0157,answer_style,[ASR] 先给结论，再给步骤,v4,仅本次例外
+P-D04-01661,u0301,privacy_policy,稍等  敏感信息只用于本轮工具调用 ENDEND,v2,用户纠正
+P-D04-01662,u0282,output_style,"help:  <p>先结论后步骤</p>
+cache=false……",v1,仅本次例外
+P-D04-01663,u0625,privacy_policy,我想想 不保存测试手机号（口述）,v4,管理员导入旧偏好
+P-D04-01664,u0629,emoji_policy,稍等 默认允许 ENDEND,v3,用户明确表达
+P-D04-01665,u0433,search_scope,然后然后  麒麟系统/驱动（口述）,v2,用户明确表达
+P-D04-01666,u0383,output_style,稍等 详细、带数据表格,v2,用户明确表达
+P-D04-01667,u0318,emoji_policy,其实 纯文本 ENDEND,v2,仅本次例外
+P-D04-01668,u0688,privacy_policy,麻烦　不保存测试手机号 @@@,v4,管理员导入旧偏好
+P-D04-01669,u0373,emoji_policy, 【纯文本】 😅,v4,用户明确表达
+P-D04-01670,u0590,privacy_policy,然后然后 不保存测试手机号 #todo,v3,管理员导入旧偏好
+P-D04-01671,u0123,output_style,就是 简洁、少废话 #todo,v3,管理员导入旧偏好
+P-D04-01672,u0357,meeting_minutes_format,啊 三段式：背景、决定、待办 <!-- cached -->,v3,重复记录
+P-D04-01673,u0618,answer_style,呃 **详细解释每一步原因**,v4,用户明确表达
+P-D04-01674,u0023,meeting_minutes_format,　三段式：背景、决定、待办,v0,仅本次例外
+P-D04-01675,u0642,output_style,"啊 简洁、少废话
+
+<!--done-->（口述）",v1,管理员导入旧偏好
+P-D04-01676,u0304,output_style,稍等　祥细、带数据表格……,v1,用户纠正
+P-D04-01677,u0358,privacy_policy,help: 敏感信息只用于本轮工具调用 #todo,v3,重复记录
+P-D04-01678,u0321,search_scope,  办公软件/模板 #todo,v2,管理员导入旧偏好
+P-D04-01679,u0414,privacy_policy,然后然后 敏感信息只用于本轮工具调用……,v4,用户纠正
+P-D04-01680,u0163,answer_style,稍等 先给结论，再给步骤 ～,v1,用户纠正
+P-D04-01681,u0687,output_style,其实 先结论后步骤,v1,管理员导入旧偏好
+P-D04-01682,u0058,output_style,呃  简洁、少废话 ～,v3,管理员导入旧偏好
+P-D04-01683,u0564,emoji_policy,呃 <<<< 禁用 >>>>,v4,用户明确表达
+P-D04-01684,u0071,search_scope,稍等 【麒麟系统/驱动】！！！,v2,管理员导入旧偏好
+P-D04-01685,u0322,emoji_policy,[ASR] 纯文本 ～,v0,重复记录
+P-D04-01686,u0004,output_style,麻烦 简洁、少废话（口述）,v3,管理员导入旧偏好
+P-D04-01687,u0209,meeting_minutes_format,啊 不超过200字,v3,用户明确表达
+P-D04-01688,u0684,emoji_policy,啊 允许少量 emoji！！！,v1,仅本次例外
+P-D04-01689,u0169,search_scope,help: 办公软件/模板 <!-- cached -->,v1,用户明确表达
+P-D04-01690,u0635,emoji_policy,其实 允许少量 emoji #todo,v1,用户纠正
+P-D04-01691,u0574,privacy_policy,麻烦 不保存测试手机号 😅,v4,用户纠正
+P-D04-01692,u0474,output_style, 先结论后步骤 😅,v2,重复记录
+P-D04-01693,u0628,output_style,[ASR] 先结论后步骤 😅,v3,用户明确表达
+P-D04-01694,u0475,answer_style,"[ASR] 先给结论，再给步骤
+
+<!--done-->！！！",v3,重复记录
+P-D04-01695,u0738,privacy_policy,麻烦 敏感信息只用于本轮工具调用 @@@,v0,管理员导入旧偏好
+P-D04-01696,u0154,search_scope,就是  办公软件/模板（口述）,v4,用户纠正
+P-D04-01697,u0702,output_style,我想想 详细、带数据表格,v0,管理员导入旧偏好
+P-D04-01698,u0218,search_scope," 麒麟系统/驱动
+
+<!--done-->！！！",v1,重复记录
+P-D04-01699,u0126,search_scope,嗯 【仅本地知只库】……,v1,仅本次例外
+P-D04-01700,u0499,answer_style,麻烦  先给结论，再给步骤（口述）,v4,管理员导入旧偏好
+P-D04-01701,u0058,privacy_policy,那个 不保存测试手机号！！！,v0,管理员导入旧偏好
+P-D04-01702,u0428,meeting_minutes_format,help: 三段式：背景、决定、待办 @@@,v4,用户纠正
+P-D04-01703,u0671,emoji_policy,"麻烦 允许少量 emoji
+
+<!--done--> <!-- cached -->",v1,用户纠正
+P-D04-01704,u0308,search_scope,呃 仅本地知识库,v2,重复记录
+P-D04-01705,u0214,answer_style,我想想 详细解释每一步原因,v1,用户明确表达
+P-D04-01706,u0171,privacy_policy,然后然后　不保存测试手机号 😅,v1,管理员导入旧偏好
+P-D04-01707,u0743,meeting_minutes_format,麻烦 三段式：背景、决定、待办 #todo,v0,管理员导入旧偏好
+P-D04-01708,u0339,privacy_policy,"我想想 敏感信息只用于本轮工具调用
+stdout: OK ENDEND",v4,用户明确表达
+P-D04-01709,u0785,meeting_minutes_format,那个 不超过200字 ～,v3,重复记录
+P-D04-01710,u0352,meeting_minutes_format,麻烦 <<<< bullet 列表 >>>> ENDEND,v1,重复记录
+P-D04-01711,u0121,answer_style,那个 先给结论，再给步骤……,v3,用户纠正
+P-D04-01712,u0243,emoji_policy,稍等 禁用 #todo,v1,重复记录
+P-D04-01713,u0261,search_scope,呃　仅本地知识库 @@@,v0,管理员导入旧偏好
+P-D04-01714,u0630,answer_style,呃 短句回复 [draft],v1,管理员导入旧偏好
+P-D04-01715,u0432,search_scope,然后然后 麒麟系統系统/驱动 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-01716,u0290,output_style,呃 详细、带数据表格……,v0,仅本次例外
+P-D04-01717,u0177,output_style,"啊 详细、带数据表格
+cache=false #todo",v0,管理员导入旧偏好
+P-D04-01718,u0088,emoji_policy,"呃 默认允许
+cache=false #todo",v4,仅本次例外
+P-D04-01719,u0159,privacy_policy,那个 <p>敏感信息只用于本轮工具调用</p>（口述）,v2,用户纠正
+P-D04-01720,u0708,output_style,"啊 只给步骤
+stdout: OK（口述）",v4,管理员导入旧偏好
+P-D04-01721,u0676,search_scope,其实 办公软件/模板（口述）,v4,重复记录
+P-D04-01722,u0353,privacy_policy,"那个 不保存测试手机号
+
+<!--done--> 😅",v0,重复记录
+P-D04-01723,u0414,meeting_minutes_format,呃　不超过200字,v1,用户明确表达
+P-D04-01724,u0343,answer_style,help: 短句回复！！！,v3,用户明确表达
+P-D04-01725,u0171,privacy_policy,我想想  不保存测试手机号 ENDEND,v0,用户明确表达
+P-D04-01726,u0615,answer_style,麻烦  短句回复 [draft],v1,重复记录
+P-D04-01727,u0606,output_style,麻烦  详细、带数据表格,v0,用户纠正
+P-D04-01728,u0598,meeting_minutes_format,呃 <<<< 不超过200字 >>>> [draft],v4,用户纠正
+P-D04-01729,u0421,answer_style,麻烦　详细解释每一步原因！！！,v2,管理员导入旧偏好
+P-D04-01730,u0598,answer_style,[ASR]  先给结论，再给步骤 ～,v1,重复记录
+P-D04-01731,u0049,search_scope,help: 奇麟系统/驱动 ～,v0,重复记录
+P-D04-01732,u0182,output_style,就是 先结论后步骤,v4,仅本次例外
+P-D04-01733,u0696,emoji_policy,help: <<<< 禁用 >>>> [draft],v2,用户纠正
+P-D04-01734,u0656,search_scope,麻烦 仅本地知识库 电话 13900001111 ENDEND,v2,用户明确表达
+P-D04-01735,u0113,emoji_policy,就是 【默认允许】……,v2,管理员导入旧偏好
+P-D04-01736,,privacy_policy,[ASR] 不保存测试手机号 [draft],v2,管理员导入旧偏好
+P-D04-01737,u0504,meeting_minutes_format,啊 不超过200字！！！,v1,管理员导入旧偏好
+P-D04-01738,u0565,search_scope,啊　<p>办公软件/模板</p> @@@,v4,用户纠正
+P-D04-01739,u0666,search_scope,嗯 办公软件/模板（口述）,v0,用户明确表达
+P-D04-01740,u0518,answer_style,然后然后 短句回复 😅,v2,重复记录
+P-D04-01741,u0122,meeting_minutes_format,[ASR]  bullet 列表 [draft],v1,用户纠正
+P-D04-01742,u0774,output_style,help: 详细、带数据表格……,v0,仅本次例外
+P-D04-01743,u0367,privacy_policy,那个 敏感信息只用于本轮工具调用 ENDEND,v1,用户明确表达
+P-D04-01744,u0042,emoji_policy,稍等 禁用 😅,v0,管理员导入旧偏好
+P-D04-01745,u0528,meeting_minutes_format,我想想 bullet 列表 😅,v3,用户纠正
+P-D04-01746,u0106,meeting_minutes_format,其实  不超过200字……,v4,用户纠正
+P-D04-01747,u0276,emoji_policy,我想想 默认允许 ENDEND,v0,仅本次例外
+P-D04-01748,u0025,meeting_minutes_format,呃 bullet 列表 <!-- cached -->,v3,用户纠正
+P-D04-01749,u0647,answer_style,"[ASR] 短句回复
+cache=false ～",v2,管理员导入旧偏好
+P-D04-01750,u0137,search_scope,我想想 仅本地知识库,v4,重复记录
+P-D04-01751,u0661,meeting_minutes_format,啊 bullet 列表 😅,v3,仅本次例外
+P-D04-01752,u0636,privacy_policy,"我想想 ```不保存测试手机号```
+stdout: OK @@@",v1,管理员导入旧偏好
+P-D04-01753,u0726,meeting_minutes_format, bullet 列表 😅,v3,用户明确表达
+P-D04-01754,u0663,privacy_policy,麻烦 不保存测试手机号,v2,管理员导入旧偏好
+P-D04-01755,u0198,output_style,那个 ```只给步骤``` [draft],v3,重复记录
+P-D04-01756,u0123,privacy_policy,啊 不保存测试手机号！！！,v2,用户明确表达
+P-D04-01757,u0370,privacy_policy,我想想 不保存测试手机号……,v0,用户明确表达
+P-D04-01758,u0313,meeting_minutes_format,就是  不超过200字 😅,v3,用户纠正
+P-D04-01759,u0740,search_scope,"其实 仅本地知识库
+stdout: OK（口述）",v0,管理员导入旧偏好
+P-D04-01760,u0292,emoji_policy,然后然后 禁用 ENDEND,v4,用户明确表达
+P-D04-01761,u0012,meeting_minutes_format,麻烦 三段式：背景、决定、待办 ENDEND,v4,仅本次例外
+P-D04-01762,u0284,output_style,嗯 先结论后步骤 #todo,v0,用户明确表达
+P-D04-01763,u0693,answer_style,麻烦　短句回复 <!-- cached -->,v3,用户明确表达
+P-D04-01764,u0623,emoji_policy,呃 <p>允许少量 emoji</p> ENDEND,v4,用户纠正
+P-D04-01765,u0677,output_style,我想想 只给步骤,v3,仅本次例外
+P-D04-01766,u0305,search_scope,呃 办公软件/模板 #todo,v4,重复记录
+P-D04-01767,u0634,meeting_minutes_format, <p>bullet 列表</p> <!-- cached -->,v0,用户纠正
+P-D04-01768,u0250,answer_style,[ASR] 先给结论，再给步骤 <!-- cached -->,v1,用户明确表达
+P-D04-01769,u0701,meeting_minutes_format,然后然后 **不超过200字**……,v2,用户明确表达
+P-D04-01770,u0278,output_style,麻烦 祥细、带数据表格 😅,v4,重复记录
+P-D04-01771,u0229,emoji_policy,稍等 禁用 #todo,v3,用户纠正
+P-D04-01772,u0553,search_scope,我想想 麒麟系统/驱动 ～,v0,用户明确表达
+P-D04-01773,u0439,emoji_policy,然后然后 禁用！！！,v3,用户明确表达
+P-D04-01774,u0325,search_scope,help: 仅本地知只库 😅,v1,管理员导入旧偏好
+P-D04-01775,u0127,search_scope,其实 ```仅本地知只库``` <!-- cached -->,v3,用户纠正
+P-D04-01776,u0158,privacy_policy,啊 不保存测试手机号 [draft],v2,仅本次例外
+P-D04-01777,u0635,emoji_policy,麻烦  默认允许,v1,用户明确表达
+P-D04-01778,u0032,output_style,稍等 详细、带数据表格！！！,v4,重复记录
+P-D04-01779,u0518,answer_style,其实 ```先给结论，再给步骤```,v4,重复记录
+P-D04-01780,u0704,meeting_minutes_format,"稍等　<<<< 不超过200字 >>>>
+stdout: OK！！！",v1,重复记录
+P-D04-01781,u0600,meeting_minutes_format,麻烦 三段式：背景、决定、待办 😅,v2,重复记录
+P-D04-01782,u0288,answer_style,然后然后　短句回复 [draft],v4,用户明确表达
+P-D04-01783,u0121,meeting_minutes_format,啊 不超过200字 ENDEND,v4,重复记录
+P-D04-01784,u0361,output_style,嗯 详细、带数据表格 [draft],v2,仅本次例外
+P-D04-01785,u0026,privacy_policy,那个 敏感信息只用于本轮工具调用（口述）,v0,仅本次例外
+P-D04-01786,u0430,search_scope,"help: 办公软件/模板
+
+<!--done--> [draft]",v4,仅本次例外
+P-D04-01787,u0653,privacy_policy,"嗯 不保存测试手机号
+stdout: OK @@@",v1,用户纠正
+P-D04-01788,u0282,privacy_policy,我想想 敏感信息只用于本轮工具调用 <!-- cached -->,v2,用户明确表达
+P-D04-01789,u0191,answer_style,[ASR] 详细解释每一步原因 ～,v1,用户明确表达
+P-D04-01790,,emoji_policy,稍等 【禁用】 <!-- cached -->,v4,用户明确表达
+P-D04-01791,u0646,search_scope,就是  【麒麟系统/驱动】 😅,v3,重复记录
+P-D04-01792,u0080,answer_style,其实 详细解释每一步原因！！！,v2,用户纠正
+P-D04-01793,u0706,meeting_minutes_format,我想想 三段式：背景、决定、待办 ENDEND,v3,仅本次例外
+P-D04-01794,u0526,meeting_minutes_format,麻烦 不超过200字！！！,v1,用户明确表达
+P-D04-01795,u0473,emoji_policy,啊 纯文本！！！,v3,仅本次例外
+P-D04-01796,u0671,answer_style,就是 先给结论，再给步骤！！！,v4,仅本次例外
+P-D04-01797,u0703,privacy_policy,help:　不保存测试手机号 ～,v3,重复记录
+P-D04-01798,u0379,meeting_minutes_format,就是 bullet 列表……,v3,仅本次例外
+P-D04-01799,u0733,privacy_policy,嗯 敏感信息只用于本轮工具调用（口述）,v4,重复记录
+P-D04-01800,u0496,answer_style,其实 短句回复 @@@,v4,用户纠正
+P-D04-01801,u0216,meeting_minutes_format,就是  三段式：背景、决定、待办 #todo,v3,用户纠正
+P-D04-01802,u0071,meeting_minutes_format,稍等  bullet 列表（口述）,v3,管理员导入旧偏好
+P-D04-01803,u0304,answer_style,那个　<<<< 先给结论，再给步骤 >>>> 😅,v1,用户纠正
+P-D04-01804,u0298,answer_style,然后然后 先给结论，再给步骤 ～,v3,重复记录
+P-D04-01805,u0648,meeting_minutes_format,　三段式：背景、决定、待办（口述）,v2,仅本次例外
+P-D04-01806,u0088,privacy_policy,那个 敏感信息只用于本轮工具调用 ～,v0,用户明确表达
+P-D04-01807,u0498,emoji_policy,麻烦 禁用 ～,v1,重复记录
+P-D04-01808,u0764,answer_style,我想想　详细解释每一步原因,v4,管理员导入旧偏好
+P-D04-01809,u0152,search_scope,那个 其麟系统/驱动 [draft],v3,用户明确表达
+P-D04-01810,u0488,answer_style,那个  详细解释每一步原因 #todo,v2,重复记录
+P-D04-01811,u0754,search_scope, 麒麟系统/驱动,v4,仅本次例外
+P-D04-01812,u0075,emoji_policy,啊 纯文本！！！,v0,用户明确表达
+P-D04-01813,u0293,output_style,我想想 先结论后步骤 ENDEND,v1,重复记录
+P-D04-01814,u0385,output_style,help: 详细、带数据表格 #todo,v0,管理员导入旧偏好
+P-D04-01815,u0643,output_style,我想想 详细、带数据表格 @@@,v1,用户纠正
+P-D04-01816,u0327,output_style,麻烦 详细、带数据表格 ENDEND,v4,用户纠正
+P-D04-01817,u0107,search_scope,就是 麒麟系统/驱动,v1,重复记录
+P-D04-01818,u0682,emoji_policy,"就是 默认允许
+stdout: OK！！！",v2,用户纠正
+P-D04-01819,u0782,answer_style,嗯　先给结论，再给步骤 @@@,v4,仅本次例外
+P-D04-01820,u0205,answer_style,稍等　短句回复 ～,v1,用户纠正
+P-D04-01821,u0115,search_scope,其实 麒麟系统/驱动 ENDEND,v4,用户明确表达
+P-D04-01822,u0592,emoji_policy,就是　允许少量 emoji！！！,v2,仅本次例外
+P-D04-01823,u0526,emoji_policy,呃 禁用 @@@,v3,用户纠正
+P-D04-01824,u0406,emoji_policy,那个　纯文本！！！,v4,重复记录
+P-D04-01825,u0336,search_scope,我想想 办公软件/模板（口述）,v3,重复记录
+P-D04-01826,u0330,emoji_policy,啊　纯文本 <!-- cached -->,v3,用户纠正
+P-D04-01827,u0465,emoji_policy,help:　允许少量 emoji #todo,v4,用户纠正
+P-D04-01828,u0308,meeting_minutes_format,麻烦 bullet 列表（口述）,v0,用户纠正
+P-D04-01829,u0778,output_style,就是 简洁、少废话 ～,v3,管理员导入旧偏好
+P-D04-01830,u0633,output_style,然后然后 简洁、少废话（口述）,v0,用户明确表达
+P-D04-01831,u0323,search_scope,稍等 麒麟系统/驱动 [draft],v2,用户明确表达
+P-D04-01832,u0312,search_scope,help: 麒麟系统/驱动 ～,v2,仅本次例外
+P-D04-01833,u0192,answer_style,"稍等 短句回复
+
+<!--done--> @@@",v2,用户明确表达
+P-D04-01834,u0314,output_style,呃 详细、带数据表格 #todo,v3,用户纠正
+P-D04-01835,u0099,emoji_policy,稍等  <p>允许少量 emoji</p> [draft],v2,仅本次例外
+P-D04-01836,u0391,output_style,help: 详细、带数据表格,v2,用户纠正
+P-D04-01837,u0184,answer_style,　<<<< 短句回复 >>>> [draft],v2,管理员导入旧偏好
+P-D04-01838,u0026,answer_style,稍等 短句回复 ～,v1,用户明确表达
+P-D04-01839,u0460,privacy_policy,我想想 <<<<	不保存测试手机号	>>>> @@@,v3,用户纠正
+P-D04-01840,u0222,privacy_policy,help: 不保存测试手机号,v2,管理员导入旧偏好
+P-D04-01841,u0143,answer_style,其实 <p>先给结论，再给步骤</p>……,v0,用户明确表达
+P-D04-01842,u0498,meeting_minutes_format,稍等 不超过200字（口述）,v0,管理员导入旧偏好
+P-D04-01843,u0237,meeting_minutes_format," 三段式：背景、决定、待办
+stdout: OK 😅",v4,管理员导入旧偏好
+P-D04-01844,u0790,answer_style,呃  短句回复 ～,v1,仅本次例外
+P-D04-01845,u0640,answer_style, ```短句回复```（口述）,v4,管理员导入旧偏好
+P-D04-01846,u0377,answer_style,麻烦　详细解释每一步原因 @@@,v1,管理员导入旧偏好
+P-D04-01847,u0099,privacy_policy, 敏感信息只用于本轮工具调用 [draft],v1,用户纠正
+P-D04-01848,u0253,search_scope,　仅本地知识库……,v2,重复记录
+P-D04-01849,u0798,search_scope,就是 仅本地知识库……,v2,用户明确表达
+P-D04-01850,u0457,answer_style,  短句回复！！！,v1,仅本次例外
+P-D04-01851,u0284,output_style,呃 ```先结论后步骤``` ～,v4,用户纠正
+P-D04-01852,u0306,search_scope,就是  ```办公软件/模板```,v3,管理员导入旧偏好
+P-D04-01853,,output_style,我想想 详细、带数据表格 @@@,v0,重复记录
+P-D04-01854,u0708,search_scope,呃 办公软件/模板 ENDEND,v4,用户明确表达
+P-D04-01855,u0317,privacy_policy,"就是 不保存测试手机号
+
+<!--done-->！！！",v1,用户纠正
+P-D04-01856,u0492,search_scope,麻烦 办公软件/模板 #todo,v1,用户明确表达
+P-D04-01857,u0064,meeting_minutes_format,麻烦  bullet 列表 #todo,v1,重复记录
+P-D04-01858,u0364,emoji_policy,呃 纯文本 😅,v3,仅本次例外
+P-D04-01859,u0190,search_scope, 麒麟系统/驱动 ENDEND,v2,重复记录
+P-D04-01860,u0629,meeting_minutes_format,"那个  不超过200字
+
+<!--done--> [draft]",v3,管理员导入旧偏好
+P-D04-01861,u0509,privacy_policy,那个 敏感信息只用于本轮工具调用 @@@,v1,重复记录
+P-D04-01862,u0386,search_scope,就是 麒麟系统/驱动（口述）,v4,仅本次例外
+P-D04-01863,u0003,meeting_minutes_format,稍等 不超过200字 😅,v0,重复记录
+P-D04-01864,u0724,privacy_policy,然后然后　敏感信息只用于本轮工具调用……,v3,用户明确表达
+P-D04-01865,u0202,search_scope,就是 仅本地知识库 <!-- cached -->,v4,仅本次例外
+P-D04-01866,u0455,output_style,麻烦 只给步骤（口述）,v3,仅本次例外
+P-D04-01867,u0548,meeting_minutes_format,我想想 三段式：背景、决定、待办,v2,仅本次例外
+P-D04-01868,u0337,emoji_policy,其实 默认允许！！！,v4,仅本次例外
+P-D04-01869,u0687,answer_style,就是 短句回复……,v0,用户纠正
+P-D04-01870,u0583,meeting_minutes_format,[ASR]  **bullet 列表** <!-- cached -->,v3,管理员导入旧偏好
+P-D04-01871,u0608,privacy_policy,[ASR] 敏感信息只用于本轮工具调用 #todo,v4,重复记录
+P-D04-01872,u0064,emoji_policy,稍等 <p>默认允许</p> #todo,v2,用户明确表达
+P-D04-01873,u0063,meeting_minutes_format,嗯  bullet 列表 <!-- cached -->,v0,重复记录
+P-D04-01874,u0129,meeting_minutes_format,那个 <p>bullet 列表</p> ～,v3,管理员导入旧偏好
+P-D04-01875,u0688,privacy_policy,稍等 敏感信息只用于本轮工具调用（口述）,v0,重复记录
+P-D04-01876,u0519,output_style,我想想  先结论后步骤 ENDEND,v1,仅本次例外
+P-D04-01877,,meeting_minutes_format,稍等  三段式：背景、决定、待办（口述）,v1,重复记录
+P-D04-01878,u0687,output_style,稍等 只给步骤 [draft],v1,仅本次例外
+P-D04-01879,u0683,answer_style,稍等 短句回复……,v4,管理员导入旧偏好
+P-D04-01880,u0746,privacy_policy,help: 不保存测试手机号 #todo,v0,管理员导入旧偏好
+P-D04-01881,u0420,answer_style, 详细解释每一步原因！！！,v4,管理员导入旧偏好
+P-D04-01882,u0317,answer_style, 先给结论，再给步骤 @@@,v1,用户明确表达
+P-D04-01883,u0138,meeting_minutes_format,就是 不超过200字 ENDEND,v2,用户纠正
+P-D04-01884,u0715,answer_style,其实 短句回复（口述）,v4,仅本次例外
+P-D04-01885,u0575,emoji_policy,其实 ```纯文本``` 😅,v0,仅本次例外
+P-D04-01886,u0674,privacy_policy,啊 不保存测试手机号 @@@,v0,仅本次例外
+P-D04-01887,u0347,search_scope,其实 麒麟系统/驱动！！！,v1,仅本次例外
+P-D04-01888,u0744,output_style," 简洁、少废话
+
+<!--done-->",v2,用户纠正
+P-D04-01889,u0014,emoji_policy,麻烦 禁用 😅,v0,用户纠正
+P-D04-01890,u0226,emoji_policy,嗯 ```禁用```！！！,v0,用户明确表达
+P-D04-01891,u0018,search_scope,嗯 <p>麒麟系統系统/驱动</p> [draft],v3,仅本次例外
+P-D04-01892,u0313,search_scope,我想想 其麟系统/驱动 @@@,v2,管理员导入旧偏好
+P-D04-01893,u0265,privacy_policy,然后然后 敏感信息只用于本轮工具调用 <!-- cached -->,v3,仅本次例外
+P-D04-01894,u0200,answer_style,"我想想 先给结论，再给步骤
+
+<!--done--> ENDEND",v1,仅本次例外
+P-D04-01895,u0764,emoji_policy,[ASR] 默认允许（口述）,v1,重复记录
+P-D04-01896,u0324,privacy_policy,然后然后 敏感信息只用于本轮工具调用 <!-- cached -->,v4,用户明确表达
+P-D04-01897,u0350,emoji_policy,稍等 默认允许 @@@,v4,用户明确表达
+P-D04-01898,u0365,privacy_policy,其实  【不保存测试手机号】 ENDEND,v4,重复记录
+P-D04-01899,u0719,emoji_policy, 允许少量 emoji,v3,重复记录
+P-D04-01900,u0789,meeting_minutes_format,　```三段式：背景、决定、待办``` ENDEND,v2,仅本次例外
+P-D04-01901,u0174,answer_style,嗯 短句回复！！！,v0,用户明确表达
+P-D04-01902,u0296,emoji_policy,就是　允许少量 emoji @@@,v0,用户纠正
+P-D04-01903,u0243,privacy_policy,其实 敏感信息只用于本轮工具调用 <!-- cached -->,v2,管理员导入旧偏好
+P-D04-01904,u0585,search_scope,就是　仅本地知只库 <!-- cached -->,v0,用户纠正
+P-D04-01905,u0348,answer_style,麻烦 <<<< 先给结论，再给步骤 >>>> <!-- cached -->,v3,用户纠正
+P-D04-01906,u0311,meeting_minutes_format,[ASR] 三段式：背景、决定、待办 😅,v2,用户纠正
+P-D04-01907,u0728,privacy_policy,呃 不保存测试手机号,v3,仅本次例外
+P-D04-01908,u0698,meeting_minutes_format,稍等 ```bullet 列表``` <!-- cached -->,v1,用户纠正
+P-D04-01909,u0793,privacy_policy,就是 不保存测试手机号 @@@,v2,用户明确表达
+P-D04-01910,u0193,meeting_minutes_format,稍等 bullet 列表,v3,管理员导入旧偏好
+P-D04-01911,u0499,answer_style,就是 详细解释每一步原因 ～,v2,管理员导入旧偏好
+P-D04-01912,u0589,output_style,就是 只给步骤 [draft],v4,用户纠正
+P-D04-01913,u0186,meeting_minutes_format,啊 不超过200字（口述）,v3,仅本次例外
+P-D04-01914,u0211,meeting_minutes_format,help: 三段式：背景、决定、待办……,v0,用户明确表达
+P-D04-01915,u0014,meeting_minutes_format,麻烦  【bullet 列表】 <!-- cached -->,v0,用户纠正
+P-D04-01916,u0731,search_scope,那个 仅本地知只库 ENDEND,v0,仅本次例外
+P-D04-01917,u0268,emoji_policy,稍等 禁用……,v0,仅本次例外
+P-D04-01918,u0405,output_style,嗯　先结论后步骤……,v4,管理员导入旧偏好
+P-D04-01919,u0634,output_style,其实 只给步骤 [draft],v3,用户纠正
+P-D04-01920,u0010,answer_style,就是 祥细解释每一步原因 [draft],v0,管理员导入旧偏好
+P-D04-01921,u0284,emoji_policy,help: 禁用 @@@,v2,用户明确表达
+P-D04-01922,u0775,output_style,就是 ```只给步骤```……,v0,用户明确表达
+P-D04-01923,u0196,meeting_minutes_format, 不超过200字 <!-- cached -->,v2,用户明确表达
+P-D04-01924,u0592,emoji_policy,help: 纯文本！！！,v4,管理员导入旧偏好
+P-D04-01925,u0066,meeting_minutes_format,就是  不超过200字……,v4,用户纠正
+P-D04-01926,u0519,privacy_policy,那个 敏感信息只用于本轮工具调用（口述）,v0,用户纠正
+P-D04-01927,u0259,search_scope,啊 仅本地知只库（口述）,v4,用户明确表达
+P-D04-01928,u0205,privacy_policy,啊　不保存测试手机号 [draft],v0,用户明确表达
+P-D04-01929,u0621,search_scope,其实  仅本地知识库……,v3,重复记录
+P-D04-01930,u0557,emoji_policy,那个 允许少量 emoji <!-- cached -->,v0,用户明确表达
+P-D04-01931,u0426,meeting_minutes_format, 【三段式：背景、决定、待办】 😅,v3,用户明确表达
+P-D04-01932,u0486,search_scope,啊 办公软件/模板！！！,v4,用户明确表达
+P-D04-01933,u0480,meeting_minutes_format,那个 **bullet 列表** <!-- cached -->,v0,仅本次例外
+P-D04-01934,u0110,output_style,那个 详细、带数据表格 #todo,v1,重复记录
+P-D04-01935,u0433,meeting_minutes_format,其实 三段式：背景、决定、待办,v0,用户明确表达
+P-D04-01936,u0181,emoji_policy,其实 允许少量 emoji（口述）,v2,用户明确表达
+P-D04-01937,u0565,emoji_policy,然后然后 禁用！！！,v0,管理员导入旧偏好
+P-D04-01938,u0148,meeting_minutes_format,稍等　不超过200字 😅,v4,管理员导入旧偏好
+P-D04-01939,u0006,answer_style, 短句回复 ～,v4,管理员导入旧偏好
+P-D04-01940,u0563,meeting_minutes_format,其实 bullet  列表！！！,v2,重复记录
+P-D04-01941,u0129,answer_style,麻烦 详细解释每一步原因！！！,v3,管理员导入旧偏好
+P-D04-01942,u0193,emoji_policy,稍等 ```默认允许``` ～,v3,管理员导入旧偏好
+P-D04-01943,u0522,answer_style,稍等 详细解释每一步原因……,v1,仅本次例外
+P-D04-01944,u0013,answer_style,help: 祥细解释每一步原因 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01945,u0334,privacy_policy,麻烦 敏感信息只用于本轮工具调用 [draft],v1,仅本次例外
+P-D04-01946,u0384,emoji_policy,其实  禁用！！！,v1,用户纠正
+P-D04-01947,u0423,emoji_policy,help:  纯文本 [draft],v3,仅本次例外
+P-D04-01948,u0443,output_style,啊 只给步骤 😅,v2,用户明确表达
+P-D04-01949,u0371,meeting_minutes_format,那个 不超过200字……,v2,仅本次例外
+P-D04-01950,u0561,emoji_policy,啊 默认允许 @@@,v1,用户纠正
+P-D04-01951,u0147,meeting_minutes_format,啊 不超过200字 ENDEND,v2,用户明确表达
+P-D04-01952,u0404,search_scope,嗯 麒麟系统/驱动！！！,v0,重复记录
+P-D04-01953,u0086,emoji_policy,嗯 禁用 #todo,v2,用户明确表达
+P-D04-01954,u0777,meeting_minutes_format,啊 bullet 列表（口述）,v3,重复记录
+P-D04-01955,u0394,privacy_policy,"呃 不保存测试手机号
+stdout: OK @@@",v1,管理员导入旧偏好
+P-D04-01956,u0586,meeting_minutes_format,help: 三段式：背景、决定、待办 😅,v4,仅本次例外
+P-D04-01957,u0225,answer_style,"[ASR] 短句回复
+cache=false ～",v0,重复记录
+P-D04-01958,u0715,output_style,啊 简洁、少废话 ～,v4,用户明确表达
+P-D04-01959,u0274,privacy_policy,我想想  敏感信息只用于本轮工具调用！！！,v3,管理员导入旧偏好
+P-D04-01960,u0062,answer_style,那个 短句回复 ENDEND,v0,用户纠正
+P-D04-01961,u0424,search_scope,help: 麒麟系統系统/驱动 #todo,v1,仅本次例外
+P-D04-01962,u0255,search_scope,稍等 仅本地知识库 😅,v4,用户明确表达
+P-D04-01963,u0603,output_style,然后然后 只给步骤,v0,仅本次例外
+P-D04-01964,u0800,emoji_policy,我想想 默认允许 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-01965,u0556,meeting_minutes_format,呃  三段式：背景、决定、待办（口述）,v2,用户明确表达
+P-D04-01966,u0197,answer_style,稍等 先给结论，再给步骤 #todo,v0,重复记录
+P-D04-01967,u0366,meeting_minutes_format, 三段式：背景、决定、待办（口述）,v1,用户纠正
+P-D04-01968,u0423,search_scope,稍等 <<<< 麒麟系統系统/驱动 >>>>！！！,v4,管理员导入旧偏好
+P-D04-01969,u0529,search_scope,啊　仅本地知识库 ～,v2,管理员导入旧偏好
+P-D04-01970,u0613,emoji_policy,  允许少量 emoji,v0,用户纠正
+P-D04-01971,u0639,emoji_policy,help: 禁用（口述）,v4,仅本次例外
+P-D04-01972,u0161,privacy_policy,  敏感信息只用于本轮工具调用 😅,v0,重复记录
+P-D04-01973,u0674,privacy_policy,然后然后　敏感信息只用于本轮工具调用（口述）,v4,用户纠正
+P-D04-01974,u0723,answer_style,啊 祥细解释每一步原因 <!-- cached -->,v0,用户纠正
+P-D04-01975,u0462,output_style,稍等  先结论后步骤 ～,v4,用户明确表达
+P-D04-01976,u0762,search_scope, 仅本地知只库,v2,重复记录
+P-D04-01977,u0668,emoji_policy,麻烦　允许少量 emoji,v2,仅本次例外
+P-D04-01978,u0757,meeting_minutes_format,"麻烦 三段式：背景、决定、待办
+stdout: OK",v3,用户纠正
+P-D04-01979,u0445,emoji_policy,[ASR] 禁用 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01980,u0319,output_style,就是  简洁、少废话 ～,v0,管理员导入旧偏好
+P-D04-01981,u0240,emoji_policy,麻烦 禁用,v3,用户纠正
+P-D04-01982,u0791,privacy_policy,help: 不保存测试手机号 [draft],v2,仅本次例外
+P-D04-01983,u0140,answer_style,然后然后  祥细解释每一步原因！！！,v1,用户明确表达
+P-D04-01984,u0733,meeting_minutes_format,就是 bullet 列表 [draft],v0,管理员导入旧偏好
+P-D04-01985,u0753,meeting_minutes_format,那个 不超过200字！！！,v4,用户纠正
+P-D04-01986,u0196,output_style,呃 <<<< 详细、带数据表格 >>>> ～,v0,重复记录
+P-D04-01987,u0383,search_scope, 仅本地知识库……,v4,管理员导入旧偏好
+P-D04-01988,u0437,search_scope,help: 麒麟系統系统/驱动（口述）,v3,管理员导入旧偏好
+P-D04-01989,u0394,privacy_policy,啊 ```敏感信息只用于本轮工具调用``` [draft],v2,仅本次例外
+P-D04-01990,u0764,emoji_policy,我想想 默认允许 😅,v1,仅本次例外
+P-D04-01991,u0728,output_style,稍等 只给步骤 @@@,v1,仅本次例外
+P-D04-01992,u0515,output_style,就是 只给步骤 @@@,v0,重复记录
+P-D04-01993,u0521,meeting_minutes_format,那个 三段式：背景、决定、待办……,v3,重复记录
+P-D04-01994,u0596,privacy_policy,呃　敏感信息只用于本轮工具调用 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-01995,u0495,privacy_policy,啊  <p>不保存测试手机号</p>！！！,v3,仅本次例外
+P-D04-01996,u0730,meeting_minutes_format,呃 bullet 列表（口述）,v2,仅本次例外
+P-D04-01997,u0662,emoji_policy,稍等 纯文本 @@@,v0,重复记录
+P-D04-01998,u0565,output_style,[ASR] 祥细、带数据表格……,v2,重复记录
+P-D04-01999,u0764,output_style,"稍等 简洁、少废话
+stdout: OK <!-- cached -->",v1,仅本次例外
+P-D04-02000,u0314,output_style,然后然后 只给步骤 ～,v1,用户明确表达
+P-D04-02001,u0205,answer_style,然后然后  短句回复 <!-- cached -->,v1,管理员导入旧偏好
+P-D04-02002,,output_style,啊 简洁、少废话 😅,v0,管理员导入旧偏好
+P-D04-02003,u0249,privacy_policy,那个 敏感信息只用于本轮工具调用,v2,仅本次例外
+P-D04-02004,u0006,answer_style,就是 短句回复 <!-- cached -->,v1,用户纠正
+P-D04-02005,u0142,search_scope,麻烦 办公软件/模板 ENDEND,v1,用户明确表达
+P-D04-02006,u0568,emoji_policy,其实 允许少量 emoji 电话 13688889999！！！,v1,仅本次例外
+P-D04-02007,u0321,meeting_minutes_format,其实　<p>三段式：背景、决定、待办</p>,v0,用户明确表达
+P-D04-02008,u0728,privacy_policy,[ASR] 敏感信息只用于本轮工具调用 [draft],v3,用户明确表达
+P-D04-02009,u0525,meeting_minutes_format,呃 三段式：背景、决定、待办！！！,v0,重复记录
+P-D04-02010,u0559,emoji_policy,稍等 禁用（口述）,v3,仅本次例外
+P-D04-02011,u0574,answer_style,那个 先给结论，再给步骤 ENDEND,v0,仅本次例外
+P-D04-02012,u0502,output_style, 先结论后步骤（口述）,v3,用户纠正
+P-D04-02013,u0523,meeting_minutes_format,[ASR] 三段式：背景、决定、待办 ENDEND,v1,用户纠正
+P-D04-02014,u0677,answer_style,呃 先给结论，再给步骤 电话 13688889999……,v0,用户纠正
+P-D04-02015,u0138,search_scope,我想想 仅本地知识库 😅,v4,管理员导入旧偏好
+P-D04-02016,,answer_style,那个　<<<< 先给结论，再给步骤 >>>> ～,v1,用户明确表达
+P-D04-02017,u0510,meeting_minutes_format,help: bullet 列表（口述）,v0,用户纠正
+P-D04-02018,u0419,search_scope,我想想 麒麟系统/驱动 😅,v3,仅本次例外
+P-D04-02019,u0059,search_scope,呃 麒麟系统/驱动 <!-- cached -->,v1,重复记录
+P-D04-02020,u0037,answer_style,[ASR] 祥细解释每一步原因,v3,重复记录
+P-D04-02021,u0224,privacy_policy,就是 <<<< 敏感信息只用于本轮工具调用 >>>> #todo,v4,仅本次例外
+P-D04-02022,u0165,output_style,help: 详细、带数据表格 <!-- cached -->,v2,用户明确表达
+P-D04-02023,u0393,emoji_policy,我想想 允许少量 emoji ～,v2,重复记录
+P-D04-02024,u0503,search_scope,[ASR]  仅本地知识库 <!-- cached -->,v2,重复记录
+P-D04-02025,u0354,emoji_policy,啊　禁用 <!-- cached -->,v4,用户明确表达
+P-D04-02026,u0538,emoji_policy,就是 默认允许 #todo,v3,用户明确表达
+P-D04-02027,u0275,output_style,稍等 【祥细、带数据表格】！！！,v3,用户纠正
+P-D04-02028,u0139,emoji_policy,麻烦 默认允许 😅,v1,重复记录
+P-D04-02029,u0317,output_style,嗯 只给步骤（口述）,v3,用户明确表达
+P-D04-02030,u0312,meeting_minutes_format,呃 三段式：背景、决定、待办……,v3,管理员导入旧偏好
+P-D04-02031,u0293,privacy_policy,"help: 敏感信息只用于本轮工具调用
+stdout: OK @@@",v4,仅本次例外
+P-D04-02032,u0464,meeting_minutes_format,[ASR] 三段式：背景、决定、待办,v3,用户纠正
+P-D04-02033,u0552,output_style,然后然后 详细、带数据表格 ENDEND,v1,管理员导入旧偏好
+P-D04-02034,u0729,privacy_policy,[ASR]　不保存测试手机号……,v4,用户明确表达
+P-D04-02035,u0419,emoji_policy,啊 默认允许 @@@,v1,仅本次例外
+P-D04-02036,u0265,search_scope,就是 其麟系统/驱动,v3,重复记录
+P-D04-02037,u0202,answer_style,麻烦 先给结论，再给步骤 [draft],v4,管理员导入旧偏好
+P-D04-02038,u0782,output_style,然后然后 先结论后步骤 #todo,v4,管理员导入旧偏好
+P-D04-02039,u0053,output_style,"那个 详细、带数据表格
+cache=false（口述）",v4,管理员导入旧偏好
+P-D04-02040,u0196,meeting_minutes_format,稍等 不超过200字 [draft],v4,仅本次例外
+P-D04-02041,u0205,output_style,嗯 简洁、少废话 😅,v2,重复记录
+P-D04-02042,u0333,search_scope,[ASR]  办公软件/模板,v3,仅本次例外
+P-D04-02043,u0175,search_scope,呃 麒麟系统/驱动 邮箱 user207@example.com 😅,v4,仅本次例外
+P-D04-02044,u0623,answer_style,麻烦　短句回复（口述）,v0,管理员导入旧偏好
+P-D04-02045,u0755,privacy_policy,help: 不保存测试手机号！！！,v1,用户明确表达
+P-D04-02046,,privacy_policy,就是 敏感信息只用于本轮工具调用 #todo,v0,重复记录
+P-D04-02047,u0581,emoji_policy,啊 默认允许,v0,仅本次例外
+P-D04-02048,u0462,meeting_minutes_format,啊 三段式：背景、决定、待办（口述）,v2,重复记录
+P-D04-02049,u0421,search_scope,稍等 <p>仅本地知只库</p>（口述）,v2,重复记录
+P-D04-02050,u0343,answer_style,help: 先给结论，再给步骤 😅,v4,用户明确表达
+P-D04-02051,u0396,search_scope,help: 办公软件/模板,v2,仅本次例外
+P-D04-02052,u0220,answer_style, 短句回复 [draft],v3,用户明确表达
+P-D04-02053,u0355,answer_style,然后然后 短句回复！！！,v0,用户纠正
+P-D04-02054,u0643,search_scope,就是  办公软件/模板 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-02055,u0668,answer_style,那个 详细解释每一步原因 ENDEND,v1,管理员导入旧偏好
+P-D04-02056,u0731,emoji_policy,[ASR] 默认允许,v3,用户纠正
+P-D04-02057,u0396,answer_style,嗯 先给结论，再给步骤 ENDEND,v3,用户明确表达
+P-D04-02058,u0700,search_scope, 麒麟系统/驱动,v3,仅本次例外
+P-D04-02059,u0543,output_style,我想想 **先结论后步骤**（口述）,v3,管理员导入旧偏好
+P-D04-02060,u0241,search_scope,我想想  仅本地知识库 <!-- cached -->,v0,仅本次例外
+P-D04-02061,u0477,output_style,然后然后 先结论后步骤！！！,v3,用户明确表达
+P-D04-02062,u0682,answer_style,  短句回复 @@@,v4,仅本次例外
+P-D04-02063,u0422,meeting_minutes_format,就是 三段式：背景、决定、待办（口述）,v1,用户明确表达
+P-D04-02064,u0219,answer_style, 短句回复（口述）,v0,重复记录
+P-D04-02065,u0616,answer_style,我想想 短句回复（口述）,v3,管理员导入旧偏好
+P-D04-02066,u0030,answer_style,然后然后 短句回复 @@@,v4,用户纠正
+P-D04-02067,u0559,answer_style,啊 详细解释每一步原因！！！,v3,用户纠正
+P-D04-02068,u0277,privacy_policy,其实 敏感信息只用于本轮工具调用！！！,v4,仅本次例外
+P-D04-02069,u0739,emoji_policy,麻烦 默认允许 ENDEND,v1,仅本次例外
+P-D04-02070,u0064,answer_style,麻烦 详细解释每一步原因 ～,v3,重复记录
+P-D04-02071,u0714,meeting_minutes_format,麻烦 三段式：背景、决定、待办 😅,v4,用户明确表达
+P-D04-02072,u0157,meeting_minutes_format,那个 bullet 列表 @@@,v2,仅本次例外
+P-D04-02073,u0633,meeting_minutes_format,就是 bullet 列表！！！,v4,管理员导入旧偏好
+P-D04-02074,u0441,output_style,就是 简洁、少废话,v0,管理员导入旧偏好
+P-D04-02075,u0466,output_style,呃 先结论后步骤 #todo,v0,用户纠正
+P-D04-02076,u0243,search_scope,我想想 仅本地知识库,v2,用户明确表达
+P-D04-02077,u0199,meeting_minutes_format, 三段式：背景、决定、待办,v4,管理员导入旧偏好
+P-D04-02078,u0036,search_scope,呃  办公软件/模板 邮箱 user301@example.com ENDEND,v1,用户纠正
+P-D04-02079,u0539,meeting_minutes_format,"然后然后 **三段式：背景、决定、待办**
+cache=false <!-- cached -->",v4,管理员导入旧偏好
+P-D04-02080,u0313,emoji_policy,那个 允许少量 emoji [draft],v2,管理员导入旧偏好
+P-D04-02081,u0008,meeting_minutes_format, 不超过200字,v3,用户纠正
+P-D04-02082,u0497,meeting_minutes_format,麻烦 <p>不超过200字</p> ～,v2,用户纠正
+P-D04-02083,u0125,output_style,麻烦 <<<< 简洁、少废话 >>>> ENDEND,v2,管理员导入旧偏好
+P-D04-02084,u0246,answer_style,呃　先给结论，再给步骤 [draft],v3,仅本次例外
+P-D04-02085,u0720,emoji_policy,我想想　纯文本,v3,重复记录
+P-D04-02086,u0156,emoji_policy,稍等 默认允许 😅,v0,用户明确表达
+P-D04-02087,u0307,emoji_policy,然后然后 允许少量　emoji [draft],v2,用户明确表达
+P-D04-02088,u0076,emoji_policy, 纯文本,v3,用户纠正
+P-D04-02089,u0736,search_scope,嗯 <<<< 仅本地知只库 >>>>（口述）,v4,重复记录
+P-D04-02090,u0567,search_scope,[ASR]　仅本地知识库……,v2,用户纠正
+P-D04-02091,u0394,emoji_policy, 【禁用】（口述）,v0,管理员导入旧偏好
+P-D04-02092,u0222,search_scope,稍等 办公软件/模板 ENDEND,v2,用户明确表达
+P-D04-02093,u0054,answer_style,那个 <p>祥细解释每一步原因</p> 😅,v3,用户明确表达
+P-D04-02094,u0347,meeting_minutes_format,那个 不超过200字！！！,v3,管理员导入旧偏好
+P-D04-02095,u0301,search_scope,呃 仅本地知识库 ENDEND,v2,管理员导入旧偏好
+P-D04-02096,u0437,answer_style,那个  **先给结论，再给步骤** 😅,v2,重复记录
+P-D04-02097,u0012,emoji_policy,help: 默认允许（口述）,v2,管理员导入旧偏好
+P-D04-02098,u0678,meeting_minutes_format,稍等  ```不超过200字``` [draft],v0,仅本次例外
+P-D04-02099,u0052,meeting_minutes_format,我想想 bullet 列表 😅,v3,重复记录
+P-D04-02100,u0650,privacy_policy,然后然后 敏感信息只用于本轮工具调用 @@@,v4,重复记录
+P-D04-02101,u0283,output_style,那个  详细、带数据表格,v1,用户明确表达
+P-D04-02102,u0646,search_scope,其实 办公软件/模板 [draft],v4,用户明确表达
+P-D04-02103,u0006,search_scope,[ASR] 【仅本地知只库】 ～,v4,用户明确表达
+P-D04-02104,u0446,search_scope,"我想想 办公软件/模板
+stdout: OK！！！",v3,用户纠正
+P-D04-02105,u0619,search_scope,"就是  办公软件/模板
+
+<!--done-->（口述）",v0,管理员导入旧偏好
+P-D04-02106,u0553,search_scope,"[ASR] 麒麟系统/驱动
+
+<!--done--> ENDEND",v0,仅本次例外
+P-D04-02107,u0338,privacy_policy,其实 ```不保存测试手机号``` ～,v1,重复记录
+P-D04-02108,u0200,privacy_policy,稍等 敏感信息只用于本轮工具调用,v0,用户纠正
+P-D04-02109,u0141,output_style,就是 只给步骤 <!-- cached -->,v4,用户纠正
+P-D04-02110,u0567,emoji_policy,"我想想　禁用
+cache=false #todo",v1,用户纠正
+P-D04-02111,u0408,answer_style,然后然后 详细解释每一步原因……,v3,仅本次例外
+P-D04-02112,u0459,privacy_policy,"然后然后 不保存测试手机号
+cache=false",v1,仅本次例外
+P-D04-02113,u0260,output_style,就是 简洁、少废话 ～,v4,用户纠正
+P-D04-02114,u0466,meeting_minutes_format,呃 bullet 列表 [draft],v0,仅本次例外
+P-D04-02115,u0442,search_scope,啊 麒麟系统/驱动 [draft],v1,重复记录
+P-D04-02116,u0298,emoji_policy,"就是 默认允许
+stdout: OK",v4,用户纠正
+P-D04-02117,u0355,emoji_policy,稍等 允许少量  emoji [draft],v0,仅本次例外
+P-D04-02118,u0440,meeting_minutes_format,其实 三段式：背景、决定、待办 #todo,v0,仅本次例外
+P-D04-02119,u0031,meeting_minutes_format, bullet  列表！！！,v1,仅本次例外
+P-D04-02120,u0703,answer_style,稍等　<<<< 短句回复 >>>>……,v3,用户纠正
+P-D04-02121,u0765,privacy_policy,啊 敏感信息只用于本轮工具调用 @@@,v2,仅本次例外
+P-D04-02122,u0421,emoji_policy,help: 允许少量 emoji [draft],v2,管理员导入旧偏好
+P-D04-02123,u0690,privacy_policy,"那个 不保存测试手机号
+stdout: OK <!-- cached -->",v3,用户明确表达
+P-D04-02124,u0044,meeting_minutes_format,稍等 **不超过200字**（口述）,v4,用户明确表达
+P-D04-02125,u0377,privacy_policy,然后然后 敏感信息只用于本轮工具调用 [draft],v3,用户明确表达
+P-D04-02126,u0007,output_style,"麻烦 简洁、少废话
+cache=false ENDEND",v4,仅本次例外
+P-D04-02127,u0268,privacy_policy,help: 敏感信息只用于本轮工具调用 电话 13900001111 😅,v1,管理员导入旧偏好
+P-D04-02128,u0575,output_style,[ASR] 只给步骤（口述）,v1,用户纠正
+P-D04-02129,u0633,emoji_policy,啊  允许少量 emoji ENDEND,v0,用户明确表达
+P-D04-02130,u0717,meeting_minutes_format,稍等 bullet 列表 [draft],v4,管理员导入旧偏好
+P-D04-02131,u0205,output_style, <p>简洁、少废话</p>！！！,v0,仅本次例外
+P-D04-02132,u0716,output_style,稍等 简洁、少废话（口述）,v3,重复记录
+P-D04-02133,u0025,search_scope,然后然后 奇麟系统/驱动 😅,v4,用户明确表达
+P-D04-02134,u0569,answer_style, 先给结论，再给步骤 [draft],v0,仅本次例外
+P-D04-02135,u0614,emoji_policy,"然后然后　纯文本
+cache=false ～",v4,管理员导入旧偏好
+P-D04-02136,u0450,emoji_policy,其实　禁用 @@@,v2,仅本次例外
+P-D04-02137,u0158,meeting_minutes_format, 不超过200字 @@@,v3,管理员导入旧偏好
+P-D04-02138,u0738,meeting_minutes_format,那个 bullet 列表 😅,v4,仅本次例外
+P-D04-02139,u0047,output_style,就是 先结论后步骤 ～,v2,用户纠正
+P-D04-02140,u0506,search_scope,[ASR] 仅本地知识库 [draft],v2,仅本次例外
+P-D04-02141,u0548,search_scope,呃 办公软件/模板……,v4,仅本次例外
+P-D04-02142,u0079,meeting_minutes_format,啊 bullet 列表,v4,管理员导入旧偏好
+P-D04-02143,u0500,output_style,啊  先结论后步骤 😅,v0,管理员导入旧偏好
+P-D04-02144,u0048,privacy_policy,嗯  敏感信息只用于本轮工具调用 <!-- cached -->,v3,管理员导入旧偏好
+P-D04-02145,u0451,output_style,"那个 只给步骤
+
+<!--done-->……",v3,用户明确表达
+P-D04-02146,u0468,privacy_policy,我想想 不保存测试手机号 😅,v1,重复记录
+P-D04-02147,u0097,output_style,呃 祥细、带数据表格 ～,v2,管理员导入旧偏好
+P-D04-02148,u0484,output_style,就是  只给步骤,v4,仅本次例外
+P-D04-02149,u0548,privacy_policy,"我想想  【敏感信息只用于本轮工具调用】
+cache=false（口述）",v1,用户明确表达
+P-D04-02150,u0738,emoji_policy,"我想想　允许少量 emoji
+cache=false ENDEND",v1,用户纠正
+P-D04-02151,u0700,answer_style,就是 <p>详细解释每一步原因</p> @@@,v4,仅本次例外
+P-D04-02152,u0521,meeting_minutes_format,啊 bullet 列表,v4,重复记录
+P-D04-02153,u0299,answer_style,help: 先给结论，再给步骤 ～,v0,用户明确表达
+P-D04-02154,u0444,privacy_policy,就是 敏感信息只用于本轮工具调用,v0,重复记录
+P-D04-02155,u0246,privacy_policy,我想想 不保存测试手机号 #todo,v1,用户纠正
+P-D04-02156,u0495,privacy_policy,我想想  敏感信息只用于本轮工具调用 <!-- cached -->,v0,重复记录
+P-D04-02157,u0338,answer_style,我想想 祥细解释每一步原因……,v3,用户明确表达
+P-D04-02158,u0311,output_style," 祥细、带数据表格
+
+<!--done--> #todo",v3,用户明确表达
+P-D04-02159,u0104,meeting_minutes_format,然后然后 不超过200字 #todo,v2,用户纠正
+P-D04-02160,u0278,privacy_policy,help:　```不保存测试手机号```,v4,重复记录
+P-D04-02161,u0359,search_scope,呃 麒麟系统/驱动！！！,v0,管理员导入旧偏好
+P-D04-02162,u0263,privacy_policy,呃 不保存测试手机号……,v0,用户明确表达
+P-D04-02163,u0438,emoji_policy,[ASR] 纯文本 ～,v4,仅本次例外
+P-D04-02164,u0490,answer_style,麻烦 详细解释每一步原因 ENDEND,v1,管理员导入旧偏好
+P-D04-02165,u0402,search_scope,[ASR] 仅本地知识库……,v0,管理员导入旧偏好
+P-D04-02166,u0734,privacy_policy,那个 不保存测试手机号 @@@,v3,仅本次例外
+P-D04-02167,u0037,emoji_policy,麻烦 默认允许 ～,v4,用户明确表达
+P-D04-02168,u0130,emoji_policy,嗯 默认允许！！！,v1,用户纠正
+P-D04-02169,u0666,emoji_policy,[ASR] 纯文本 😅,v2,用户纠正
+P-D04-02170,u0079,privacy_policy,help: 敏感信息只用于本轮工具调用 <!-- cached -->,v4,管理员导入旧偏好
+P-D04-02171,u0790,search_scope, 办公软件/模板 ～,v3,重复记录
+P-D04-02172,u0089,search_scope,help: 仅本地知识库,v4,仅本次例外
+P-D04-02173,u0011,search_scope,那个 办公软件/模板 ～,v3,仅本次例外
+P-D04-02174,u0145,meeting_minutes_format,[ASR] 三段式：背景、决定、待办！！！,v0,管理员导入旧偏好
+P-D04-02175,u0614,meeting_minutes_format,那个 三段式：背景、决定、待办 ENDEND,v0,用户纠正
+P-D04-02176,u0069,output_style,我想想 ```先结论后步骤```！！！,v0,重复记录
+P-D04-02177,u0737,answer_style,嗯  先给结论，再给步骤（口述）,v2,用户纠正
+P-D04-02178,u0684,privacy_policy,稍等 不保存测试手机号 <!-- cached -->,v2,用户纠正
+P-D04-02179,u0326,output_style,嗯  简洁、少废话……,v3,仅本次例外
+P-D04-02180,u0035,privacy_policy,呃 不保存测试手机号 #todo,v0,重复记录
+P-D04-02181,u0130,privacy_policy,就是  不保存测试手机号 ～,v4,仅本次例外
+P-D04-02182,u0100,meeting_minutes_format,我想想 三段式：背景、决定、待办,v2,管理员导入旧偏好
+P-D04-02183,u0225,search_scope,就是 奇麟系统/驱动 @@@,v2,用户明确表达
+P-D04-02184,u0085,answer_style,嗯 短句回复 ～,v0,管理员导入旧偏好
+P-D04-02185,u0103,emoji_policy,我想想 纯文本……,v0,用户明确表达
+P-D04-02186,u0484,meeting_minutes_format,help: <<<< 不超过200字 >>>>……,v0,用户明确表达
+P-D04-02187,u0654,answer_style,那个 详细解释每一步原因！！！,v0,用户纠正
+P-D04-02188,u0375,emoji_policy,呃 纯文本 [draft],v0,重复记录
+P-D04-02189,u0766,privacy_policy,其实 不保存测试手机号……,v3,管理员导入旧偏好
+P-D04-02190,u0797,privacy_policy,呃 敏感信息只用于本轮工具调用 <!-- cached -->,v1,重复记录
+P-D04-02191,u0289,emoji_policy, 禁用 😅,v1,用户明确表达
+P-D04-02192,u0256,output_style,就是 先结论后步骤 @@@,v0,用户纠正
+P-D04-02193,u0022,privacy_policy,那个 敏感信息只用于本轮工具调用 😅,v1,仅本次例外
+P-D04-02194,u0786,search_scope, 其麟系统/驱动 <!-- cached -->,v3,用户纠正
+P-D04-02195,u0654,output_style,就是 祥细、带数据表格 电话 13900001111 ENDEND,v2,用户明确表达
+P-D04-02196,u0060,emoji_policy,"其实 <p>允许少量	emoji</p>
+cache=false #todo",v3,用户纠正
+P-D04-02197,u0046,search_scope,然后然后　麒麟系统/驱动！！！,v3,管理员导入旧偏好
+P-D04-02198,u0388,output_style,[ASR] 详细、带数据表格,v4,用户明确表达
+P-D04-02199,u0494,emoji_policy,[ASR]　**禁用**（口述）,v4,重复记录
+P-D04-02200,u0468,emoji_policy,呃  纯文本 ENDEND,v0,仅本次例外
+P-D04-02201,u0262,meeting_minutes_format,[ASR] 不超过200字,v2,用户纠正
+P-D04-02202,u0264,privacy_policy, 不保存测试手机号 ～,v1,重复记录
+P-D04-02203,u0682,search_scope,啊 麒麟系统/驱动 #todo,v3,管理员导入旧偏好
+P-D04-02204,u0546,search_scope,[ASR] 仅本地知识库 #todo,v0,用户明确表达
+P-D04-02205,u0348,answer_style,就是 短句回复 ENDEND,v1,用户纠正
+P-D04-02206,u0206,privacy_policy,然后然后 敏感信息只用于本轮工具调用 #todo,v3,用户纠正
+P-D04-02207,u0030,privacy_policy,其实 **不保存测试手机号** <!-- cached -->,v0,管理员导入旧偏好
+P-D04-02208,u0053,answer_style,呃 短句回复 #todo,v2,重复记录
+P-D04-02209,u0230,search_scope,help: 办公软件/模板 @@@,v1,管理员导入旧偏好
+P-D04-02210,u0312,answer_style,稍等 短句回复 <!-- cached -->,v1,用户纠正
+P-D04-02211,u0228,meeting_minutes_format,就是 三段式：背景、决定、待办……,v3,管理员导入旧偏好
+P-D04-02212,u0407,privacy_policy,  <<<< 敏感信息只用于本轮工具调用 >>>> [draft],v2,用户纠正
+P-D04-02213,u0136,privacy_policy,嗯 不保存测试手机号 😅,v2,仅本次例外
+P-D04-02214,u0279,meeting_minutes_format,呃 三段式：背景、决定、待办 😅,v0,重复记录
+P-D04-02215,u0634,search_scope,嗯 麒麟系统/驱动,v4,重复记录
+P-D04-02216,u0510,output_style,help: 只给步骤,v3,管理员导入旧偏好
+P-D04-02217,u0753,search_scope,那个 仅本地知识库 <!-- cached -->,v4,用户明确表达
+P-D04-02218,u0333,meeting_minutes_format,就是　<p>三段式：背景、决定、待办</p>……,v4,管理员导入旧偏好
+P-D04-02219,u0254,answer_style,啊 详细解释每一步原因 电话 13688889999 @@@,v2,用户纠正
+P-D04-02220,u0151,search_scope,啊 其麟系统/驱动 #todo,v3,用户纠正
+P-D04-02221,u0299,privacy_policy,[ASR] 不保存测试手机号……,v3,重复记录
+P-D04-02222,u0021,search_scope,就是 **麒麟系统/驱动** #todo,v3,重复记录
+P-D04-02223,,output_style,其实 简洁、少废话 ENDEND,v0,用户明确表达
+P-D04-02224,u0310,answer_style,稍等 先给结论，再给步骤 电话 13688889999 <!-- cached -->,v1,仅本次例外
+P-D04-02225,u0509,emoji_policy,麻烦 禁用 #todo,v2,管理员导入旧偏好
+P-D04-02226,u0071,answer_style,然后然后 详细解释每一步原因！！！,v0,管理员导入旧偏好
+P-D04-02227,u0763,output_style,其实 先结论后步骤（口述）,v0,重复记录
+P-D04-02228,u0660,privacy_policy,"其实  不保存测试手机号
+
+<!--done--> [draft]",v3,重复记录
+P-D04-02229,u0282,meeting_minutes_format,help: bullet 列表,v3,管理员导入旧偏好
+P-D04-02230,u0148,privacy_policy,嗯 敏感信息只用于本轮工具调用 #todo,v1,管理员导入旧偏好
+P-D04-02231,u0446,emoji_policy,啊 禁用,v3,用户纠正
+P-D04-02232,u0394,meeting_minutes_format,[ASR] 不超过200字 [draft],v0,用户纠正
+P-D04-02233,u0583,answer_style,麻烦 先给结论，再给步骤 ENDEND,v4,用户纠正
+P-D04-02234,u0489,meeting_minutes_format,呃 三段式：背景、决定、待办 #todo,v3,用户纠正
+P-D04-02235,u0216,output_style,[ASR] 详细、带数据表格,v1,管理员导入旧偏好
+P-D04-02236,u0175,privacy_policy,然后然后　敏感信息只用于本轮工具调用 <!-- cached -->,v4,用户纠正
+P-D04-02237,u0342,privacy_policy, 敏感信息只用于本轮工具调用 ～,v0,仅本次例外
+P-D04-02238,u0033,search_scope,"啊 麒麟系统/驱动
+
+<!--done--> @@@",v0,用户纠正
+P-D04-02239,u0575,search_scope,就是 仅本地知识库 ENDEND,v4,仅本次例外
+P-D04-02240,u0703,emoji_policy,就是  禁用 #todo,v3,用户纠正
+P-D04-02241,,privacy_policy,"其实 不保存测试手机号
+cache=false（口述）",v0,仅本次例外
+P-D04-02242,u0534,output_style,就是 <<<< 先结论后步骤 >>>>！！！,v0,管理员导入旧偏好
+P-D04-02243,u0153,search_scope,嗯 【仅本地知只库】 <!-- cached -->,v4,用户纠正
+P-D04-02244,u0090,privacy_policy,稍等 敏感信息只用于本轮工具调用！！！,v1,管理员导入旧偏好
+P-D04-02245,u0384,emoji_policy,就是 允许少量 emoji……,v1,用户纠正
+P-D04-02246,u0781,emoji_policy,就是 纯文本 #todo,v2,重复记录
+P-D04-02247,u0404,meeting_minutes_format,啊 不超过200字 😅,v3,用户纠正
+P-D04-02248,u0456,output_style,那个 详细、带数据表格 <!-- cached -->,v3,用户纠正
+P-D04-02249,u0083,answer_style,那个 短句回复 #todo,v3,用户纠正
+P-D04-02250,u0393,output_style,其实 先结论后步骤 [draft],v0,重复记录
+P-D04-02251,u0321,privacy_policy,然后然后　<<<< 敏感信息只用于本轮工具调用 >>>> #todo,v0,管理员导入旧偏好
+P-D04-02252,u0217,answer_style,啊　短句回复 😅,v4,仅本次例外
+P-D04-02253,u0666,privacy_policy,稍等  不保存测试手机号！！！,v3,重复记录
+P-D04-02254,u0374,search_scope,help: 办公软件/模板（口述）,v2,用户纠正
+P-D04-02255,u0248,search_scope,嗯 <<<< 仅本地知识库 >>>>,v0,仅本次例外
+P-D04-02256,u0022,privacy_policy,就是　不保存测试手机号 #todo,v0,用户明确表达
+P-D04-02257,u0565,privacy_policy,其实 【敏感信息只用于本轮工具调用】 <!-- cached -->,v4,用户纠正
+P-D04-02258,u0066,privacy_policy,  <p>敏感信息只用于本轮工具调用</p> ENDEND,v0,管理员导入旧偏好
+P-D04-02259,u0514,emoji_policy,麻烦 纯文本 @@@,v1,用户明确表达
+P-D04-02260,u0326,search_scope,那个  办公软件/模板……,v0,仅本次例外
+P-D04-02261,u0774,meeting_minutes_format,  <p>三段式：背景、决定、待办</p> ～,v2,仅本次例外
+P-D04-02262,u0383,output_style, 只给步骤 @@@,v0,用户纠正
+P-D04-02263,u0679,privacy_policy,呃　不保存测试手机号 <!-- cached -->,v1,仅本次例外
+P-D04-02264,u0583,meeting_minutes_format,我想想 **bullet 列表** 😅,v1,管理员导入旧偏好
+P-D04-02265,u0691,output_style,[ASR] 先结论后步骤！！！,v3,用户纠正
+P-D04-02266,u0044,privacy_policy,嗯 不保存测试手机号（口述）,v1,管理员导入旧偏好
+P-D04-02267,u0193,meeting_minutes_format,[ASR]  不超过200字 [draft],v4,仅本次例外
+P-D04-02268,u0693,output_style,其实 先结论后步骤（口述）,v2,管理员导入旧偏好
+P-D04-02269,u0261,privacy_policy,呃 不保存测试手机号（口述）,v3,重复记录
+P-D04-02270,u0704,meeting_minutes_format,那个 bullet 列表 #todo,v3,用户纠正
+P-D04-02271,u0519,search_scope,我想想 仅本地知只库 [draft],v0,重复记录
+P-D04-02272,u0747,output_style,其实  先结论后步骤 <!-- cached -->,v2,重复记录
+P-D04-02273,u0383,output_style,啊  【简洁、少废话】 #todo,v4,重复记录
+P-D04-02274,u0406,output_style,呃 <<<< 祥细、带数据表格 >>>>！！！,v3,用户纠正
+P-D04-02275,u0653,output_style,help: 只给步骤 ～,v3,仅本次例外
+P-D04-02276,u0300,search_scope,help: ```办公软件/模板``` <!-- cached -->,v1,管理员导入旧偏好
+P-D04-02277,u0207,output_style, 简洁、少废话 <!-- cached -->,v2,重复记录
+P-D04-02278,u0250,search_scope,那个 奇麟系统/驱动 ～,v3,管理员导入旧偏好
+P-D04-02279,u0183,emoji_policy,help: 允许少量 emoji [draft],v2,用户明确表达
+P-D04-02280,u0177,search_scope,那个 仅本地知只库！！！,v2,仅本次例外
+P-D04-02281,u0727,output_style,那个  祥细、带数据表格！！！,v0,用户明确表达
+P-D04-02282,u0691,privacy_policy,呃 不保存测试手机号（口述）,v0,管理员导入旧偏好
+P-D04-02283,u0171,privacy_policy, 不保存测试手机号 😅,v0,仅本次例外
+P-D04-02284,u0295,meeting_minutes_format,help:  三段式：背景、决定、待办！！！,v4,管理员导入旧偏好
+P-D04-02285,u0449,output_style,help: 只给步骤,v0,重复记录
+P-D04-02286,u0184,meeting_minutes_format,麻烦 三段式：背景、决定、待办 <!-- cached -->,v0,用户明确表达
+P-D04-02287,u0777,search_scope,其实 办公软件/模板（口述）,v1,仅本次例外
+P-D04-02288,u0313,privacy_policy,[ASR] 敏感信息只用于本轮工具调用！！！,v0,用户纠正
+P-D04-02289,u0391,meeting_minutes_format," 三段式：背景、决定、待办
+stdout: OK 邮箱 user69@example.com #todo",v4,重复记录
+P-D04-02290,u0043,answer_style,麻烦 详细解释每一步原因 <!-- cached -->,v3,用户明确表达
+P-D04-02291,u0735,output_style,其实 先结论后步骤 ～,v1,重复记录
+P-D04-02292,u0303,meeting_minutes_format,稍等 三段式：背景、决定、待办（口述）,v2,重复记录
+P-D04-02293,u0784,emoji_policy,help:  默认允许 #todo,v2,用户明确表达
+P-D04-02294,u0513,answer_style,　短句回复,v2,用户明确表达
+P-D04-02295,u0224,answer_style,嗯 先给结论，再给步骤 @@@,v4,管理员导入旧偏好
+P-D04-02296,u0132,meeting_minutes_format,help: 不超过200字（口述）,v1,用户明确表达
+P-D04-02297,u0592,emoji_policy,　默认允许……,v3,用户纠正
+P-D04-02298,u0577,answer_style,嗯 短句回复 @@@,v3,用户纠正
+P-D04-02299,u0268,meeting_minutes_format,啊 【bullet 列表】……,v2,用户纠正
+P-D04-02300,u0137,output_style,稍等 只给步骤 ～,v4,用户纠正
+P-D04-02301,u0773,emoji_policy,啊 纯文本（口述）,v0,用户纠正
+P-D04-02302,u0401,answer_style,嗯  详细解释每一步原因……,v1,仅本次例外
+P-D04-02303,u0159,meeting_minutes_format,嗯 <p>不超过200字</p> #todo,v2,重复记录
+P-D04-02304,u0442,search_scope,help:  麒麟系统/驱动 😅,v1,管理员导入旧偏好
+P-D04-02305,u0460,output_style,那个 <<<< 只给步骤 >>>>……,v4,仅本次例外
+P-D04-02306,u0753,meeting_minutes_format,那个 <<<< bullet 列表 >>>>……,v1,管理员导入旧偏好
+P-D04-02307,u0231,emoji_policy, <<<< 允许少量 emoji >>>> ～,v0,用户纠正
+P-D04-02308,u0785,answer_style,[ASR] 详细解释每一步原因 😅,v2,管理员导入旧偏好
+P-D04-02309,u0638,output_style,help: **先结论后步骤** 😅,v3,用户纠正
+P-D04-02310,u0581,search_scope,稍等 办公软件/模板 ENDEND,v3,重复记录
+P-D04-02311,u0440,privacy_policy,然后然后  不保存测试手机号！！！,v0,用户纠正
+P-D04-02312,u0781,emoji_policy,[ASR] 默认允许 <!-- cached -->,v0,用户纠正
+P-D04-02313,u0354,privacy_policy,然后然后 不保存测试手机号 [draft],v4,重复记录
+P-D04-02314,u0026,privacy_policy,然后然后 敏感信息只用于本轮工具调用 <!-- cached -->,v0,用户明确表达
+P-D04-02315,u0157,search_scope,嗯 ```麒麟系统/驱动``` ～,v3,重复记录
+P-D04-02316,u0728,emoji_policy,其实 纯文本 ENDEND,v2,管理员导入旧偏好
+P-D04-02317,u0287,answer_style,然后然后 先给结论，再给步骤 [draft],v1,用户明确表达
+P-D04-02318,u0576,privacy_policy,然后然后  敏感信息只用于本轮工具调用 @@@,v0,重复记录
+P-D04-02319,u0067,emoji_policy,我想想 <<<<　纯文本　>>>>（口述）,v0,管理员导入旧偏好
+P-D04-02320,u0227,emoji_policy,稍等 默认允许 😅,v3,用户明确表达
+P-D04-02321,u0797,meeting_minutes_format,其实 不超过200字 ～,v4,仅本次例外
+P-D04-02322,u0256,output_style,啊 只给步骤 <!-- cached -->,v1,仅本次例外
+P-D04-02323,,emoji_policy,啊 允许少量 emoji！！！,v4,重复记录
+P-D04-02324,u0424,privacy_policy,我想想 不保存测试手机号 @@@,v1,用户纠正
+P-D04-02325,u0610,search_scope,呃 办公软件/模板,v3,仅本次例外
+P-D04-02326,u0675,answer_style,　祥细解释每一步原因！！！,v0,用户明确表达
+P-D04-02327,u0664,answer_style,我想想 先给结论，再给步骤,v2,用户明确表达
+P-D04-02328,u0041,privacy_policy,其实 不保存测试手机号 <!-- cached -->,v3,用户明确表达
+P-D04-02329,u0745,privacy_policy,那个 敏感信息只用于本轮工具调用 😅,v4,重复记录
+P-D04-02330,u0037,search_scope,就是 麒麟系统/驱动,v3,重复记录
+P-D04-02331,u0648,output_style, 【详细、带数据表格】,v2,用户明确表达
+P-D04-02332,u0216,search_scope,其实 办公软件/模板 @@@,v4,管理员导入旧偏好
+P-D04-02333,u0589,emoji_policy,help: 允许少量 emoji [draft],v4,管理员导入旧偏好
+P-D04-02334,u0782,meeting_minutes_format,那个 bullet 列表 #todo,v1,重复记录
+P-D04-02335,u0021,meeting_minutes_format,[ASR] <<<< bullet 列表 >>>> #todo,v0,仅本次例外
+P-D04-02336,,privacy_policy,然后然后 敏感信息只用于本轮工具调用（口述）,v0,管理员导入旧偏好
+P-D04-02337,u0677,meeting_minutes_format, 不超过200字 😅,v1,管理员导入旧偏好
+P-D04-02338,u0611,search_scope,[ASR] 麒麟系統系统/驱动！！！,v0,用户明确表达
+P-D04-02339,u0244,meeting_minutes_format,"嗯 bullet	列表
+stdout: OK ENDEND",v4,用户明确表达
+P-D04-02340,u0669,meeting_minutes_format,稍等  bullet 列表 @@@,v4,仅本次例外
+P-D04-02341,u0445,meeting_minutes_format,其实 不超过200字 <!-- cached -->,v1,仅本次例外
+P-D04-02342,u0209,output_style,我想想  只给步骤 @@@,v4,重复记录
+P-D04-02343,u0246,emoji_policy,麻烦　纯文本 😅,v1,用户明确表达
+P-D04-02344,u0509,search_scope,麻烦 办公软件/模板（口述）,v2,仅本次例外
+P-D04-02345,u0477,emoji_policy,呃 禁用 😅,v0,用户明确表达
+P-D04-02346,u0399,answer_style,"我想想 短句回复
+
+<!--done--> <!-- cached -->",v0,用户明确表达
+P-D04-02347,u0155,meeting_minutes_format,然后然后 bullet 列表 ～,v2,重复记录
+P-D04-02348,u0214,answer_style,[ASR] 祥细解释每一步原因 ～,v1,重复记录
+P-D04-02349,u0080,privacy_policy,啊 <<<< 敏感信息只用于本轮工具调用 >>>> <!-- cached -->,v4,用户明确表达
+P-D04-02350,u0040,output_style,"其实 【只给步骤】
+
+<!--done--> ENDEND",v2,用户明确表达
+P-D04-02351,u0129,output_style,嗯 先结论后步骤 #todo,v3,用户明确表达
+P-D04-02352,u0634,privacy_policy,"[ASR] 敏感信息只用于本轮工具调用
+stdout: OK 😅",v4,管理员导入旧偏好
+P-D04-02353,u0174,search_scope,那个 办公软件/模板！！！,v1,用户纠正
+P-D04-02354,u0390,output_style,那个 简洁、少废话,v1,重复记录
+P-D04-02355,u0479,output_style, 简洁、少废话 😅,v1,重复记录
+P-D04-02356,u0395,meeting_minutes_format,呃 三段式：背景、决定、待办！！！,v0,重复记录
+P-D04-02357,u0389,output_style,　只给步骤,v1,用户纠正
+P-D04-02358,u0320,emoji_policy,就是 默认允许 ENDEND,v4,用户明确表达
+P-D04-02359,u0140,answer_style,  详细解释每一步原因 @@@,v2,仅本次例外
+P-D04-02360,u0555,answer_style,就是 先给结论，再给步骤,v2,用户纠正
+P-D04-02361,u0339,privacy_policy,help: 不保存测试手机号 [draft],v3,管理员导入旧偏好
+P-D04-02362,u0341,privacy_policy,稍等 敏感信息只用于本轮工具调用 ENDEND,v2,仅本次例外
+P-D04-02363,u0687,meeting_minutes_format,"啊　bullet 列表
+
+<!--done--> #todo",v0,重复记录
+P-D04-02364,u0274,output_style,我想想 只给步骤 😅,v0,重复记录
+P-D04-02365,u0060,answer_style,呃 先给结论，再给步骤 <!-- cached -->,v4,用户纠正
+P-D04-02366,u0320,answer_style,稍等　短句回复 ～,v2,管理员导入旧偏好
+P-D04-02367,u0271,meeting_minutes_format,嗯 不超过200字（口述）,v4,用户纠正
+P-D04-02368,u0059,emoji_policy,稍等  ```允许少量 emoji```……,v1,仅本次例外
+P-D04-02369,u0146,output_style,其实 先结论后步骤 ENDEND,v3,用户纠正
+P-D04-02370,u0375,output_style,我想想 简洁、少废话 [draft],v2,用户纠正
+P-D04-02371,u0128,privacy_policy,呃 不保存测试手机号！！！,v2,用户明确表达
+P-D04-02372,u0780,meeting_minutes_format,嗯 bullet 列表 [draft],v3,管理员导入旧偏好
+P-D04-02373,u0095,privacy_policy,呃 【不保存测试手机号】 [draft],v0,重复记录
+P-D04-02374,u0546,emoji_policy,我想想 允许少量 emoji ～,v1,管理员导入旧偏好
+P-D04-02375,u0787,search_scope,其实 办公软件/模板 @@@,v0,仅本次例外
+P-D04-02376,u0190,meeting_minutes_format,呃 三段式：背景、决定、待办 ENDEND,v2,重复记录
+P-D04-02377,u0407,answer_style,稍等 详细解释每一步原因……,v2,用户纠正
+P-D04-02378,u0010,search_scope,稍等 办公软件/模板（口述）,v0,用户纠正
+P-D04-02379,u0347,privacy_policy,呃 敏感信息只用于本轮工具调用 <!-- cached -->,v1,重复记录
+P-D04-02380,u0093,answer_style,呃 短句回复 ～,v4,用户纠正
+P-D04-02381,u0388,emoji_policy,我想想  【纯文本】 [draft],v2,仅本次例外
+P-D04-02382,u0164,privacy_policy, 敏感信息只用于本轮工具调用 #todo,v3,重复记录
+P-D04-02383,u0537,search_scope,然后然后 仅本地知只库 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-02384,u0766,privacy_policy,就是　不保存测试手机号 ENDEND,v4,重复记录
+P-D04-02385,u0765,meeting_minutes_format,那个 三段式：背景、决定、待办 😅,v0,仅本次例外
+P-D04-02386,u0257,privacy_policy,就是 不保存测试手机号……,v0,用户纠正
+P-D04-02387,u0391,output_style,[ASR] 祥细、带数据表格 ENDEND,v0,用户明确表达
+P-D04-02388,u0461,emoji_policy,那个 禁用 #todo,v3,用户明确表达
+P-D04-02389,u0485,meeting_minutes_format,[ASR] 三段式：背景、决定、待办！！！,v3,用户明确表达
+P-D04-02390,u0211,search_scope,啊 <<<< 奇麟系统/驱动 >>>> ENDEND,v3,仅本次例外
+P-D04-02391,u0594,meeting_minutes_format, 不超过200字 #todo,v1,用户明确表达
+P-D04-02392,u0540,answer_style,稍等 详细解释每一步原因（口述）,v3,用户明确表达
+P-D04-02393,u0745,privacy_policy,"稍等 不保存测试手机号
+
+<!--done--> #todo",v2,重复记录
+P-D04-02394,u0123,meeting_minutes_format,嗯 三段式：背景、决定、待办 ENDEND,v3,管理员导入旧偏好
+P-D04-02395,u0640,meeting_minutes_format,然后然后  不超过200字 [draft],v4,管理员导入旧偏好
+P-D04-02396,u0741,privacy_policy,那个 不保存测试手机号 <!-- cached -->,v0,管理员导入旧偏好
+P-D04-02397,u0687,meeting_minutes_format,help: 【不超过200字】 @@@,v2,用户纠正
+P-D04-02398,u0184,meeting_minutes_format,稍等 【bullet 列表】！！！,v1,管理员导入旧偏好
+P-D04-02399,u0430,search_scope,[ASR] 办公软件/模板 #todo,v4,重复记录
+P-D04-02400,u0035,search_scope,嗯 办公软件/模板 ENDEND,v0,管理员导入旧偏好
+P-D04-02401,,privacy_policy,其实　<p>敏感信息只用于本轮工具调用</p> 😅,v0,重复记录
+P-D04-02402,u0130,privacy_policy,啊  不保存测试手机号 @@@,v3,管理员导入旧偏好
+P-D04-02403,u0105,search_scope,稍等 奇麟系统/驱动 😅,v4,用户纠正
+P-D04-02404,u0452,meeting_minutes_format,稍等 bullet 列表（口述）,v0,重复记录
+P-D04-02405,u0339,emoji_policy,其实 纯文本 ～,v1,重复记录
+P-D04-02406,u0408,meeting_minutes_format,[ASR] 【三段式：背景、决定、待办】 <!-- cached -->,v3,仅本次例外
+P-D04-02407,u0075,search_scope,"[ASR] 仅本地知识库
+
+<!--done--> ～",v2,管理员导入旧偏好
+P-D04-02408,u0582,meeting_minutes_format,麻烦 【bullet 列表】 @@@,v3,仅本次例外
+P-D04-02409,u0636,emoji_policy,稍等 允许少量 emoji,v1,管理员导入旧偏好
+P-D04-02410,u0015,privacy_policy,[ASR] 不保存测试手机号 ENDEND,v0,仅本次例外
+P-D04-02411,u0138,search_scope,那个 麒麟系統系统/驱动,v4,重复记录
+P-D04-02412,u0667,search_scope,啊 仅本地知识库 😅,v4,用户纠正
+P-D04-02413,u0477,emoji_policy,麻烦  纯文本！！！,v2,用户明确表达
+P-D04-02414,u0476,meeting_minutes_format,嗯 【不超过200字】 ENDEND,v3,管理员导入旧偏好
+P-D04-02415,u0057,privacy_policy,那个 不保存测试手机号 @@@,v0,管理员导入旧偏好
+P-D04-02416,u0649,answer_style,嗯 先给结论，再给步骤 ENDEND,v1,仅本次例外
+P-D04-02417,u0152,answer_style,稍等 先给结论，再给步骤（口述）,v4,用户纠正
+P-D04-02418,u0471,emoji_policy,就是 禁用 ENDEND,v3,仅本次例外
+P-D04-02419,u0068,meeting_minutes_format,呃 不超过200字 @@@,v4,用户纠正
+P-D04-02420,u0125,answer_style,呃 祥细解释每一步原因,v4,重复记录
+P-D04-02421,u0163,output_style,嗯 只给步骤……,v1,仅本次例外
+P-D04-02422,u0504,meeting_minutes_format,然后然后 三段式：背景、决定、待办 😅,v2,用户明确表达
+P-D04-02423,u0222,answer_style,嗯 详细解释每一步原因（口述）,v0,用户明确表达
+P-D04-02424,u0171,emoji_policy,就是 <<<< 默认允许 >>>> ENDEND,v0,管理员导入旧偏好
+P-D04-02425,u0339,meeting_minutes_format,就是 不超过200字 #todo,v1,仅本次例外
+P-D04-02426,u0329,privacy_policy, 不保存测试手机号,v2,仅本次例外
+P-D04-02427,u0514,emoji_policy,[ASR]  禁用！！！,v0,管理员导入旧偏好
+P-D04-02428,u0089,answer_style,呃 详细解释每一步原因（口述）,v1,管理员导入旧偏好
+P-D04-02429,u0716,output_style,[ASR] <<<< 先结论后步骤 >>>>,v0,重复记录
+P-D04-02430,u0780,meeting_minutes_format,[ASR] 不超过200字 #todo,v1,仅本次例外
+P-D04-02431,u0759,answer_style,其实 详细解释每一步原因,v2,仅本次例外
+P-D04-02432,u0034,meeting_minutes_format,help:　bullet 列表（口述）,v2,仅本次例外
+P-D04-02433,u0721,meeting_minutes_format,然后然后 bullet 列表 ENDEND,v0,用户明确表达
+P-D04-02434,u0671,output_style,其实 <<<< 只给步骤 >>>> @@@,v2,用户纠正
+P-D04-02435,u0722,search_scope, 仅本地知识库（口述）,v1,仅本次例外
+P-D04-02436,u0308,meeting_minutes_format,稍等　三段式：背景、决定、待办 ～,v3,用户纠正
+P-D04-02437,u0667,search_scope,help: 办公软件/模板 [draft],v0,重复记录
+P-D04-02438,u0556,meeting_minutes_format,嗯 不超过200字 [draft],v1,管理员导入旧偏好
+P-D04-02439,u0760,output_style,麻烦 先结论后步骤……,v1,管理员导入旧偏好
+P-D04-02440,u0346,search_scope,嗯 仅本地知只库（口述）,v2,管理员导入旧偏好
+P-D04-02441,u0799,privacy_policy,"就是 敏感信息只用于本轮工具调用
+stdout: OK",v1,用户明确表达
+P-D04-02442,u0354,output_style,稍等 只给步骤 ～,v4,重复记录
+P-D04-02443,u0532,emoji_policy,"我想想 允许少量 emoji
+
+<!--done--> 😅",v3,管理员导入旧偏好
+P-D04-02444,u0264,output_style,其实 先结论后步骤 😅,v0,重复记录
+P-D04-02445,u0201,privacy_policy,我想想 不保存测试手机号 [draft],v4,用户纠正
+P-D04-02446,u0032,emoji_policy,呃 允许少量 emoji @@@,v2,用户纠正
+P-D04-02447,u0384,output_style,那个  祥细、带数据表格 @@@,v3,仅本次例外
+P-D04-02448,u0098,search_scope,那个 办公软件/模板 😅,v3,仅本次例外
+P-D04-02449,u0246,meeting_minutes_format, bullet 列表 [draft],v2,用户明确表达
+P-D04-02450,u0800,answer_style,稍等 【短句回复】 <!-- cached -->,v3,仅本次例外
+P-D04-02451,u0159,output_style,help: 简洁、少废话 <!-- cached -->,v2,仅本次例外
+P-D04-02452,u0221,meeting_minutes_format,稍等 bullet 列表 ENDEND,v3,用户明确表达
+P-D04-02453,u0539,meeting_minutes_format,啊  三段式：背景、决定、待办 #todo,v4,用户纠正
+P-D04-02454,u0128,meeting_minutes_format,呃　三段式：背景、决定、待办,v0,管理员导入旧偏好
+P-D04-02455,u0185,answer_style,其实 短句回复……,v4,用户明确表达
+P-D04-02456,u0170,output_style,呃 只给步骤 ～,v3,仅本次例外
+P-D04-02457,u0704,search_scope,我想想 仅本地知识库 😅,v2,用户明确表达
+P-D04-02458,u0395,output_style,"嗯 只给步骤
+stdout: OK 😅",v4,仅本次例外
+P-D04-02459,u0192,meeting_minutes_format,嗯 不超过200字（口述）,v1,用户明确表达
+P-D04-02460,u0700,emoji_policy,稍等 默认允许 @@@,v0,用户明确表达
+P-D04-02461,u0339,meeting_minutes_format,其实 不超过200字 #todo,v0,管理员导入旧偏好
+P-D04-02462,u0425,output_style,然后然后 详细、带数据表格……,v2,用户明确表达
+P-D04-02463,u0733,answer_style,"稍等　短句回复
+cache=false @@@",v4,用户纠正
+P-D04-02464,u0797,search_scope,嗯　仅本地知只库 #todo,v3,用户纠正
+P-D04-02465,u0589,output_style,然后然后  只给步骤 <!-- cached -->,v3,重复记录
+P-D04-02466,u0347,privacy_policy,  敏感信息只用于本轮工具调用 [draft],v3,用户明确表达
+P-D04-02467,u0145,output_style,然后然后　<p>简洁、少废话</p> #todo,v4,用户纠正
+P-D04-02468,u0128,output_style,然后然后　**详细、带数据表格**（口述）,v3,管理员导入旧偏好
+P-D04-02469,u0375,emoji_policy,我想想 禁用（口述）,v0,管理员导入旧偏好
+P-D04-02470,,meeting_minutes_format, 三段式：背景、决定、待办……,v4,管理员导入旧偏好
+P-D04-02471,u0447,search_scope,help: 办公软件/模板！！！,v2,管理员导入旧偏好
+P-D04-02472,u0305,privacy_policy,我想想 敏感信息只用于本轮工具调用 #todo,v2,用户明确表达
+P-D04-02473,u0204,emoji_policy,麻烦 默认允许（口述）,v3,用户明确表达
+P-D04-02474,u0160,emoji_policy,[ASR] 允许少量 emoji 😅,v4,重复记录
+P-D04-02475,u0199,search_scope,麻烦 仅本地知识库 ～,v3,重复记录
+P-D04-02476,u0602,meeting_minutes_format,嗯 三段式：背景、决定、待办 电话 13812345678 @@@,v4,用户明确表达
+P-D04-02477,u0678,privacy_policy,其实 不保存测试手机号……,v4,用户明确表达
+P-D04-02478,u0128,answer_style, 祥细解释每一步原因,v0,用户纠正
+P-D04-02479,u0744,search_scope,啊 仅本地知只库……,v1,管理员导入旧偏好
+P-D04-02480,u0508,privacy_policy,啊 不保存测试手机号……,v2,用户纠正
+P-D04-02481,u0038,answer_style,然后然后 先给结论，再给步骤 [draft],v1,管理员导入旧偏好
+P-D04-02482,u0124,meeting_minutes_format,　```不超过200字```！！！,v3,重复记录
+P-D04-02483,u0448,emoji_policy,那个 【纯文本】（口述）,v4,管理员导入旧偏好
+P-D04-02484,u0591,privacy_policy,啊 不保存测试手机号 <!-- cached -->,v1,用户纠正
+P-D04-02485,u0578,search_scope,我想想 <p>办公软件/模板</p> ～,v4,重复记录
+P-D04-02486,u0024,output_style,然后然后 祥细、带数据表格 [draft],v0,用户明确表达
+P-D04-02487,u0617,answer_style,稍等　详细解释每一步原因……,v0,用户明确表达
+P-D04-02488,u0176,meeting_minutes_format,我想想　不超过200字,v4,仅本次例外
+P-D04-02489,u0509,answer_style,就是 先给结论，再给步骤,v2,用户纠正
+P-D04-02490,u0728,privacy_policy,我想想 不保存测试手机号 😅,v3,用户明确表达
+P-D04-02491,,meeting_minutes_format,就是  三段式：背景、决定、待办 😅,v1,管理员导入旧偏好
+P-D04-02492,u0046,meeting_minutes_format,呃　不超过200字 <!-- cached -->,v4,用户纠正
+P-D04-02493,u0764,emoji_policy,help: 允许少量 emoji！！！,v3,仅本次例外
+P-D04-02494,u0139,privacy_policy,就是 不保存测试手机号 [draft],v1,重复记录
+P-D04-02495,u0167,privacy_policy,我想想 不保存测试手机号 😅,v3,管理员导入旧偏好
+P-D04-02496,u0411,search_scope,[ASR] 办公软件/模板 @@@,v3,管理员导入旧偏好
+P-D04-02497,u0237,privacy_policy,呃 不保存测试手机号 #todo,v4,重复记录
+P-D04-02498,u0138,answer_style,那个 ```详细解释每一步原因``` <!-- cached -->,v4,重复记录
+P-D04-02499,u0563,output_style,help: 简洁、少废话 ENDEND,v1,用户明确表达

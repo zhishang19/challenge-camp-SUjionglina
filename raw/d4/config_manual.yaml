@@ -1,0 +1,16 @@
+# 管理员手动配置 - 注意有格式问题供学生处理
+agent:
+  name: "Kylin-Office-Agent"
+  memory:
+    short_term_ttl: 3600
+    medium_term_ttl: 86400
+preferences_defaults:
+  output_style: "简洁"
+  emoji_policy: "允许"   # 与 U002 冲突，需标记 conflict
+security:
+  sensitive_patterns:
+    - "phone:1[3-9]\\d{9}"
+    - "email:.+@.+"
+  forget_commands:
+    - "别记下来"
+    - "忘记这个"

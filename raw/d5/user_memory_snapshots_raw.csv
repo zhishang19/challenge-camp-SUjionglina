@@ -1,0 +1,12 @@
+uid,memory_key,memory_value,scope,version,last_seen,note
+u001,output_style,"简洁、少废话",long,v1,2026-06-04 09:00,"旧偏好"
+U001,output_style,"详细版、带数据表格",long,v2,2026-06-04 09:01,"应覆盖 v1"
+u002,emoji_policy,"允许",default,v0,2026-06-01,"系统默认"
+u002,emoji_policy,"禁用",long,v1,2026-06-04 10:15,"用户明确表达"
+u003,driver_update_entry,"系统更新",knowledge,v1,2026-06-04 14:00,"旧答案"
+u003,driver_update_entry,"驱动管理器",knowledge,v2,2026-06-04 18:30,"用户纠正"
+u005,meeting_minutes_format,"三段式：背景、决定、待办",long,v1,2026-06-04 17:20,"长期偏好"
+u005,meeting_minutes_format,"bullet 列表",short,v2,2026-06-04 17:22,"仅本次"
+u006,phone,"13900001111",long,v1,2026-06-04 18:10,"错误写入，应移除"
+u007,answer_style,"先结论后步骤，不要太长",long,v1,,"时间缺失"
+u007,answer_style,"详细解释，每一步写原因",long,v2,2026-06-05 09:10,"含错别字"

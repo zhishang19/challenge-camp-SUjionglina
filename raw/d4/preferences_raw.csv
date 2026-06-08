@@ -1,0 +1,13 @@
+pref_id,uid,pref_key,pref_value,version,note
+P1,u001,output_style,"简洁、少废话",v1,"从对话 S100 抽取"
+P2,u001,output_style,"详细、带数据表格",v2,"用户纠正 @@@"
+P3,U002,emoji_policy,"禁用",v1,"句首有 呃…就是…"
+P4,u003,search_scope,"奇麟系统/驱动",v1,"含错别字 奇麟"
+P5,u001,output_style,"简洁、少废话",v1,"重复记录"
+P6,,security_level,"高",v1,"uid 缺失"
+P7,U005,meeting_minutes_format,"三段式：背景、决定、待办",v1,"用户明确要求记住"
+P8,U005,meeting_minutes_format,"bullet 列表",v2,"仅本次例外，不应覆盖长期偏好"
+P9,u002,emoji_policy,"允许少量 emoji",v0,"管理员导入旧偏好，与用户表达冲突"
+P10,u006,privacy_policy,"不保存测试手机号",v1,"从 S105 抽取"
+P11,u003,driver_update_entry,"系统更新",v1,"旧知识"
+P12,u003,driver_update_entry,"驱动管理器",v2,"用户纠正，需覆盖旧知识"
